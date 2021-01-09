@@ -1,0 +1,17 @@
+main:
+  - title: "Home"
+    url: "/"
+  - title: "Courses"
+    url: "https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning"
+  #- title: "Discourse"
+  #  url: "https://tinyml.trydiscourse.com/"
+  - title: "FAQs"
+    url: /FAQs/
+  - title: "Team"
+    url: /team/
+  - title: "GitHub"
+    url: "https://github.com/tinyMLx"
+  - title: "tinyML Kit"
+    url: "https://store.arduino.cc/usa/tiny-machine-learning-kit"
+  - title: "tinyML Foundation"
+    url: "https://tinyml.org/home/"
