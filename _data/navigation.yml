@@ -3,10 +3,8 @@ main:
     url: "/"
   - title: "Courses"
     url: "https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning"
-  #- title: "Discourse"
-  #  url: "https://tinyml.trydiscourse.com/"
-  - title: "FAQs"
-    url: /FAQs/
+  - title: "Discuss"
+    url: "https://discuss.tinymlx.org"
   - title: "Team"
     url: /team/
   - title: "GitHub"
