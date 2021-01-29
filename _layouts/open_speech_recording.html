@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Open Speech Recording</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      html, body {
+        height: 100%;
+      }
+
+      body {
+        font-family: "Roboto Mono", monospace;
+        font-size: 0.8rem;
+      }
+
+      .wrapper {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+      }
+
+      h1, h2 {
+        font-size: 2rem;
+        text-align: center;
+        font-weight: normal;
+        padding: 0.5rem 0 0 0;
+      }
+
+      .main-controls {
+        padding: 0.5rem 0;
+      }
+
+      .top-display {
+        font-size: 1.5rem;
+        text-align: center;
+        padding: 3.0rem 0.5rem 2.0rem 0.5rem;
+      }
+
+      .directions {
+        font-size: 1.0rem;
+        text-align: left;
+      }
+
+      .welcome-display {
+        font-size: 1rem;
+        text-align: center;
+        padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+      }
+
+      .legal {
+        font-size: 1.0rem;
+        text-align: left;
+        padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+        font-family: Arial;
+      }
+
+      canvas {
+        width: 100%;
+        height: 60px;
+        display: block;
+        margin-bottom: 0.5rem;
+      }
+
+      #buttons {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+      }
+
+      #buttons button {
+        font-size: 1rem;
+        padding: 1rem;
+        width: calc(33% - 0.25rem);
+      }
+
+      button {
+        font-size: 1rem;
+        background: #0088cc;
+        text-align: center;
+        color: white;
+        border: none;
+        transition: all 0.2s;
+        padding: 0.5rem;
+      }
+
+      button:hover:enabled, button:focus:enabled {
+        box-shadow: inset 0px 0px 10px rgba(255, 255, 255, 1);
+        background: #0ae;
+      }
+
+      button:active:enabled {
+        box-shadow: inset 0px 0px 20px rgba(0,0,0,0.5);
+        transform: translateY(2px);
+      }
+
+      button:disabled {
+        background: #888888;
+      }
+
+      .continue-link {
+        width:33%;
+        margin-left: 33%;
+      }
+
+      #buttons .continue {
+        width: 100%;
+      }
+
+      /* Make the clips use as much space as possible, and
+       * also show a scrollbar when there are too many clips to show
+       * in the available space */
+      .sound-clips {
+        flex: 1;
+        overflow: auto;
+      }
+
+      section, article {
+        display: block;
+      }
+
+      .clip {
+        padding-bottom: 1rem;
+      }
+
+      audio {
+        width: 100%;
+        display: block;
+        margin: 1rem auto 0.5rem;
+      }
+
+      .clip p {
+        display: inline-block;
+        font-size: 1rem;
+      }
+
+      .clip button {
+        font-size: 1rem;
+        float: right;
+      }
+
+      button.delete {
+        background: #f00;
+        padding: 0.5rem 0.75rem;
+        font-size: 0.8rem;
+      }
+
+      /* Checkbox hack to control information box display */
+
+      label {
+        font-size: 3rem;
+        position: absolute;
+        top: 2px;
+        right: 3px;
+        z-index: 5;
+        cursor: pointer;
+      }
+
+      input[type=checkbox] {
+         position: absolute;
+         top: -100px;
+      }
+
+      aside {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        transform: translateX(100%);
+        transition: 0.3s all ease-out;
+        background-color: #efefef;
+        padding: 1rem;
+      }
+
+      aside p {
+        font-size: 1.2rem;
+        margin: 0.5rem 0;
+      }
+
+      aside a {
+        color: #666;
+      }
+
+      /* Toggled State of information box */
+      input[type=checkbox]:checked ~ aside {
+        transform: translateX(0);
+      }
+
+      /* Cursor when clip name is clicked over */
+
+      .clip p {
+        cursor: pointer;
+      }
+
+      /* Adjustments for wider screens */
+      @media all and (min-width: 500px) {
+        /* Don't take all the space as readability is lost when line length
+           goes past a certain size */
+        .wrapper {
+          width: 90%;
+          max-width: 700px;
+          margin: 0 auto;
+        }
+      }
+
+      footer {
+          font-family: Arial;
+          color: #222;
+          background-color: rgb(242, 242, 242);
+          width: 100%;
+          bottom: 0;
+          position: fixed;
+          padding-left: 30px;
+      }
+
+      footer a {
+        margin-left: 20px;
+      }
+
+      .info-display {
+        border-style: solid;
+      }
+    </style>
+  </head>
+  <body>
+
+    <div class="wrapper">
+
+      <header>
+        <h1>Open Speech Recording</h1>
+      </header>
+
+      <section class="top-display">
+	<div class="directions">
+    <ol>
+      <li>
+        Input the words you would like to record as a comma seperated list:
+        <br/>
+        <input type="text" id="input_words" value="These,are,example,words">
+      </li>
+      <br/>
+      <li>
+        Input the number of sampels of each word you would like to record: 
+        <br/>
+        <input type="text" id="input_counts" value="10">
+      </li>
+      <br/>
+      <li>
+        Press Record to start recording. And record only the word show in the box below when instructed (the record button will switch between red and grey to indicate each new recording and will randomly select words from your list to record).
+      </li>
+      <br/>
+      <li>
+        Press Stop to stop recording, and when all the requested words are completed you'll be able to download the recordings.
+      </li>
+      <br/>
+    </ul>
+	</div>
+	<div class="progress-display">
+	</div>
+	<div class="info-display">
+	</div>
+      </section>
+
+      <section class="main-controls">
+        <canvas class="visualizer"></canvas>
+        <div id="buttons">
+          <button class="record">Record</button>
+          <button class="stop">Stop</button>
+          <button class="upload">Download</button>
+        </div>
+      </section>
+
+      <section class="sound-clips">
+
+        <!-- This is left here as a helper for testing the style of the clips
+        If you want to edit their appearance without having to record clips,
+        uncomment this and reload the page. Remember to comment it again when done!
+        <article class="clip">
+          <audio controls></audio>
+          <p>Sample clip name</p>
+          <button class="delete">Delete</button>
+        </article>
+        -->
+
+      </section>
+
+    </div>
+
+    <a href="https://github.com/petewarden/open-speech-recording">
+      <img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/38ef81f8aca64bb9a64448d0d70f1308ef5341ab/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png">
+    </a>
+
+    <script type="text/javascript">
+      // --------------------------------------------//
+      // CHANGE THESE VALUS AND LISTS FOR THE WANTED //
+      //         AND FILLER WORDS YOU WANT TO RECORD //
+      // --------------------------------------------//
+      var COUNTS_FOR_WANTED_WORDS = 5;
+      var COUNTS_FOR_FILLER_WORDS = 0;
+      var wantedWords = [
+        'Hello',
+      ];
+      var fillerWords = [];
+      // --------------------------------------------//
+
+      // fork getUserMedia for multiple browser versions, for the future
+      // when more browsers support MediaRecorder
+      navigator.getUserMedia = ( navigator.getUserMedia ||
+                             navigator.webkitGetUserMedia ||
+                             navigator.mozGetUserMedia ||
+                             navigator.msGetUserMedia);
+
+      // set up basic variables for app
+      var record = document.querySelector('.record');
+      var stop = document.querySelector('.stop');
+      var upload = document.querySelector('.upload');
+      var soundClips = document.querySelector('.sound-clips');
+      var canvas = document.querySelector('.visualizer');
+      var mediaRecorder = null;
+      var mediaStreamSource = null;
+      var ignoreAutoPlay = false;
+
+      // disable stop button while not recording
+      stop.disabled = true;
+      upload.disabled = true;
+
+      // visualiser setup - create web audio api context and canvas
+      var audioCtx = new (window.AudioContext || webkitAudioContext)();
+      var canvasCtx = canvas.getContext("2d");
+
+      //main block for doing the audio recording
+      if (navigator.getUserMedia) {
+        console.log('getUserMedia supported.');
+
+        var constraints = { audio: true };
+        var chunks = [];
+
+        var onSuccess = function(stream) {
+          mediaRecorder = new MediaRecorder(stream);
+          mediaStreamSource = audioCtx.createMediaStreamSource(stream);
+          record.onclick = function() {
+            
+            // Initialize the wanted words
+            COUNTS_FOR_WANTED_WORDS = parseInt(document.getElementById("input_counts").value)
+            wantedWords = document.getElementById("input_words").value.split(",")
+
+            // Turn on the visualizer
+            visualize(stream);
+
+            // Display a countdown before recording starts.
+            var progress = document.querySelector('.progress-display');
+            progress.innerText = "3";
+            document.querySelector('.info-display').innerText = "";
+            setTimeout(function() {
+              progress.innerText = "2";
+              setTimeout(function() {
+                  progress.innerText = "1";
+                  setTimeout(function() {
+                    progress.innerText = "";
+                    startRecording();
+                    }, 1000);
+              }, 1000);
+            }, 1000);
+            stop.disabled = false;
+            record.disabled = true;
+          }
+
+          stop.onclick = function() {
+            if (mediaRecorder.state == 'inactive') {
+              // The user has already pressed stop, so don't set up another word.
+              ignoreAutoPlay = true;
+            } else {
+              mediaRecorder.stop();
+            }
+            mediaStreamSource.disconnect();
+            console.log(mediaRecorder.state);
+            record.style.background = "";
+            record.style.color = ""; 
+            stop.disabled = true;
+            record.disabled = false;
+          }
+
+          upload.onclick = function() {
+            saveRecordings();
+          }
+
+          mediaRecorder.onstop = function(e) {
+            console.log("data available after MediaRecorder.stop() called.");
+
+            var clipName = document.querySelector('.info-display').innerText;
+            var clipContainer = document.createElement('article');
+            var clipLabel = document.createElement('p');
+            var audio = document.createElement('audio');
+            var deleteButton = document.createElement('button');
+           
+            clipContainer.classList.add('clip');
+            clipLabel.classList.add('clip-label');
+            audio.setAttribute('controls', '');
+            deleteButton.textContent = 'Delete';
+            deleteButton.className = 'delete';
+            clipLabel.textContent = clipName;
+
+            clipContainer.appendChild(audio);
+            clipContainer.appendChild(clipLabel);
+            clipContainer.appendChild(deleteButton);
+            soundClips.appendChild(clipContainer);
+
+            audio.controls = true;
+            var blob = new Blob(chunks, { 'type' : 'audio/ogg; codecs=opus' });
+            chunks = [];
+            var audioURL = window.URL.createObjectURL(blob);
+            audio.src = audioURL;
+            console.log("recorder stopped");
+
+            deleteButton.onclick = function(e) {
+              evtTgt = e.target;
+              evtTgt.parentNode.parentNode.removeChild(evtTgt.parentNode);
+              updateProgress();
+            }
+          }
+
+          mediaRecorder.ondataavailable = function(e) {
+            chunks.push(e.data);
+          }
+        }
+
+        var onError = function(err) {
+          console.log('The following error occured: ' + err);
+        }
+
+        navigator.getUserMedia(constraints, onSuccess, onError);
+      } else {
+        console.log('getUserMedia not supported on your browser!');
+        document.querySelector('.info-display').innerText = 
+        'Your device does not support the HTML5 API needed to record audio (this is a known problem on iOS)';  
+      }
+
+      function visualize(stream) {
+        var analyser = audioCtx.createAnalyser();
+        analyser.fftSize = 2048;
+        var bufferLength = analyser.frequencyBinCount;
+        var dataArray = new Uint8Array(bufferLength);
+
+        mediaStreamSource.connect(analyser);
+        
+        WIDTH = canvas.width
+        HEIGHT = canvas.height;
+
+        draw()
+
+        function draw() {
+
+          requestAnimationFrame(draw);
+
+          analyser.getByteTimeDomainData(dataArray);
+
+          canvasCtx.fillStyle = 'rgb(200, 200, 200)';
+          canvasCtx.fillRect(0, 0, WIDTH, HEIGHT);
+
+          canvasCtx.lineWidth = 2;
+          canvasCtx.strokeStyle = 'rgb(0, 0, 0)';
+
+          canvasCtx.beginPath();
+
+          var sliceWidth = WIDTH * 1.0 / bufferLength;
+          var x = 0;
+
+          for(var i = 0; i < bufferLength; i++) {
+       
+            var v = dataArray[i] / 128.0;
+            var y = v * HEIGHT/2;
+
+            if(i === 0) {
+              canvasCtx.moveTo(x, y);
+            } else {
+              canvasCtx.lineTo(x, y);
+            }
+
+            x += sliceWidth;
+          }
+
+          canvasCtx.lineTo(canvas.width, canvas.height/2);
+          canvasCtx.stroke();
+        }
+      }
+
+      function getRecordedWords() {
+        var wordElements = document.querySelectorAll('.clip-label');
+        var wordCounts = {};
+        wordElements.forEach(function(wordElement) {
+            var word = wordElement.innerText;
+            if (!wordCounts.hasOwnProperty(word)) {
+              wordCounts[word] = 0;
+            }
+            wordCounts[word] += 1;
+        });
+        return wordCounts;
+      }
+
+      function getAllWantedWords() {
+        var wordCounts = {};
+        wantedWords.forEach(function(word) {
+          wordCounts[word] = COUNTS_FOR_WANTED_WORDS;
+        });
+        fillerWords.forEach(function(word) {
+          wordCounts[word] = COUNTS_FOR_FILLER_WORDS;
+        });
+        return wordCounts;
+      }
+
+      function getRemainingWords() {
+        var recordedCounts = getRecordedWords();
+        var wantedCounts = getAllWantedWords();
+        var remainingCounts = {};
+        for (var word in wantedCounts) {
+          wantedCount = wantedCounts[word];
+          var recordedCount;
+          if (recordedCounts.hasOwnProperty(word)) {
+            recordedCount = recordedCounts[word];
+          } else {
+            recordedCount = 0;
+          }
+          var remainingCount = wantedCount - recordedCount;
+          if (remainingCount > 0) {
+            remainingCounts[word] = remainingCount;
+          }
+        }
+        return remainingCounts;
+      }
+
+      function unrollWordCounts(wordCounts) {
+        var result = [];
+        for (var word in wordCounts) {
+          count = wordCounts[word];
+          for (var i = 0; i < count; ++i) {
+            result.push(word);
+          }
+        }
+        return result;
+      }
+
+      function shuffleArray(array) {
+        for (var i = array.length - 1; i > 0; i--) {
+          var j = Math.floor(Math.random() * (i + 1));
+          var temp = array[i];
+          array[i] = array[j];
+          array[j] = temp;
+        }
+      }
+
+      function getNextWord() {
+        var remainingWords = unrollWordCounts(getRemainingWords());
+        if (remainingWords.length == 0) {
+          return null;
+        }
+        shuffleArray(remainingWords);
+        return remainingWords[0];
+      }
+
+      function getProgressDescription() {
+        var allWords = unrollWordCounts(getAllWantedWords());
+        var remainingWords = unrollWordCounts(getRemainingWords());
+        return ((allWords.length + 1) - remainingWords.length) + "/" + allWords.length;
+      }
+
+      function updateProgress() {
+        var progress = getProgressDescription();
+        document.querySelector('.progress-display').innerText = progress;
+      }
+
+      function startRecording() {
+        if (ignoreAutoPlay) {
+          ignoreAutoPlay = false;
+          return;
+        }
+        var word = getNextWord();
+        if (word === null) {
+          promptToSave();
+          return;
+        }
+        updateProgress();
+        document.querySelector('.info-display').innerText = word;
+        mediaRecorder.start();
+        console.log(mediaRecorder.state);
+        console.log("recorder started");
+        record.style.background = "red";
+        setTimeout(endRecording, 1500);
+      }
+
+      function endRecording() {
+        if (mediaRecorder.state == 'inactive') {
+          // The user has already pressed stop, so don't set up another word.
+          return;
+        }
+        mediaRecorder.stop();
+        console.log(mediaRecorder.state);
+        console.log("recorder stopped");
+        record.style.background = "";
+        record.style.color = "";
+        setTimeout(startRecording, 1000);
+      }
+
+      function promptToSave() {
+        if (confirm('Are you ready to download your data?\nIf not, press cancel now,' + 
+              ' and then press Download once you are ready.')) {
+          saveRecordings();
+        }
+        upload.disabled = false;
+      }
+
+      function saveRecordings() {
+        mediaStreamSource.disconnect();
+        var allClips = document.querySelectorAll('.clip');
+        var clipIndex = 0;       
+        for (clipIndex = 0; clipIndex < unrollWordCounts(getAllWantedWords()).length; clipIndex++) {
+          var clip = allClips[clipIndex];
+          clip.style.display = 'None';
+          var audioBlobUrl = clip.querySelector('audio').src;
+          var word = clip.querySelector('p').innerText;
+          var filename = word + '_' + Date.now() + '.ogg';
+          saveAs(audioBlobUrl,filename);
+        }
+      }
+
+      function allDone() {
+        document.cookie = 'all_done=true; path=/';
+        location.reload(true);
+      }
+
+      // https://github.com/eligrey/FileSaver.js/blob/master/dist/FileSaver.min.js
+      (function(a,b){if("function"==typeof define&&define.amd)define([],b);else if("undefined"!=typeof exports)b();else{b(),a.FileSaver={exports:{}}.exports}})(this,function(){"use strict";function b(a,b){return"undefined"==typeof b?b={autoBom:!1}:"object"!=typeof b&&(console.warn("Deprecated: Expected third argument to be a object"),b={autoBom:!b}),b.autoBom&&/^\s*(?:text\/\S*|application\/xml|\S*\/\S*\+xml)\s*;.*charset\s*=\s*utf-8/i.test(a.type)?new Blob(["\uFEFF",a],{type:a.type}):a}function c(a,b,c){var d=new XMLHttpRequest;d.open("GET",a),d.responseType="blob",d.onload=function(){g(d.response,b,c)},d.onerror=function(){console.error("could not download file")},d.send()}function d(a){var b=new XMLHttpRequest;b.open("HEAD",a,!1);try{b.send()}catch(a){}return 200<=b.status&&299>=b.status}function e(a){try{a.dispatchEvent(new MouseEvent("click"))}catch(c){var b=document.createEvent("MouseEvents");b.initMouseEvent("click",!0,!0,window,0,0,0,80,20,!1,!1,!1,!1,0,null),a.dispatchEvent(b)}}var f="object"==typeof window&&window.window===window?window:"object"==typeof self&&self.self===self?self:"object"==typeof global&&global.global===global?global:void 0,a=/Macintosh/.test(navigator.userAgent)&&/AppleWebKit/.test(navigator.userAgent)&&!/Safari/.test(navigator.userAgent),g=f.saveAs||("object"!=typeof window||window!==f?function(){}:"download"in HTMLAnchorElement.prototype&&!a?function(b,g,h){var i=f.URL||f.webkitURL,j=document.createElement("a");g=g||b.name||"download",j.download=g,j.rel="noopener","string"==typeof b?(j.href=b,j.origin===location.origin?e(j):d(j.href)?c(b,g,h):e(j,j.target="_blank")):(j.href=i.createObjectURL(b),setTimeout(function(){i.revokeObjectURL(j.href)},4E4),setTimeout(function(){e(j)},0))}:"msSaveOrOpenBlob"in navigator?function(f,g,h){if(g=g||f.name||"download","string"!=typeof f)navigator.msSaveOrOpenBlob(b(f,h),g);else if(d(f))c(f,g,h);else{var i=document.createElement("a");i.href=f,i.target="_blank",setTimeout(function(){e(i)})}}:function(b,d,e,g){if(g=g||open("","_blank"),g&&(g.document.title=g.document.body.innerText="downloading..."),"string"==typeof b)return c(b,d,e);var h="application/octet-stream"===b.type,i=/constructor/i.test(f.HTMLElement)||f.safari,j=/CriOS\/[\d]+/.test(navigator.userAgent);if((j||h&&i||a)&&"undefined"!=typeof FileReader){var k=new FileReader;k.onloadend=function(){var a=k.result;a=j?a:a.replace(/^data:[^;]*;/,"data:attachment/file;"),g?g.location.href=a:location=a,g=null},k.readAsDataURL(b)}else{var l=f.URL||f.webkitURL,m=l.createObjectURL(b);g?g.location=m:location.href=m,g=null,setTimeout(function(){l.revokeObjectURL(m)},4E4)}});f.saveAs=g.saveAs=g,"undefined"!=typeof module&&(module.exports=g)});
+    </script>
+  </body>
+</html>
