@@ -9,17 +9,17 @@ header:
   overlay_image: /assets/images/banner.jpg
 excerpt: "TinyML can be a great entry point to programming and machine learning for K-12 students. Take a look at our existing course modules and teacher training materials and help join the community effort to develop and improve upon those materials. Together we can get TinyML education into the K-12 classroom."
 
-workshops: 
-  - title: 'Upcoming Workshops'
+upcoming: 
+  - title: 'Upcoming Opportunities'
 
 materials: 
   - title: 'Existing Materials'
 
 ---
 
-{% include feature_row id="workshops" type="center" %}
+{% include feature_row id="upcoming" type="center" %}
 
-We'll be announcing summer 2021 workshops soon. Stay tuned!
++ Backyard Brains just announced their summer 2021 AI Fellowship for **High School Students and Teachers** featuring TinyML! You can [find our more about the program and apply here](https://blog.backyardbrains.com/2021/03/backyard-brains-2021-ai-fellowship/)!
 
 {% include feature_row id="materials" type="center" %}
 
