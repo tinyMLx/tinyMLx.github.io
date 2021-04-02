@@ -19,7 +19,7 @@ materials:
 
 {% include feature_row id="projects" type="center" %}
 
-Active projects will be announced soon. Stay tuned!
++ [TinyML in Portuguese](https://github.com/Mjrovai/UNIFEI-IESTI01-T01-2021.1) led by [Marcelo Rovai](https://github.com/Mjrovai) at the [Instituto de Engenharia de Sistemas e Tecnologias da Informação – IESTI - Campus de Itajubá](https://unifei.edu.br/iesti/)
 
 {% include feature_row id="materials" type="center" %}
 
@@ -33,3 +33,4 @@ Below you can also find direct links to materials from the following courses:
 | -- | -- | -- | -- |
 | edX TinyML Specialization | English | [[link]](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning) | [[link]](https://github.com/tinyMLx/courseware/tree/master/edX) |
 | Harvard CS249r Fall 2020  | English | [[link]](https://sites.google.com/g.harvard.edu/tinyml/home) | [[link]](https://github.com/Harvard-CS249R-Fall2020/assignments) |
+| UNIFEI IESTI01-T01 Fall 2021 | Portuguese | [[link]](https://github.com/Mjrovai/UNIFEI-IESTI01-T01-2021.1) | [[link]](https://github.com/Mjrovai/UNIFEI-IESTI01-T01-2021.1)

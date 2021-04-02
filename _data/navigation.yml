@@ -3,7 +3,7 @@ main:
     url: "/"
   - title: "Courses"
     url: "https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning"
-  - title: "Discuss"
+  - title: "Discourse"
     url: "https://discuss.tinymlx.org"
   - title: "TinyML4STEM"
     url: "/TinyML4STEM/"

@@ -33,3 +33,4 @@ Below you can also find direct links to materials from the following courses:
 | -- | -- | -- | -- |
 | edX TinyML Specialization | English | [[link]](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning) | [[link]](https://github.com/tinyMLx/courseware/tree/master/edX) |
 | Harvard CS249r Fall 2020  | English | [[link]](https://sites.google.com/g.harvard.edu/tinyml/home) | [[link]](https://github.com/Harvard-CS249R-Fall2020/assignments) |
+| UNIFEI IESTI01-T01 Fall 2021 | Portuguese | [[link]](https://github.com/Mjrovai/UNIFEI-IESTI01-T01-2021.1) | [[link]](https://github.com/Mjrovai/UNIFEI-IESTI01-T01-2021.1)
