@@ -20,6 +20,7 @@ materials:
 {% include feature_row id="projects" type="center" %}
 
 + [TinyML in Portuguese](https://github.com/Mjrovai/UNIFEI-IESTI01-T01-2021.1) led by [Marcelo Rovai](https://github.com/Mjrovai) at the [Instituto de Engenharia de Sistemas e Tecnologias da Informação – IESTI - Campus de Itajubá](https://unifei.edu.br/iesti/)
++ [SciTinyML: Scientific Use of Machine Learning on Low-Power Devices](http://indico.ictp.it/event/9622/) a workshop on **April 20-24 2021** led by [Marco Zennaro](https://www.linkedin.com/in/marco-zennaro-3480844/) at the [Abdus Salam International Centre for Theoretical Physics](https://www.ictp.it/)
 
 {% include feature_row id="materials" type="center" %}
 
