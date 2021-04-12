@@ -21,6 +21,8 @@ materials:
 
 + Backyard Brains just announced their summer 2021 AI Fellowship for **High School Students and Teachers** featuring TinyML! You can [find our more about the program and apply here](https://blog.backyardbrains.com/2021/03/backyard-brains-2021-ai-fellowship/)!
 
++ CReating Effective STem Learning EXperiences (CRESTLEX 3.0) just announced their summer 2021 program on TinyML for **High School Students and Teachers**! You can [find our more about the program and apply here](/CRESTLEX3/)!
+
 {% include feature_row id="materials" type="center" %}
 
 We are working to collect materials from all courses that teach TinyML to create an easy to access repository of course modules, readings, slides, assignments, etc. 
