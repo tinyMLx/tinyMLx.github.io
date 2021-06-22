@@ -1,7 +1,7 @@
 ---
 title: "CReating Effective STem Learning EXperiences (CRESTLEX 3.0)"
 layout: splash
-permalink: /CRESTLEX3/
+permalink: /CRESTLEX3_Flyer/
 date: 
 header:
   overlay_color: "#00A"
