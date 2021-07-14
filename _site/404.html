@@ -1,6 +1,6 @@
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.23.0 by Michael Rose
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
   Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
@@ -21,7 +21,7 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="TinyMLx">
 <meta property="og:title" content="TinyMLx">
-<meta property="og:url" content="http://localhost:4000/404.html">
+<meta property="og:url" content="https://tinymlx.github.io/404.html">
 
 
   <meta property="og:description" content="The Tiny Machine Learning Open Education Initiative">
@@ -41,7 +41,7 @@
   
 
 
-<link rel="canonical" href="http://localhost:4000/404.html">
+<link rel="canonical" href="https://tinymlx.github.io/404.html">
 
 
 
@@ -52,7 +52,7 @@
     
       "@type": "Person",
       "name": "TinyMLx",
-      "url": "http://localhost:4000/"
+      "url": "https://tinymlx.github.io/"
     
   }
 </script>
@@ -79,22 +79,9 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
 
-<!--[if IE]>
-  <style>
-    /* old IE unsupported flexbox fixes */
-    .greedy-nav .site-title {
-      padding-right: 3em;
-    }
-    .greedy-nav button {
-      position: absolute;
-      top: 0;
-      right: 0;
-      height: 100%;
-    }
-  </style>
-<![endif]-->
 
 
     <!-- start custom head snippets -->
@@ -107,7 +94,6 @@
 
   <body class="layout--default">
     <nav class="skip-links">
-  <h2 class="screen-reader-text">Skip links</h2>
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
     <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
@@ -230,6 +216,21 @@
     
   <script src="/assets/js/main.min.js"></script>
 
+
+
+
+
+
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NBXX49FRJY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NBXX49FRJY', { 'anonymize_ip': false});
+</script>
 
 
 
