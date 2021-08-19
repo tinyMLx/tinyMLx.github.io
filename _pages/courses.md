@@ -1,24 +1,13 @@
 ---
-title: "Welcome to the Tiny Machine Learning Open Education Initiative (TinyMLx)"
+title: "Take a Free Online Course to Learn More about TinyML"
 layout: splash
-permalink: 
+permalink: /courses/
 date: 
 header:
   overlay_color: "#00A"
   overlay_filter: "0.5"
   overlay_image: /assets/images/banner.jpg
-  actions:
-    - label: "Take a Free Online Course to Learn More"
-      url: "/courses/"
-    - label: "Build and Teach your own TinyML Course"
-      url: "/teach/"
-    - label: "Explore the TinyML4D Initiative"
-      url: "/TinyML4D/"
-  caption: ""
-excerpt: "TinyML is a cutting-edge field that brings the transformative power of machine learning (ML) to the performance- and power-constrained domain of embedded systems. Successful deployment in this field requires intimate knowledge of applications, algorithms, hardware, and software."
-
-intro: 
-  - title: 'Take an Exciting Course to Learn More!'
+excerpt: "We've provided links below to free online courses on edX and Coursera to help you get started learning about TinyML!"
 
 feature_row:
   - image_path: /assets/images/foundationsOfTinyML.jpg
@@ -28,7 +17,6 @@ feature_row:
     url: "https://www.edx.org/course/fundamentals-of-tinyml"
     btn_label: "Take the Course on edX"
     btn_class: "btn--primary"
-    
 
   - image_path: /assets/images/applicaitonsOfTinyML.jpg
     alt: "Applications Of TinyML"
@@ -53,33 +41,6 @@ feature_row:
     url: "https://www.coursera.org/learn/introduction-to-embedded-machine-learning"
     btn_label: "Take the Course on Coursera"
     btn_class: "btn--primary"
-
-thanks: 
-  - title: "Thanks to all of our corporate supporters!"
-
-
-gallery:
-  - image_path: /assets/images/sponsors/googleLogo.jpg
-    alt: "google"
-    url: "https://www.google.com"
-  - image_path: /assets/images/sponsors/arduinoLogo.svg
-    alt: "Arduino"
-    url: "https://www.arduino.cc"
-  - image_path: /assets/images/sponsors/EILogo.png
-    alt: "Edge Impulse"
-    url: "https://www.edgeimpulse.com/"
-  - image_path: /assets/images/sponsors/edXLogo.png
-    alt: "edX"
-    url: "https://www.edx.org"
-  - image_path: /assets/images/sponsors/harvardXLogo.jpg
-    alt: "HarvardX"
-    url: "https://programs.edx.org/partner-harvard"
 ---
 
-<!-- {% include feature_row id="intro" type="center" %} -->
-
-<!-- {% include feature_row %} -->
-
-{% include feature_row id="thanks" type="center" %}
-
-{% include gallery %}
+{% include feature_row %}

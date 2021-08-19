@@ -1,10 +1,9 @@
 ---
-title: "Meet our team!"
+title: "The edX TinyML Specialization team"
 layout: single
-permalink: /team/
-#intro: 
-#  - title: 'Meet our Team!'
-#    excerpt: "Our dedicated team of educators has made TinyMLx possible--from kits to content, these bright minds help to make it all happen!"
+permalink: /edXCourseTeam/
+intro: 
+ - excerpt: "Our dedicated team of educators has made the [edX TinyML Specialization](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning) possible!"
 
 feature_row:
   - image_path: /assets/images/team/vijay.png

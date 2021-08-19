@@ -1,5 +1,5 @@
 ---
-title: "Build and Teach Your Own TinyML Course"
+title: "Build and Teach your own TinyML Course"
 layout: splash
 permalink: /teach/
 date: 
@@ -9,23 +9,24 @@ header:
   overlay_image: /assets/images/banner.jpg
 excerpt: "TinyML can be used to teach a whole host of topics (e.g., software engineering, machine learning, embedded systems) at varying levels of prior knowledge. We want to help you design and teach your own TinyML course. To that end we've launched a couple of exciting projects you can find below to help build a community and resources for teaching all kinds of TinyML courses."
 
-feature_row:
-  - #image_path: ""
-    alt: "TinyML4STEM"
-    title: "TinyML4STEM"
-    excerpt: "TinyML can be a great entry point to programming and machine learning for K-12 students. Take a look at our existing course modules and teacher training materials and help join the community effort to develop and improve upon those materials. Together we can get TinyML education into the K-12 classroom."
-    url: "/TinyML4STEM/"
-    btn_label: "Explore TinyML4STEM"
-    btn_class: "btn--primary"
-    
+materials: 
+  - title: 'Existing Materials'
 
-  - #image_path: ""
-    alt: "TinyML4D"
-    title: "TinyML4D"
-    excerpt: "We are working to make TinyML education available to everyone. Help join the community effort to port our TinyML materials into other languages and develop relevant materials for all learners."
-    url: "/TinyML4D/"
-    btn_label: "Explore TinyML4D"
-    btn_class: "btn--primary"
 ---
 
-{% include feature_row %}
+We have posted [all the materials](https://github.com/tinyMLx/courseware/tree/master/edX) from the [edX specialization](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning) as well as our custom [Arduino Library](https://github.com/tinyMLx/arduino-library) and all supporting [Colab Notebooks](https://github.com/tinyMLx/colabs). All of the materials are open source licensed and are at most [non-commercial share alike](https://creativecommons.org/licenses/by-nc-sa/4.0/) – which means just cite us and you can use it all for free! You can also find materials from other TinyML courses and workshops that have been developed in the table below.
+
+We are also trying to track and provide links to others to all TinyML course materials that are created to make it even easier for others to launch courses so we ask that if you create a course based on these materials that you consider posting your materials publicly and sending us a link so we can add it to the table below.
+
+Finally, if you want to be more involved with our effort to help improve access to TinyML educational materials and hardware resources worldwide please check out the [TinyML4D working group](/TinyML4D/)!
+
+Questions, comments, concerns, suggestions for improvement – reach out to us at: edu@tinyML.org
+
+{% include feature_row id="materials" type="center" %}
+
+| Course Name | Date of Course | Target Audience | Language of Instruction | Language of Materials | Course Website | Materials Link |
+| -- | -- | -- | -- |
+| edX TinyML Specialization | Launched Fall 2020-2021 | Everyone | English | English | [[link]](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning) | [[link]](https://github.com/tinyMLx/courseware/tree/master/edX) |
+| Harvard CS249r  | Fall 2020 | Graduate Students | English | English | [[link]](https://sites.google.com/g.harvard.edu/tinyml/home) | [[link]](https://github.com/Harvard-CS249R-Fall2020/assignments) |
+| UNIFEI IESTI01-T01 | Spring/Summer 2021 | Undergraduate Students | Portuguese | English | [[link]](https://github.com/Mjrovai/UNIFEI-IESTI01-T01-2021.1) | [[link]](https://github.com/Mjrovai/UNIFEI-IESTI01-T01-2021.1)
+| CRESTLEX 3.0 | Summer 2021 | Middle and High School Students and Teachers | English | English | [[link]](https://tinymlx.org/CRESTLEX3/) | [[link]](https://tinymlx.org/CRESTLEX3/)

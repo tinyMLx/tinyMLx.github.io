@@ -1,5 +1,5 @@
 ---
-title: "TinyML4D"
+title: "TinyML4D: TinyML for Developing Countries"
 layout: splash
 permalink: /TinyML4D/
 date: 
@@ -7,31 +7,48 @@ header:
   overlay_color: "#00A"
   overlay_filter: "0.5"
   overlay_image: /assets/images/banner.jpg
-excerpt: "We are working to make TinyML education available to everyone. Help join the community effort to port our TinyML materials into other languages and develop relevant materials for all learners."
+excerpt: "Widening access to applied machine learning by establishing best practices in education."
+
+news: 
+  - title: 'Recent News'
 
 projects: 
   - title: 'Active Projects'
 
 materials: 
-  - title: 'Existing Materials'
+  - title: 'Teach Your Own TinyML Course'
+
+courses: 
+  - title: 'Take a Free Online TinyML Course'
+
+join:
+  - title: 'Get Involved'
 
 ---
 
+{% include feature_row id="news" type="center" %}
+
+The [SciTinyML: Scientific Use of Machine Learning on Low-Power Devices](http://indico.ictp.it/event/9622/) workshop hosted by the [Abdus Salam International Centre for Theoretical Physics](https://www.ictp.it/) has been postponded to **October 18-22 2021** due to the global semiconductor shortage as a result of COVID-19. In the meantime, we will be holding three introductory Zoom meetings for the Academic Network on:
++ **September 17**: Academic Network Introduction and Why the Future of ML is Tiny and Bright with [Prof. Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) of Harvard University
++ **October 1**: Software Tools for TinyML with [Prof. Marcelo Rovai](https://github.com/Mjrovai) of Universidade Federal de Itajubá
++ **October 8**: Case Studies of TinyML in Rwanda and Brazil and Academic Network AMA
+
+**If you are a member of the Academic Network make sure to join our Discord – the invite link should be in your email!**
+
 {% include feature_row id="projects" type="center" %}
 
-+ [TinyML in Portuguese](https://github.com/Mjrovai/UNIFEI-IESTI01-T01-2021.1) led by [Marcelo Rovai](https://github.com/Mjrovai) at the [Instituto de Engenharia de Sistemas e Tecnologias da Informação – IESTI - Campus de Itajubá](https://unifei.edu.br/iesti/)
-+ [SciTinyML: Scientific Use of Machine Learning on Low-Power Devices](http://indico.ictp.it/event/9622/) a workshop **September 20-24 2021** led by [Marco Zennaro](https://www.linkedin.com/in/marco-zennaro-3480844/) at the [Abdus Salam International Centre for Theoretical Physics](https://www.ictp.it/).
++ TinyML4D Academic Network
++ TinyML4K12
++ TinyMLTranslations
+
+{% include feature_row id="join" type="center" %}
+
+If you want to be more involved with our effort to help improve access to TinyML educational materials and hardware resources worldwide reach out to us at edu@tinyML.org!
+
+{% include feature_row id="courses" type="center" %}
+
+We've collected links to free online courses on edX and Coursera to help you get started learning about TinyML. To view the current course offerings check out our [Learn TinyML](/courses/) page!
 
 {% include feature_row id="materials" type="center" %}
 
-We are working to collect materials from all courses that teach TinyML to create an easy to access repository of course modules, readings, slides, assignments, etc. 
-The workshop details can be found at [this link](http://indico.ictp.it/event/9622/)
-**You can find our central repository [at this link](https://github.com/tinyMLx/courseware).**
-
-Below you can also find direct links to materials from the following courses:
-
-| Course | Language | Website | Materials |
-| -- | -- | -- | -- |
-| edX TinyML Specialization | English | [[link]](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning) | [[link]](https://github.com/tinyMLx/courseware/tree/master/edX) |
-| Harvard CS249r Fall 2020  | English | [[link]](https://sites.google.com/g.harvard.edu/tinyml/home) | [[link]](https://github.com/Harvard-CS249R-Fall2020/assignments) |
-| UNIFEI IESTI01-T01 Fall 2021 | Portuguese | [[link]](https://github.com/Mjrovai/UNIFEI-IESTI01-T01-2021.1) | [[link]](https://github.com/Mjrovai/UNIFEI-IESTI01-T01-2021.1)
+We are working to collect materials from all courses that teach TinyML to create an easy to access repository of course modules, readings, slides, assignments, etc. To view our current materials and learn more about teaching your own TinyML course check out our [Teach TinyML](/teach/) page!
