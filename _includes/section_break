@@ -1,0 +1,1 @@
+<hr style="height:5px;border:none;color:{{ page.header.overlay_color }};background-color:{{ page.header.overlay_color }};" />

@@ -1,14 +1,14 @@
 main:
   - title: "Home"
     url: "/"
-  - title: "Learn TinyML"
-    url: "/courses/"
+  - title: "TinyML Courses"
+    url: "/courses"
   - title: "Teach TinyML"
-    url: /teach/
+    url: "/teach"
   - title: "Discourse"
     url: "https://discuss.tinymlx.org"
   - title: "TinyML4D"
-    url: "/TinyML4D/"
+    url: "/TinyML4D"
   - title: "TinyMLx GitHub"
     url: "https://github.com/tinyMLx"
   - title: "TinyML Arduino Kit"

@@ -1,0 +1,23 @@
+- image_path: /assets/images/4D/AN_Map.png
+  alt: "TinyML4D Academic Network"
+  title: "TinyML4D Academic Network"
+  excerpt: "TBD SHORT DESCRIPTION"
+  url: "TBD"
+  btn_label: "Learn More"
+  btn_class: "btn--primary"
+
+- image_path: /assets/images/4D/AN_Map.png
+  alt: "TinyML4K12"
+  title: "TinyML4K12"
+  excerpt: "TBD SHORT DESCRIPTION"
+  url: "TBD"
+  btn_label: "Learn More"
+  btn_class: "btn--primary"
+
+- image_path: /assets/images/4D/translation.jpg
+  alt: "TinyMLTranslations"
+  title: "TinyMLTranslations"
+  excerpt: "TBD SHORT DESCRIPTION"
+  url: "TBD"
+  btn_label: "Learn More"
+  btn_class: "btn--primary"

@@ -24,9 +24,5 @@ Questions, comments, concerns, suggestions for improvement – reach out to us a
 
 {% include feature_row id="materials" type="center" %}
 
-| Course Name | Date of Course | Target Audience | Language of Instruction | Language of Materials | Course Website | Materials Link |
-| -- | -- | -- | -- |
-| edX TinyML Specialization | Launched Fall 2020-2021 | Everyone | English | English | [[link]](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning) | [[link]](https://github.com/tinyMLx/courseware/tree/master/edX) |
-| Harvard CS249r  | Fall 2020 | Graduate Students | English | English | [[link]](https://sites.google.com/g.harvard.edu/tinyml/home) | [[link]](https://github.com/Harvard-CS249R-Fall2020/assignments) |
-| UNIFEI IESTI01-T01 | Spring/Summer 2021 | Undergraduate Students | Portuguese | English | [[link]](https://github.com/Mjrovai/UNIFEI-IESTI01-T01-2021.1) | [[link]](https://github.com/Mjrovai/UNIFEI-IESTI01-T01-2021.1)
-| CRESTLEX 3.0 | Summer 2021 | Middle and High School Students and Teachers | English | English | [[link]](https://tinymlx.org/CRESTLEX3/) | [[link]](https://tinymlx.org/CRESTLEX3/)
+{% include materials_table %}
+
