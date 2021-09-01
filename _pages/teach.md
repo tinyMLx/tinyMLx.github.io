@@ -25,4 +25,3 @@ Questions, comments, concerns, suggestions for improvement – reach out to us a
 {% include feature_row id="materials" type="center" %}
 
 {% include materials_table %}
-

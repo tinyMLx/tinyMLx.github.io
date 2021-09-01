@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/4D/AcademicNetwork</loc>
+</url>
+<url>
 <loc>http://localhost:4000/CRESTLEX3_Flyer/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/TinyML4D/</loc>
+<loc>http://localhost:4000/4D/K12</loc>
 </url>
 <url>
 <loc>http://localhost:4000/TinyML4STEM/</loc>
@@ -16,6 +19,9 @@
 <loc>http://localhost:4000/edXCourseTeam/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/4D/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
@@ -25,6 +31,12 @@
 <loc>http://localhost:4000/open_speech_recording/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/sponsors/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/teach/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/4D/translations</loc>
 </url>
 </urlset>

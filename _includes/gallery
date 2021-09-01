@@ -1,5 +1,9 @@
 {% if include.id %}
-  {% assign gallery = page[include.id] %}
+  {% if page[include.id] %}
+    {% assign gallery = page[include.id] %}
+  {% else %}
+    {% assign gallery = site.data.[include.id] %}
+  {% endif %}
 {% else %}
   {% assign gallery = page.gallery %}
 {% endif %}
@@ -26,11 +30,13 @@
       <a href="{{ img.url | relative_url }}"
         {% if img.title %}title="{{ img.title }}"{% endif %}>
           <img src="{{ img.image_path | relative_url }}"
-               alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+               alt="{% if img.alt %}{{ img.alt }}{% endif %}"
+               style="max-height:250px;">
       </a>
     {% else %}
       <img src="{{ img.image_path | relative_url }}"
-           alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+           alt="{% if img.alt %}{{ img.alt }}{% endif %}"
+           style="max-height:250px;">
     {% endif %}
   {% endfor %}
   {% if include.caption %}

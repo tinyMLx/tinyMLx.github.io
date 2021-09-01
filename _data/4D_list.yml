@@ -1,16 +1,16 @@
 - image_path: /assets/images/4D/AN_Map.png
   alt: "TinyML4D Academic Network"
   title: "TinyML4D Academic Network"
-  excerpt: "TBD SHORT DESCRIPTION"
-  url: "TBD"
+  excerpt: "The TinyML4D working group is building a network of academic institutions, based in Developing Countries, interested in expanding access to Applied Machine Learning by establishing best practices in education. We aim to ultimately develop a community of researchers and practitioners focused on both improving access to TinyML education and enabling innovative solutions for the unique challenges faced by Developing Countries."
+  url: "/4D/AcademicNetwork"
   btn_label: "Learn More"
   btn_class: "btn--primary"
 
-- image_path: /assets/images/4D/AN_Map.png
+- image_path: /assets/images/4D/TBD.png
   alt: "TinyML4K12"
   title: "TinyML4K12"
   excerpt: "TBD SHORT DESCRIPTION"
-  url: "TBD"
+  url: "/4D/K12"
   btn_label: "Learn More"
   btn_class: "btn--primary"
 
@@ -18,6 +18,6 @@
   alt: "TinyMLTranslations"
   title: "TinyMLTranslations"
   excerpt: "TBD SHORT DESCRIPTION"
-  url: "TBD"
+  url: "/4D/translations"
   btn_label: "Learn More"
   btn_class: "btn--primary"

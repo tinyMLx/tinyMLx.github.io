@@ -1,7 +1,7 @@
 ---
 title: "TinyML4D: TinyML for Developing Countries"
 layout: splash
-permalink: /TinyML4D/
+permalink: /4D/
 date: 
 header:
   overlay_color: "#00A"
@@ -26,6 +26,10 @@ join:
 
 ---
 
+<!-- {% include feature_row id="projects" type="center" %} -->
+
+{% include feature_row id="4D_list" max_height="230px" %}
+
 {% include feature_row id="news" type="center" %}
 
 The [SciTinyML: Scientific Use of Machine Learning on Low-Power Devices](http://indico.ictp.it/event/9622/) workshop hosted by the [Abdus Salam International Centre for Theoretical Physics](https://www.ictp.it/) has been postponded to *October 18-22 2021* due to the global semiconductor shortage as a result of COVID-19. [View the updated flyer](/assets/images/4D/2021ICTPWorkshop.png). In the meantime, we will be holding three introductory Zoom meetings for the Academic Network on:
@@ -35,17 +39,13 @@ The [SciTinyML: Scientific Use of Machine Learning on Low-Power Devices](http://
 
 *If you are a member of the Academic Network make sure to join our Discord – the invite link should be in your email!*
 
-{% include feature_row id="projects" type="center" %}
-
-{% include feature_row id="4D_list" %}
-
 {% include feature_row id="join" type="center" %}
 
 If you want to be more involved with our effort to help improve access to TinyML educational materials and hardware resources worldwide reach out to us at edu@tinyML.org!
 
 {% include feature_row id="courses" type="center" %}
 
-We've collected links to free online courses on edX and Coursera to help you get started learning about TinyML. To view the current course offerings check out our [Learn TinyML](/courses/) page!
+We've collected links to free online courses on edX and Coursera to help you get started learning about TinyML. To view the current course offerings check out our [TinyML Courses](/courses/) page!
 
 {% include feature_row id="materials" type="center" %}
 

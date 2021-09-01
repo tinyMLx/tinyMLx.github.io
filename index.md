@@ -17,25 +17,8 @@ header:
   caption: ""
 excerpt: "TinyML is a cutting-edge field that brings the transformative power of machine learning (ML) to the performance- and power-constrained domain of embedded systems. Successful deployment in this field requires intimate knowledge of applications, algorithms, hardware, and software."
 
-sponsors: 
-  - title: "Thanks to all of our corporate supporters!"
-
-sponsors_gallery:
-  - image_path: /assets/images/sponsors/googleLogo.jpg
-    alt: "google"
-    url: "https://www.google.com"
-  - image_path: /assets/images/sponsors/arduinoLogo.svg
-    alt: "Arduino"
-    url: "https://www.arduino.cc"
-  - image_path: /assets/images/sponsors/EILogo.png
-    alt: "Edge Impulse"
-    url: "https://www.edgeimpulse.com/"
-  - image_path: /assets/images/sponsors/edXLogo.png
-    alt: "edX"
-    url: "https://www.edx.org"
-  - image_path: /assets/images/sponsors/harvardXLogo.jpg
-    alt: "HarvardX"
-    url: "https://programs.edx.org/partner-harvard"
+sponsors_intro: 
+  - title: "Thanks to all of our sponsors!"
 
 courses:
   - title: "Take a Free Online Course to Learn About TinyML"
@@ -76,10 +59,10 @@ Questions, comments, concerns, suggestions for improvement – reach out to us a
 
 If you want to be more involved with our effort to help improve access to TinyML educational materials and hardware resources worldwide reach out to us at edu@tinyML.org!
 
-{% include feature_row id="4D_list" %}
+{% include feature_row id="4D_list" max_height="230px" %}
 
 {% include section_break %}
-{% include feature_row id="sponsors" type="center" %}
+{% include feature_row id="sponsors_intro" type="center" %}
 {% include section_break %}
 
-{% include gallery id="sponsors_gallery" %}
+{% include gallery id="sponsors_list" %}
