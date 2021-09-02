@@ -13,7 +13,7 @@ network_map:
   - image_path: /assets/images/4D/AN_Map.png
     alt: "TinyML4D Academic Network"
     excerpt: "With support from the [**International Centre for Theoretical Physics (ICTP)**](https://www.ictp.it/) a first group of 20 Universities have joined the network in Summer 2021."
-    excerpt2: "The next call for membership is due in Winter 2021. Reach out to us at edu@tinyml.org!"
+    excerpt2: "The next call for membership is due in Winter 2021."
     excerpt_large: true
     excerpt2_large: true
     url: /assets/images/4D/AN_Map.png
@@ -33,6 +33,8 @@ news:
 + Exchange of student projects, lesson plans, real-world deployments and outreach materials
 
 With support from our [sponsors](/sponsors), member universities are receiving Arduino Tiny Machine Learning Kits for free which they can use for the hands-on lab components of the specialization and for further exploration of the opportunities and challenges of deploying and testing their own TinyML projects.
+
+If you would like to be a part of the network reach out to us at {% include email %}!
 
 {% include feature_row id="news" type="center" %}
 

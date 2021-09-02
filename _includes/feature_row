@@ -29,17 +29,17 @@
             <h2 class="archive__item-title" >{{ f.title | markdownify }}</h2>
           {% endif %}
           {% if f.subtitle %}
-            <h4 class="archive__item-excerpt">{{ f.subtitle | markdownify }}</h4>
+            <div class="archive__item-excerpt" style="font-size:1em;">{{ f.subtitle | markdownify }}</div>
           {% endif %}
 
           {% if f.excerpt %}
-            <div class="archive__item-excerpt" {% if f.excerpt_large %} style="font-size:1em;"{% endif %}>
+            <div class="archive__item-excerpt" {% if f.excerpt_large %} style="font-size:1em;" {% endif %}>
               {{ f.excerpt | markdownify }}
             </div>
           {% endif %}
 
           {% if f.excerpt2 %}
-            <div class="archive__item-excerpt" {% if f.excerpt2_large %} style="font-size:1em;"{% endif %}>
+            <div class="archive__item-excerpt" {% if f.excerpt2_large %} style="font-size:1em;" {% endif %}>
               {{ f.excerpt2 | markdownify }}
             </div>
           {% endif %}

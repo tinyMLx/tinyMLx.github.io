@@ -41,7 +41,7 @@ The [SciTinyML: Scientific Use of Machine Learning on Low-Power Devices](http://
 
 {% include feature_row id="join" type="center" %}
 
-If you want to be more involved with our effort to help improve access to TinyML educational materials and hardware resources worldwide reach out to us at edu@tinyML.org!
+If you want to be more involved with our effort to help improve access to TinyML educational materials and hardware resources worldwide reach out to us at {% include email %}!
 
 {% include feature_row id="courses" type="center" %}
 

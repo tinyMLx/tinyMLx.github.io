@@ -20,7 +20,7 @@ We are also trying to track and provide links to others to all TinyML course mat
 
 Finally, if you want to be more involved with our effort to help improve access to TinyML educational materials and hardware resources worldwide please check out the [TinyML4D working group](/TinyML4D/)!
 
-Questions, comments, concerns, suggestions for improvement – reach out to us at: edu@tinyML.org
+Questions, comments, concerns, suggestions for improvement – reach out to us at {% include email %}!
 
 {% include feature_row id="materials" type="center" %}
 

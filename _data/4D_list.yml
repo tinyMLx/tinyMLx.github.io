@@ -17,7 +17,7 @@
 - image_path: /assets/images/4D/translation.jpg
   alt: "TinyMLTranslations"
   title: "TinyMLTranslations"
-  excerpt: "TBD SHORT DESCRIPTION"
+  excerpt: "Our mission is to enable all learners, regardless of their preferred language of learning, to be able to access and learn TinyML. As such, we work to translate and support material and course development in languages other than English."
   url: "/4D/translations"
   btn_label: "Learn More"
   btn_class: "btn--primary"
