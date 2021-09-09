@@ -1,6 +1,6 @@
 {% if site.data.materials_list %}
 | Course Name | Date of Course | Target Audience | Language of Instruction | Language of Materials | Course Website | Materials Link | 
 | --- | --- | --- | --- | --- | --- | --- |
-{% for course in site.data.materials_list %} | {{ course.name }} | {{ course.date }} | {{ course.audience }} | {{ course.language_instruction }} | {{ course.language_materials }} | [link]({{ course.website_url }}) | [link](course.materials_url }}) | 
+{% for course in site.data.materials_list %} | {{ course.name }} | {{ course.date }} | {{ course.audience }} | {{ course.language_instruction }} | {{ course.language_materials }} | [link]({{ course.website_url }}) | [link]({{ course.materials_url }}) | 
 {% endfor %}
 {% endif %}
