@@ -18,7 +18,7 @@ We have posted [all the materials](https://github.com/tinyMLx/courseware/tree/ma
 
 We are also trying to track and provide links to others to all TinyML course materials that are created to make it even easier for others to launch courses so we ask that if you create a course based on these materials that you consider posting your materials publicly and sending us a link so we can add it to the table below.
 
-Finally, if you want to be more involved with our effort to help improve access to TinyML educational materials and hardware resources worldwide please check out the [TinyML4D working group](/TinyML4D/)!
+Finally, if you want to be more involved with our effort to help improve access to TinyML educational materials and hardware resources worldwide please check out the [TinyML4D working group](/4D/)!
 
 Questions, comments, concerns, suggestions for improvement – reach out to us at {% include email %}!
 
