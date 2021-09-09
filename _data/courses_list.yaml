@@ -29,3 +29,11 @@
   url: "https://www.coursera.org/learn/introduction-to-embedded-machine-learning"
   btn_label: "Take the Course on Coursera"
   btn_class: "btn--primary"
+
+- image_path: /assets/images/courses/courseraEICVCourse.png
+  alt: "Computer Vision with Embedded Machine Learning"
+  title: "Computer Vision with Embedded Machine Learning"
+  excerpt: "This course, offered by a partnership among Edge Impulse, OpenMV, Seeed Studio, and the TinyML Foundation, will give you an understanding of how deep learning with neural networks can be used to classify images and detect objects in images and videos."
+  url: "https://www.coursera.org/learn/computer-vision-with-embedded-machine-learning"
+  btn_label: "Take the Course on Coursera"
+  btn_class: "btn--primary"
