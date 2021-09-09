@@ -10,7 +10,7 @@
     <meta charset="utf-8">
 
 <!-- begin _includes/seo.html --><title>Welcome to the Tiny Machine Learning Open Education Initiative (TinyMLx) - TinyMLx</title>
-<meta name="description" content="TinyML is a cutting-edge field that brings the transformative power of machine learning (ML) to the performance- and power-constrained domain of embedded systems. Successful deployment in this field requires intimate knowledge of applications, algorithms, hardware, and software.">
+<meta name="description" content="We are working to improve global access to educational materials for the cutting-edge field of TinyML. TinyML brings the transformative power of machine learning (ML) to the performance- and power-constrained domain of embedded systems. Successful deployment in this field requires knowledge of applications, algorithms, hardware, and software.">
 
 
   <meta name="author" content="tinyMLx">
@@ -24,7 +24,7 @@
 <meta property="og:url" content="https://tinymlx.github.io/">
 
 
-  <meta property="og:description" content="TinyML is a cutting-edge field that brings the transformative power of machine learning (ML) to the performance- and power-constrained domain of embedded systems. Successful deployment in this field requires intimate knowledge of applications, algorithms, hardware, and software.">
+  <meta property="og:description" content="We are working to improve global access to educational materials for the cutting-edge field of TinyML. TinyML brings the transformative power of machine learning (ML) to the performance- and power-constrained domain of embedded systems. Successful deployment in this field requires knowledge of applications, algorithms, hardware, and software.">
 
 
 
@@ -89,6 +89,13 @@
     <!-- start custom head snippets -->
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
 
 <!-- end custom head snippets -->
 
@@ -121,13 +128,13 @@
         <ul class="visible-links"><li class="masthead__menu-item">
               <a href="/">Home</a>
             </li><li class="masthead__menu-item">
-              <a href="/courses/">Learn TinyML</a>
+              <a href="/courses">TinyML Courses</a>
             </li><li class="masthead__menu-item">
-              <a href="/teach/">Teach TinyML</a>
+              <a href="/teach">Teach TinyML</a>
+            </li><li class="masthead__menu-item">
+              <a href="/4D">TinyML4D</a>
             </li><li class="masthead__menu-item">
               <a href="https://discuss.tinymlx.org">Discourse</a>
-            </li><li class="masthead__menu-item">
-              <a href="/TinyML4D/">TinyML4D</a>
             </li><li class="masthead__menu-item">
               <a href="https://github.com/tinyMLx">TinyMLx GitHub</a>
             </li><li class="masthead__menu-item">
@@ -135,7 +142,7 @@
             </li><li class="masthead__menu-item">
               <a href="/edXCourseTeam/">edX Course Team</a>
             </li><li class="masthead__menu-item">
-              <a href="https://tinyml.org/">TinyML Foundation</a>
+              <a href="/sponsors">Sponsors</a>
             </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">
@@ -171,7 +178,7 @@
         
       </h1>
       
-        <p class="page__lead">TinyML is a cutting-edge field that brings the transformative power of machine learning (ML) to the performance- and power-constrained domain of embedded systems. Successful deployment in this field requires intimate knowledge of applications, algorithms, hardware, and software.
+        <p class="page__lead">We are working to improve global access to educational materials for the cutting-edge field of TinyML. TinyML brings the transformative power of machine learning (ML) to the performance- and power-constrained domain of embedded systems. Successful deployment in this field requires knowledge of applications, algorithms, hardware, and software.
 </p>
       
       
@@ -181,11 +188,11 @@
       
         <p>
         
-          <a href="/courses/" class="btn btn--light-outline btn--large">Take a Free Online Course to Learn More</a>
+          <a href="/#courses" class="btn btn--light-outline btn--large">Take a Free Online Course to Learn More</a>
         
-          <a href="/teach/" class="btn btn--light-outline btn--large">Build and Teach your own TinyML Course</a>
+          <a href="/#teach" class="btn btn--light-outline btn--large">Build and Teach your own TinyML Course</a>
         
-          <a href="/TinyML4D/" class="btn btn--light-outline btn--large">Explore the TinyML4D Initiative</a>
+          <a href="/#TinyML4D" class="btn btn--light-outline btn--large">Explore the TinyML4D Initiative</a>
         
       
     </div>
@@ -201,14 +208,15 @@
 <div id="main" role="main">
   <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Welcome to the Tiny Machine Learning Open Education Initiative (TinyMLx)">
-    <meta itemprop="description" content="TinyML is a cutting-edge field that brings the transformative power of machine learning (ML) to the performance- and power-constrained domain of embedded systems. Successful deployment in this field requires intimate knowledge of applications, algorithms, hardware, and software.">
+    <meta itemprop="description" content="We are working to improve global access to educational materials for the cutting-edge field of TinyML. TinyML brings the transformative power of machine learning (ML) to the performance- and power-constrained domain of embedded systems. Successful deployment in this field requires knowledge of applications, algorithms, hardware, and software.">
     
     
 
     <section class="page__content" itemprop="text">
-      <!-- 
+      <hr style="height:5px;border:none;color:#00A;background-color:#00A;" />
 
-<div class="feature__wrapper">
+<div class="feature__wrapper" id="courses" style="border-bottom: none;">
+
 
   
     <div class="feature__item--center">
@@ -217,7 +225,11 @@
 
         <div class="archive__item-body">
           
-            <h2 class="archive__item-title">Take an Exciting Course to Learn More!</h2>
+            <h2 class="archive__item-title"><p>Take a Free Online Course to Learn About TinyML</p>
+</h2>
+          
+          
+
           
 
           
@@ -229,26 +241,27 @@
   
 
 </div>
- -->
 
-<!-- 
+<hr style="height:5px;border:none;color:#00A;background-color:#00A;" />
 
-<div class="feature__wrapper">
+<div class="feature__wrapper" id="courses_list" style="border-bottom: none;">
+
 
   
     <div class="feature__item">
       <div class="archive__item">
         
           <div class="archive__item-teaser">
-            <img src="/assets/images/foundationsOfTinyML.jpg"
-                 alt="Foundations of TinyML">
+            <img src="/assets/images/courses/foundationsOfTinyML.jpg" alt="Foundations of TinyML" />
             
           </div>
         
 
         <div class="archive__item-body">
           
-            <h2 class="archive__item-title">Foundations of TinyML</h2>
+            <h2 class="archive__item-title"><p>Foundations of TinyML</p>
+</h2>
+          
           
 
           
@@ -256,6 +269,8 @@
               <p>Focusing on the basics of machine learning and embedded systems, such as smartphones, this course will introduce you to the “language” of TinyML.</p>
 
             </div>
+          
+
           
 
           
@@ -269,15 +284,16 @@
       <div class="archive__item">
         
           <div class="archive__item-teaser">
-            <img src="/assets/images/applicaitonsOfTinyML.jpg"
-                 alt="Applications Of TinyML">
+            <img src="/assets/images/courses/applicaitonsOfTinyML.jpg" alt="Applications Of TinyML" />
             
           </div>
         
 
         <div class="archive__item-body">
           
-            <h2 class="archive__item-title">Applications Of TinyML</h2>
+            <h2 class="archive__item-title"><p>Applications Of TinyML</p>
+</h2>
+          
           
 
           
@@ -285,6 +301,8 @@
               <p>Get the opportunity to see TinyML in practice. You will see examples of TinyML applications, and learn first-hand how to train these models for tiny applications such as keyword spotting, visual wake words, and gesture recognition.</p>
 
             </div>
+          
+
           
 
           
@@ -298,15 +316,16 @@
       <div class="archive__item">
         
           <div class="archive__item-teaser">
-            <img src="/assets/images/deployingTinyML.jpg"
-                 alt="Deploying TinyML">
+            <img src="/assets/images/courses/deployingTinyML.jpg" alt="Deploying TinyML" />
             
           </div>
         
 
         <div class="archive__item-body">
           
-            <h2 class="archive__item-title">Deploying TinyML</h2>
+            <h2 class="archive__item-title"><p>Deploying TinyML</p>
+</h2>
+          
           
 
           
@@ -314,6 +333,8 @@
               <p>Learn to program in TensorFlow Lite for microcontrollers so that you can write the code, and deploy your model to your very own tiny microcontroller. Before you know it, you’ll be implementing an entire TinyML application.</p>
 
             </div>
+          
+
           
 
           
@@ -327,15 +348,16 @@
       <div class="archive__item">
         
           <div class="archive__item-teaser">
-            <img src="/assets/images/courseraEICourse.jpeg"
-                 alt="Introduction to Embedded Machine Learning">
+            <img src="/assets/images/courses/courseraEICourse.jpeg" alt="Introduction to Embedded Machine Learning" />
             
           </div>
         
 
         <div class="archive__item-body">
           
-            <h2 class="archive__item-title">Introduction to Embedded Machine Learning</h2>
+            <h2 class="archive__item-title"><p>Introduction to Embedded Machine Learning</p>
+</h2>
+          
           
 
           
@@ -343,6 +365,8 @@
               <p>This course will give you a broad overview of how machine learning works, how to train neural networks, and how to deploy those networks to microcontrollers using the Edge Impulse Platform.</p>
 
             </div>
+          
+
           
 
           
@@ -354,11 +378,11 @@
   
 
 </div>
- -->
 
+<hr style="height:5px;border:none;color:#00A;background-color:#00A;" />
 
+<div class="feature__wrapper" id="teach" style="border-bottom: none;">
 
-<div class="feature__wrapper">
 
   
     <div class="feature__item--center">
@@ -367,7 +391,11 @@
 
         <div class="archive__item-body">
           
-            <h2 class="archive__item-title">Thanks to all of our corporate supporters!</h2>
+            <h2 class="archive__item-title"><p>Build and Teach Your Own TinyML Course</p>
+</h2>
+          
+          
+
           
 
           
@@ -380,56 +408,303 @@
 
 </div>
 
+<hr style="height:5px;border:none;color:#00A;background-color:#00A;" />
+
+<p>We have posted <a href="https://github.com/tinyMLx/courseware/tree/master/edX">all the materials</a> from the <a href="https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning">edX specialization</a> as well as our custom <a href="https://github.com/tinyMLx/arduino-library">Arduino Library</a> and all supporting <a href="https://github.com/tinyMLx/colabs">Colab Notebooks</a>. All of the materials are open source licensed and are at most <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">non-commercial share alike</a> – which means just cite us and you can use it all for free! You can also find materials from other TinyML courses and workshops that have been developed in the table below.</p>
+
+<p>We are also trying to track and provide links to others to all TinyML course materials that are created to make it even easier for others to launch courses so we ask that if you create a course based on these materials that you consider posting your materials publicly and sending us a link so we can add it to the table below.</p>
+
+<p>Questions, comments, concerns, suggestions for improvement – reach out to us at edu@tinyML.org!</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Course Name</th>
+      <th>Date of Course</th>
+      <th>Target Audience</th>
+      <th>Language of Instruction</th>
+      <th>Language of Materials</th>
+      <th>Course Website</th>
+      <th>Materials Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>edX TinyML Specialization</td>
+      <td>Launched 2020-2021</td>
+      <td>Everyone</td>
+      <td>English</td>
+      <td>English</td>
+      <td><a href="https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning">link</a></td>
+      <td><a href="course.materials_url }}">link</a></td>
+    </tr>
+    <tr>
+      <td>Harvard CS249r</td>
+      <td>Sept-Dec 2020</td>
+      <td>Graduate Students</td>
+      <td>English</td>
+      <td>English</td>
+      <td><a href="https://sites.google.com/g.harvard.edu/tinyml/home">link</a></td>
+      <td><a href="course.materials_url }}">link</a></td>
+    </tr>
+    <tr>
+      <td>UNIFEI IESTI01-T01</td>
+      <td>Jan-July 2021</td>
+      <td>Undergraduate Students</td>
+      <td>Portuguese</td>
+      <td>English</td>
+      <td><a href="https://github.com/Mjrovai/UNIFEI-IESTI01-T01-2021.1">link</a></td>
+      <td><a href="course.materials_url }}">link</a></td>
+    </tr>
+    <tr>
+      <td>UNIFEI IESTI01-T02</td>
+      <td>Aug-Dec 2021</td>
+      <td>Undergraduate Students</td>
+      <td>Portuguese</td>
+      <td>English</td>
+      <td><a href="https://github.com/Mjrovai/UNIFEI-IESTI01-TinyML-2021.2">link</a></td>
+      <td><a href="course.materials_url }}">link</a></td>
+    </tr>
+    <tr>
+      <td>CRESTLEX 3.0</td>
+      <td>June 2021</td>
+      <td>Middle and High School Students and Teachers</td>
+      <td>English</td>
+      <td>English</td>
+      <td><a href="https://tinymlx.org/CRESTLEX3/">link</a></td>
+      <td><a href="course.materials_url }}">link</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr style="height:5px;border:none;color:#00A;background-color:#00A;" />
+
+<div class="feature__wrapper" id="TinyML4D" style="border-bottom: none;">
 
 
+  
+    <div class="feature__item--center">
+      <div class="archive__item">
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title"><p>TinyML4D: TinyML for Developing Countries</p>
+</h2>
+          
+          
+
+          
+
+          
+
+          
+        </div>
+      </div>
+    </div>
+  
+    <div class="feature__item--center">
+      <div class="archive__item">
+        
+
+        <div class="archive__item-body">
+          
+          
+            <div class="archive__item-excerpt" style="font-size:1em;"><p>Widening access to applied machine learning by establishing best practices in education.</p>
+</div>
+          
+
+          
+
+          
+
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<hr style="height:5px;border:none;color:#00A;background-color:#00A;" />
+
+<p>If you want to be more involved with our effort to help improve access to TinyML educational materials and hardware resources worldwide reach out to us at edu@tinyML.org!</p>
+
+<div class="feature__wrapper" id="4D_list" style="border-bottom: none;">
 
 
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/4D/AN_Map.png" alt="TinyML4D Academic Network" style="max-height:230px; width:auto;" />
+            
+          </div>
+        
 
-<figure class="third ">
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title"><p>TinyML4D Academic Network</p>
+</h2>
+          
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>The TinyML4D working group is building a network of academic institutions, based in Developing Countries, interested in expanding access to Applied Machine Learning by establishing best practices in education. We aim to ultimately develop a community of researchers and practitioners focused on both improving access to TinyML education and enabling innovative solutions for the unique challenges faced by Developing Countries.</p>
+
+            </div>
+          
+
+          
+
+          
+            <p><a href="/4D/AcademicNetwork" class="btn btn--primary">Learn More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/4D/K12_cover.png" alt="TinyML4K12" style="max-height:230px; width:auto;" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title"><p>TinyML4K12</p>
+</h2>
+          
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Expanding TinyML education into primary and secondary schools (K-12) requires the development of an end-to-end pipeline that is appropriate for school-aged children. We are working with education and industry partners to combine computer science education software and the physical computing ecosystem to enable an easy learning experience for creating, deploying, and using TinyML models. This pipeline will enable the creation of additional materials that can be used across the globe for students of all ages.</p>
+
+            </div>
+          
+
+          
+
+          
+            <p><a href="/4D/K12" class="btn btn--primary">Learn More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/4D/translation.jpg" alt="TinyMLTranslations" style="max-height:230px; width:auto;" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title"><p>TinyMLTranslations</p>
+</h2>
+          
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Our mission is to enable all learners, regardless of their preferred language of learning, to be able to access and learn TinyML. As such, we work to translate and support material and course development in languages other than English.</p>
+
+            </div>
+          
+
+          
+
+          
+            <p><a href="/4D/translations" class="btn btn--primary">Learn More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<hr style="height:5px;border:none;color:#00A;background-color:#00A;" />
+
+<div class="feature__wrapper" id="sponsors_intro" style="border-bottom: none;">
+
+
+  
+    <div class="feature__item--center">
+      <div class="archive__item">
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title"><p>Thanks to all of our sponsors!</p>
+</h2>
+          
+          
+
+          
+
+          
+
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<hr style="height:5px;border:none;color:#00A;background-color:#00A;" />
+
+<figure class="third " id="sponsors_list">
+
   
     
-      <a href="https://www.google.com"
-        >
-          <img src="/assets/images/sponsors/googleLogo.jpg"
-               alt="google">
+      <a href="https://www.google.com">
+          <img src="/assets/images/sponsors/googleLogo.jpg" alt="google" style="max-height:250px;" />
       </a>
     
   
     
-      <a href="https://www.arduino.cc"
-        >
-          <img src="/assets/images/sponsors/arduinoLogo.svg"
-               alt="Arduino">
+      <a href="https://www.arduino.cc">
+          <img src="/assets/images/sponsors/arduinoLogo.svg" alt="Arduino" style="max-height:250px;" />
       </a>
     
   
     
-      <a href="https://www.edgeimpulse.com/"
-        >
-          <img src="/assets/images/sponsors/EILogo.png"
-               alt="Edge Impulse">
+      <a href="https://www.edgeimpulse.com/">
+          <img src="/assets/images/sponsors/EILogo.png" alt="Edge Impulse" style="max-height:250px;" />
       </a>
     
   
     
-      <a href="https://www.edx.org"
-        >
-          <img src="/assets/images/sponsors/edXLogo.png"
-               alt="edX">
+      <a href="https://www.edx.org">
+          <img src="/assets/images/sponsors/edXLogo.png" alt="edX" style="max-height:250px;" />
       </a>
     
   
     
-      <a href="https://programs.edx.org/partner-harvard"
-        >
-          <img src="/assets/images/sponsors/harvardXLogo.jpg"
-               alt="HarvardX">
+      <a href="https://www.tinyml.org/">
+          <img src="/assets/images/sponsors/tinyMLFoundationLogo.svg" alt="TinyML Foundation" style="max-height:250px;" />
+      </a>
+    
+  
+    
+      <a href="https://programs.edx.org/partner-harvard">
+          <img src="/assets/images/sponsors/harvardXLogo.jpg" alt="HarvardX" style="max-height:250px;" />
       </a>
     
   
   
 </figure>
-
 
     </section>
   </article>

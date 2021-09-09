@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://tinymlx.github.io/4D/AcademicNetwork</loc>
+</url>
+<url>
 <loc>https://tinymlx.github.io/CRESTLEX3_Flyer/</loc>
 </url>
 <url>
-<loc>https://tinymlx.github.io/TinyML4D/</loc>
+<loc>https://tinymlx.github.io/4D/K12</loc>
 </url>
 <url>
 <loc>https://tinymlx.github.io/TinyML4STEM/</loc>
@@ -16,6 +19,9 @@
 <loc>https://tinymlx.github.io/edXCourseTeam/</loc>
 </url>
 <url>
+<loc>https://tinymlx.github.io/4D/</loc>
+</url>
+<url>
 <loc>https://tinymlx.github.io/</loc>
 </url>
 <url>
@@ -25,6 +31,12 @@
 <loc>https://tinymlx.github.io/open_speech_recording/</loc>
 </url>
 <url>
+<loc>https://tinymlx.github.io/sponsors/</loc>
+</url>
+<url>
 <loc>https://tinymlx.github.io/teach/</loc>
+</url>
+<url>
+<loc>https://tinymlx.github.io/4D/translations</loc>
 </url>
 </urlset>
