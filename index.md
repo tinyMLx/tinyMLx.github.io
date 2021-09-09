@@ -20,6 +20,9 @@ excerpt: "We are working to improve global access to educational materials for t
 sponsors_intro: 
   - title: "Thanks to all of our sponsors!"
 
+events: 
+  - title: 'Upcoming Events'
+
 courses:
   - title: "Take a Free Online Course to Learn About TinyML"
 
@@ -30,6 +33,19 @@ TinyML4D:
   - title: "TinyML4D: TinyML for Developing Countries"
   - subtitle: "Widening access to applied machine learning by establishing best practices in education."
 ---
+{% include section_break %}
+{% include feature_row id="events" type="center" %}
+{% include section_break %}
+
+The [SciTinyML: Scientific Use of Machine Learning on Low-Power Devices](http://indico.ictp.it/event/9622/) workshop hosted by the [Abdus Salam International Centre for Theoretical Physics](https://www.ictp.it/) has been postponded to **October 18-22 2021** due to the global semiconductor shortage as a result of COVID-19. [View the updated flyer](/assets/images/4D/2021ICTPWorkshop.png). 
+
+In the meantime, we will be holding three introductory Zoom meetings for the TinyML4D Academic Network on:
++ **September 17, 1-2pm GMT**: Academic Network Introduction and Why the Future of ML is Tiny and Bright with [Prof. Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) of Harvard University
++ **October 1, 1-2pm GMT**: Software Tools for TinyML with [Prof. Marcelo Rovai](https://github.com/Mjrovai) of Universidade Federal de Itajubá
++ **October 8, 1-2pm GMT**: Case Studies of TinyML in Rwanda and Brazil and Academic Network AMA
+
+
+
 
 {% include section_break %}
 {% include feature_row id="courses" type="center" %}
