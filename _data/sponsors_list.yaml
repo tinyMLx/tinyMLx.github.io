@@ -16,3 +16,6 @@
 - image_path: /assets/images/sponsors/harvardXLogo.jpg
   alt: "HarvardX"
   url: "https://programs.edx.org/partner-harvard"
+- image_path: /assets/images/sponsors/SEASLogo.png
+  alt: "The Harvard John A. Paulson School of Engineering and Applied Sciences"
+  url: "https://www.seas.harvard.edu/"
