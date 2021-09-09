@@ -15,7 +15,7 @@ header:
     - label: "Explore the TinyML4D Initiative"
       url: "#TinyML4D"
   caption: ""
-excerpt: "TinyML is a cutting-edge field that brings the transformative power of machine learning (ML) to the performance- and power-constrained domain of embedded systems. Successful deployment in this field requires intimate knowledge of applications, algorithms, hardware, and software."
+excerpt: "We are working to improve global access to educational materials for the cutting-edge field of TinyML. TinyML brings the transformative power of machine learning (ML) to the performance- and power-constrained domain of embedded systems. Successful deployment in this field requires knowledge of applications, algorithms, hardware, and software."
 
 sponsors_intro: 
   - title: "Thanks to all of our sponsors!"
