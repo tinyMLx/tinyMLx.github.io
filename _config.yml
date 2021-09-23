@@ -9,8 +9,8 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: TinyMLx
-email: tbd@tbd.com
+title: tinyMLedu
+email: edu@tinyml.org
 description: >- # this means to ignore newlines until "baseurl:"
   The Tiny Machine Learning Open Education Initiative
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -19,10 +19,10 @@ twitter_username: ""
 github_username:  tinymlx
 
 locale                   : "en-US"
-title                    : "TinyMLx"
+title                    : "tinyMLedu"
 title_separator          : "-"
 subtitle                 : "The Tiny Machine Learning Open Education Initiative"
-name                     : "TinyMLx"
+name                     : "tinyMLedu"
 description              : "The Tiny Machine Learning Open Education Initiative"
 url                      : "https://tinymlx.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

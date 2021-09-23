@@ -1,9 +1,9 @@
 ---
-title: "The edX TinyML Specialization team"
+title: "The edX tinyML Specialization team"
 layout: single
 permalink: /edXCourseTeam/
 intro: 
- - excerpt: "Our dedicated team of educators has made the [edX TinyML Specialization](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning) possible!"
+ - excerpt: "Our dedicated team of educators has made the [edX tinyML Specialization](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning) possible!"
 
 feature_row:
   - image_path: /assets/images/team/vijay.png
