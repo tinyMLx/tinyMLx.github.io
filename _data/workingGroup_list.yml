@@ -1,23 +1,23 @@
 - image_path: /assets/images/workingGroups/4D/AN_Map.png
-  alt: "tinyML4D"
-  title: "tinyML4D"
-  excerpt: "The tinyML4D working group is building a network of academic institutions, based in Developing Countries, interested in expanding access to Applied Machine Learning by establishing best practices in education. We aim to ultimately develop a community of researchers and practitioners focused on both improving access to tinyML education and enabling innovative solutions for the unique challenges faced by Developing Countries."
+  alt: "TinyML4D"
+  title: "TinyML4D"
+  excerpt: "The TinyML4D working group is building a network of academic institutions, based in Developing Countries, interested in expanding access to Applied Machine Learning by establishing best practices in education. We aim to ultimately develop a community of researchers and practitioners focused on both improving access to TinyML education and enabling innovative solutions for the unique challenges faced by Developing Countries."
   url: "/4D"
   btn_label: "Learn More"
   btn_class: "btn--primary"
 
 - image_path: /assets/images/workingGroups/4K12/cover.png
-  alt: "tinyML4K12"
-  title: "tinyML4K12"
-  excerpt: "Expanding tinyML education into primary and secondary schools (K-12) requires the development of an end-to-end pipeline that is appropriate for school-aged children. We are working with education and industry partners to combine computer science education software and the physical computing ecosystem to enable an easy learning experience for creating, deploying, and using tinyML models. This pipeline will enable the creation of additional materials that can be used across the globe for students of all ages."
+  alt: "TinyML4K12"
+  title: "TinyML4K12"
+  excerpt: "Expanding TinyML education into primary and secondary schools (K-12) requires the development of an end-to-end pipeline that is appropriate for school-aged children. We are working with education and industry partners to combine computer science education software and the physical computing ecosystem to enable an easy learning experience for creating, deploying, and using TinyML models. This pipeline will enable the creation of additional materials that can be used across the globe for students of all ages."
   url: "/4K12"
   btn_label: "Learn More"
   btn_class: "btn--primary"
 
 - image_path: /assets/images/workingGroups/translation.jpg
-  alt: "tinyMLTranslations"
-  title: "tinyMLTranslations"
-  excerpt: "Our mission is to enable all learners, regardless of their preferred language of learning, to be able to access and learn tinyML. As such, we work to translate and support material and course development in languages other than English."
+  alt: "TinyMLTranslations"
+  title: "TinyMLTranslations"
+  excerpt: "Our mission is to enable all learners, regardless of their preferred language of learning, to be able to access and learn TinyML. As such, we work to translate and support material and course development in languages other than English."
   url: "/translations"
   btn_label: "Learn More"
   btn_class: "btn--primary"

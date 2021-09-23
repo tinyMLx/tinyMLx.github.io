@@ -12,12 +12,12 @@ excerpt: "Tuesday June 22, 2021 - Friday June 25, 2021"
 *Are you curious about how Artificial Intelligence (AI) can be used to improve your everyday life? Do you ever wonder how your cell phone understands and responds to a question that you ask it? Have you heard the term Artificial Intelligence (AI), or Machine Learning (ML), but aren’t sure about possible uses of ML or AI, or how you might prepare for a career in this field?*
 
 ![Students workign on computer hardware projects](/assets/images/crestlex/students.jpg){:style="float: left; margin-right: 10px; margin-top: 7px; width: 225px;"}
-This first-of-its-kind, 1-week, hands-on/virtual course for high school teachers and students will give you experience in developing a real-world application of ML through hands-on examples of tiny machine learning (tinyML). tinyML is a cutting-edge field that brings the transformative power of machine learning (ML) to small low-power computing devices. This course will expose participants to the applications, algorithms, hardware, and software of tinyML.
+This first-of-its-kind, 1-week, hands-on/virtual course for high school teachers and students will give you experience in developing a real-world application of ML through hands-on examples of Tiny machine learning (TinyML). TinyML is a cutting-edge field that brings the transformative power of machine learning (ML) to small low-power computing devices. This course will expose participants to the applications, algorithms, hardware, and software of TinyML.
 
 Participants will learn how to use the [Edge Impulse platform](https://www.edgeimpulse.com/) to quickly and easily, collect data, train their own machine learning models, and deploy those models on their own mobile phones!
 
 ![Harvard, Google, NTU, and Edge Impulse Logos](/assets/images/crestlex/logos.png){:style="float: right; margin-left: 10px; margin-top: 7px; width: 150px;"}
-This program is a collaboration between Navajo Technical University, Harvard John A. Paulson School of Engineering and Applied Sciences, Google, and Edge Impulse, and will be run virtually from June 22 to June 25, 2021. We will be accepting up to 50 students and teachers. Deadline to apply is May 15, 2021. We look forward to exploring tinyML with you this summer.
+This program is a collaboration between Navajo Technical University, Harvard John A. Paulson School of Engineering and Applied Sciences, Google, and Edge Impulse, and will be run virtually from June 22 to June 25, 2021. We will be accepting up to 50 students and teachers. Deadline to apply is May 15, 2021. We look forward to exploring TinyML with you this summer.
 
 To apply as a teacher [click here](https://forms.gle/8GM7SdCFqLPyweTb8){:target="_blank"}. To apply as a student [click here](https://forms.gle/bAvVeMua7yfJQqiR6){:target="_blank"}.<br/>Teachers selected for the workshop will be compensated for their time.
 

@@ -1,5 +1,5 @@
 ---
-title: "tinyML4D Past Events"
+title: "TinyML4D Past Events"
 layout: splash
 permalink: /4D/pastEvents
 date: 

@@ -1,9 +1,9 @@
 main:
   - title: "Home"
     url: "/"
-  - title: "tinyML Courses"
+  - title: "TinyML Courses"
     url: "/courses"
-  - title: "Teach tinyML"
+  - title: "Teach TinyML"
     url: "/teach"
   - title: "Working Groups"
     url: "/workingGroups"
@@ -11,7 +11,7 @@ main:
     url: "https://discuss.tinymlx.org"
   - title: "GitHub"
     url: "https://github.com/tinyMLx"
-  - title: "tinyML Arduino Kit"
+  - title: "TinyML Arduino Kit"
     url: "https://store.arduino.cc/usa/tiny-machine-learning-kit"
   - title: "edX Course Team"
     url: /edXCourseTeam/
