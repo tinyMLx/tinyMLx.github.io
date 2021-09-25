@@ -1,1 +1,9 @@
+{% if include.color %}
+
+<hr style="height:5px;border:none;color:{{ include.color }};background-color:{{ include.color }};" />
+
+{% else %}
+
 <hr style="height:5px;border:none;color:{{ page.header.overlay_color }};background-color:{{ page.header.overlay_color }};" />
+
+{% endif %}

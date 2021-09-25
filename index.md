@@ -15,7 +15,7 @@ header:
     - label: "Explore our Working Groups"
       url: "#workingGroups"
   caption: ""
-excerpt: "We are an international group of academics and industry professionals working to improve global access to educational materials for the cutting-edge field of TinyML. TinyML brings the transformative power of machine learning (ML) to the performance- and power-constrained domain of embedded systems. Successful deployment in this field requires knowledge of applications, algorithms, hardware, and software. TinyMLedu is hosted by Harvard University and affiliated with the TinyML foundation."
+excerpt: "We are an international group of academics and industry professionals working to improve global access to educational materials for the cutting-edge field of TinyML. TinyML brings the transformative power of machine learning (ML) to the performance- and power-constrained domain of embedded systems. Successful deployment in this field requires knowledge of applications, algorithms, hardware, and software. TinyMLedu is hosted by the Harvard John A. Paulson School of Engineering and Applied Sciences and affiliated with the TinyML foundation."
 
 sponsors_intro: 
   - title: "Thanks to all of our sponsors!"
@@ -40,7 +40,7 @@ workingGroups:
 The [SciTinyML: Scientific Use of Machine Learning on Low-Power Devices](http://indico.ictp.it/event/9622/) workshop hosted by the [Abdus Salam International Centre for Theoretical Physics](https://www.ictp.it/) has been postponded to **October 18-22 2021** due to the global semiconductor shortage as a result of COVID-19. [View the updated flyer](/assets/images/4D/2021ICTPWorkshop.png). 
 
 In the meantime, we will be holding three introductory seminars for the TinyML4D Academic Network on:
-+ **September 17, 1-2pm GMT**: Academic Network Introduction and Why the Future of ML is Tiny and Bright with [Prof. Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) of Harvard University. [Vijay's slides](/assets/slides/4D/seminars/21.09.17_Vijay_Janapa_Reddi.pdf). [Full Seminar Video](https://www.youtube.com/watch?v=In3ZgBBBLKw).
++ **September 17, 1-2pm GMT**: Academic Network Introduction and Why the Future of ML is Tiny and Bright with [Prof. Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) of Harvard University. [Vijay's slides](/assets/slides/4D/seminars/21.09.17_Vijay_Janapa_Reddi.pdf). [Full Seminar Video](https://youtu.be/LeW9lsyNqgY).
 + **October 1, 1-2pm GMT**: Software Tools for TinyML with [Prof. Marcelo Rovai](https://github.com/Mjrovai) of Universidade Federal de Itajubá
 + **October 8, 1-2pm GMT**: Case Studies of TinyML in Rwanda and Brazil and Academic Network AMA
 
@@ -81,4 +81,4 @@ If you want to be more involved with our effort to help improve access to TinyML
 {% include feature_row id="sponsors_intro" type="center" %}
 {% include section_break %}
 
-{% include gallery id="sponsors_list" %}
+{% include gallery id="sponsors_list" max_height="200px" %}

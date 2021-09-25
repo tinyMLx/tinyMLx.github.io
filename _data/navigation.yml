@@ -11,9 +11,9 @@ main:
     url: "https://discuss.tinymlx.org"
   - title: "GitHub"
     url: "https://github.com/tinyMLx"
-  - title: "TinyML Arduino Kit"
-    url: "https://store.arduino.cc/usa/tiny-machine-learning-kit"
-  - title: "edX Course Team"
-    url: /edXCourseTeam/
   - title: "Sponsors"
     url: "/sponsors"
+  - title: "Team"
+    url: /team/
+  - title: "TinyML Kit"
+    url: "https://store.arduino.cc/usa/tiny-machine-learning-kit"

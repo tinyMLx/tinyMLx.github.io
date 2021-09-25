@@ -29,7 +29,7 @@ activities:
 {% include feature_row id="news" type="center" %}
 
 The [SciTinyML: Scientific Use of Machine Learning on Low-Power Devices](http://indico.ictp.it/event/9622/) workshop hosted by the [Abdus Salam International Centre for Theoretical Physics](https://www.ictp.it/) has been postponded to *October 18-22 2021* due to the global semiconductor shortage as a result of COVID-19. [View the updated flyer](/assets/images/4D/2021ICTPWorkshop.png). In the meantime, we will be holding three introductory seminars for the Academic Network on:
-+ *September 17*: Academic Network Introduction and Why the Future of ML is Tiny and Bright with [Prof. Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) of Harvard University. [Vijay's slides](/assets/slides/4D/seminars/21.09.17_Vijay_Janapa_Reddi.pdf). [Full Seminar Video](https://www.youtube.com/watch?v=In3ZgBBBLKw).
++ *September 17*: Academic Network Introduction and Why the Future of ML is Tiny and Bright with [Prof. Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) of Harvard University. [Vijay's slides](/assets/slides/4D/seminars/21.09.17_Vijay_Janapa_Reddi.pdf). [Full Seminar Video](https://youtu.be/LeW9lsyNqgY).
 + *October 1*: Software Tools for TinyML with [Prof. Marcelo Rovai](https://github.com/Mjrovai) of Universidade Federal de Itajubá
 + *October 8*: Case Studies of TinyML in Rwanda and Brazil and Academic Network AMA
 
@@ -38,7 +38,7 @@ The [SciTinyML: Scientific Use of Machine Learning on Low-Power Devices](http://
 
 {% include feature_row id="activities" type="center" %}
 
-{% include feature_row id="4D_list" max_height="230px" %}
+{% include feature_row id="4D_list" max_height="150px" %}
 
 {% include feature_row id="courses" type="center" %}
 

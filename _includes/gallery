@@ -31,12 +31,12 @@
         {% if img.title %}title="{{ img.title }}"{% endif %}>
           <img src="{{ img.image_path | relative_url }}"
                alt="{% if img.alt %}{{ img.alt }}{% endif %}"
-               style="max-height:250px;">
+               {% if include.max_height %}style="max-height:{{ include.max_height }};width:auto;"{% endif %}>
       </a>
     {% else %}
       <img src="{{ img.image_path | relative_url }}"
            alt="{% if img.alt %}{{ img.alt }}{% endif %}"
-           style="max-height:250px;">
+           {% if include.max_height %}style="max-height:{{ include.max_height }};width:auto;"{% endif %}>
     {% endif %}
   {% endfor %}
   {% if include.caption %}

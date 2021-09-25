@@ -11,4 +11,4 @@ header:
 excerpt: "We would like to thank all of our sponsors for their support!"
 ---
 
-{% include gallery id="sponsors_list" %}
+{% include gallery id="sponsors_list" max_height="200px" %}
