@@ -7,7 +7,7 @@ header:
   overlay_color: "#00A"
   overlay_filter: "0.5"
   overlay_image: /assets/images/banner.jpg
-excerpt: "The TinyML4D working group is working to develop content for, and a network of, researchers and practitioners focused on enabling innovative solutions for the unique challenges faced by Developing Countries."
+excerpt: "The TinyML4D working group is working to develop content for, and a network of, researchers and practitioners focused on enabling innovative solutions for the unique challenges faced by Developing Countries. TinyML4D is co-hosted by the Abdus Salam International Centre for Theoretical Physics (ICTP)."
 
 news: 
   - title: 'Recent News'

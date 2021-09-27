@@ -82,8 +82,8 @@ edXCourseStaff:
     excerpt: "Harvard PhD Student<br/>[Learn More](https://markmaz.com/)" 
 
   - image_path: /assets/images/team/max.png
-    alt: "Max Lam"
-    title: "Max<br/>Lam"
+    alt: "Maximilian Lam"
+    title: "Maximilian<br/>Lam"
     excerpt: "Harvard PhD Student<br/>[Learn More](https://agnusmaximus.github.io/)" 
 
   - image_path: /assets/images/team/radhika.png
