@@ -13,3 +13,6 @@ excerpt: "Our mission is to enable all learners, regardless of their preferred l
 We would love your help translating our materials (and this website) into your preferred language of learning. If you would like to contribute please reach out to us at {% include email %}!
 
 To see the current list of avaialable materials (and the languages in which they are available) please view the materials list on our [Teach TinyML](/teach#materials) webpage.
+
+{% include section_break %}
+To return to the main working groups page [click here](/workingGroups).

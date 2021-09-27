@@ -33,4 +33,5 @@ With support from our [sponsors](/sponsors), member universities are receiving A
 
 To learn more about our past seminars, workshops, and other events, please view our [past events](/4D/pastEvents) page. 
 
+{% include section_break %}
 To return to the main 4D page [click here](/4D).

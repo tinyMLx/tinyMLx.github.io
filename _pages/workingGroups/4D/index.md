@@ -51,3 +51,6 @@ We are working to collect materials from all courses that teach TinyML to create
 {% include feature_row id="join" type="center" %}
 
 If you want to be more involved with our effort to help improve access to TinyML educational materials and hardware resources worldwide, or would like to be a part of the network, reach out to us at {% include email %}!
+
+{% include section_break %}
+To return to the main working groups page [click here](/workingGroups).
