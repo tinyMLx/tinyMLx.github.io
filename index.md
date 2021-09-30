@@ -34,6 +34,13 @@ workingGroups:
   - subtitle: "Widening access to applied machine learning by establishing best practices in education."
 ---
 {% include section_break %}
+{% include feature_row id="sponsors_intro" type="center" %}
+{% include section_break %}
+
+{% include gallery id="sponsors_list" max_height="200px" %}
+
+
+{% include section_break %}
 {% include feature_row id="events" type="center" %}
 {% include section_break %}
 
@@ -76,9 +83,3 @@ Questions, comments, concerns, suggestions for improvement – reach out to us a
 If you want to be more involved with our effort to help improve access to TinyML educational materials and hardware resources worldwide reach out to us at edu@tinyML.org!
 
 {% include feature_row id="workingGroup_list" max_height="230px" %}
-
-{% include section_break %}
-{% include feature_row id="sponsors_intro" type="center" %}
-{% include section_break %}
-
-{% include gallery id="sponsors_list" max_height="200px" %}
