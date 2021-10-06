@@ -14,7 +14,7 @@ excerpt: "Below you will find materials from our past seminars, workshops, and o
 
 + *September 17 2021*: Academic Network Introduction and Why the Future of ML is Tiny and Bright with [Prof. Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) of Harvard University. [Vijay's Slides](/assets/slides/4D/seminars/21.09.17_Vijay_Janapa_Reddi.pdf). [Full Seminar Video](https://youtu.be/LeW9lsyNqgY).
 
-+ *October 1 2021*: Software Tools for TinyML with [Prof. Marcelo Rovai](https://github.com/Mjrovai) of Universidade Federal de Itajubá. [Marcelo's Slides](/assets/slides/4D/seminars/21.10.01_Marcelo_Rovai.pdf). [Full Seminar Video](https://youtu.be/aV_e1wFjK8s).
++ *October 1 2021*: Software Tools for TinyML with [Prof. Marcelo Rovai](https://github.com/Mjrovai) of Universidade Federal de Itajubá. [Marcelo's Slides](/assets/slides/4D/seminars/21.10.01_Marcelo_Rovai.pdf). [Full Seminar Video](https://youtu.be/aV_e1wFjK8s). [Chat Log](/4D/AcademicNetwork/21-10-01-SeminarChatLog).
 
 ## Talks
 
