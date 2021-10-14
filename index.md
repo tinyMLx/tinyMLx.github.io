@@ -48,8 +48,8 @@ The [SciTinyML: Scientific Use of Machine Learning on Low-Power Devices](/SciTin
 
 In the meantime, we will be holding three introductory seminars for the TinyML4D Academic Network on:
 + **September 17, 1-2pm GMT**: Academic Network Introduction and Why the Future of ML is Tiny and Bright with [Prof. Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) of Harvard University. [Vijay's slides](/assets/slides/4D/seminars/21.09.17_Vijay_Janapa_Reddi.pdf). [Full Seminar Video](https://youtu.be/LeW9lsyNqgY).
-+ **October 1, 1-2pm GMT**: Software Tools for TinyML with [Prof. Marcelo Rovai](https://github.com/Mjrovai) of Universidade Federal de Itajubá. [Marcelo's Slides](/assets/slides/4D/seminars/21.10.01_Marcelo_Rovai.pdf). [Full Seminar Video](https://youtu.be/aV_e1wFjK8s). [Chat Log](/4D/AcademicNetwork/21-10-01-SeminarChatLog).
-+ **October 8, 1-2pm GMT**: Case Studies of TinyML in Rwanda and Brazil and Academic Network AMA
++ **October 1, 1-2pm GMT**: Software Tools for Embedded ML with [Prof. Marcelo Rovai](https://github.com/Mjrovai) of Universidade Federal de Itajubá. [Marcelo's Slides](/assets/slides/4D/seminars/21.10.01_Marcelo_Rovai.pdf). [Full Seminar Video](https://youtu.be/aV_e1wFjK8s). [Chat Log](/4D/AcademicNetwork/21-10-01-SeminarChatLog).
++ **October 8, 1-2pm GMT**: Case Studies of Embedded ML in Rwanda and Brazil and Academic Network AMA Hosted by [Marco Zennaro](http://users.ictp.it/~mzennaro/). [Marco's Slides](/assets/slides/4D/seminars/21.10.08_Marco_Zennaro.pdf). [Video of Marco's Presentation](TBD). Videos of Case Studies Coming Soon.
 
 
 
