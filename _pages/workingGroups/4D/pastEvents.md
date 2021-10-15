@@ -16,7 +16,7 @@ excerpt: "Below you will find materials from our past seminars, workshops, and o
 
 + *October 1, 2021*: Software Tools for TinyML with [Prof. Marcelo Rovai](https://github.com/Mjrovai) of Universidade Federal de Itajubá. [Marcelo's Slides](/assets/slides/4D/seminars/21.10.01_Marcelo_Rovai.pdf). [Full Seminar Video](https://youtu.be/aV_e1wFjK8s). [Chat Log](/4D/AcademicNetwork/21-10-01-SeminarChatLog).
 
-+ *October 8, 2021*: Case Studies of Embedded ML in Rwanda and Brazil and Academic Network AMA Hosted by [Marco Zennaro](http://users.ictp.it/~mzennaro/). [Marco's Slides](/assets/slides/4D/seminars/21.10.08_Marco_Zennaro.pdf). Video of Marco's Presentation Coming Soon. Videos of Case Studies Coming Soon.
++ *October 8, 2021*: Case Studies of Embedded ML in Rwanda and Brazil and Academic Network AMA Hosted by [Marco Zennaro](http://users.ictp.it/~mzennaro/). [Marco's Slides](/assets/slides/4D/seminars/21.10.08_Marco_Zennaro.pdf). [Video of Marco's Presentation](https://youtu.be/9k5BXcZBZGc). Videos of Case Studies Coming Soon.
 
 ## Talks
 
