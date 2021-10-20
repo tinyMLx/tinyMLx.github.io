@@ -15,6 +15,7 @@ excerpt: "Below you will find materials from our past seminars, workshops, and o
 + *October 18-22, 2021*: SciTinyML - Scientific Use of Machine Learning on Low-Power Devices. Slides and Videos can be found on the [Workshop Website](/SciTinyML).
 
 ## Seminars
+All Seminar Videos can be found at [this playlist](https://youtube.com/playlist?list=PLL5nb-tgetJiPg33y__aHO8oms1bZKnvD).
 
 + *September 17, 2021*: Academic Network Introduction and Why the Future of ML is Tiny and Bright with [Prof. Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) of Harvard University. [Vijay's Slides](/assets/slides/4D/seminars/21.09.17_Vijay_Janapa_Reddi.pdf). [Full Seminar Video](https://youtu.be/LeW9lsyNqgY).
 
