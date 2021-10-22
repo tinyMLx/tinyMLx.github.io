@@ -6,6 +6,14 @@
   website_url: "https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning"
   materials_url: "https://github.com/tinyMLx/courseware/tree/master/edX"
 
+- name: "SciTinyML 2021"
+  date: "October 2021"
+  audience: "Everyone"
+  language_instruction: "English"
+  language_materials: "English"
+  website_url: "https://tinyml.seas.harvard.edu/SciTinyML/"
+  materials_url: "https://tinyml.seas.harvard.edu/SciTinyML/schedule"
+
 - name: "Harvard CS249r"
   date: "Sept-Dec 2020"
   audience: "Graduate Students"
