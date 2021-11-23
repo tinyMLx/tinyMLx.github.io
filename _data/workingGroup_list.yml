@@ -21,3 +21,11 @@
   url: "/translations"
   btn_label: "Learn More"
   btn_class: "btn--primary"
+
+- image_path: /assets/images/workingGroups/4STEM.png
+  alt: "TinyML4STEM"
+  title: "TinyML4STEM"
+  excerpt: "TinyML can be a great way to explore STEM concepts. We are working to integrate TinyML into other STEM disciplines to develop exciting hands-on curricula. We invite you to help join the community effort to develop, improve, and expand upon these materials. Together we can build new exciting projects to foster STEM education."
+  url: "/4STEM"
+  btn_label: "Learn More"
+  btn_class: "btn--primary"

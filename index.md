@@ -34,25 +34,20 @@ workingGroups:
   - subtitle: "Widening access to applied machine learning by establishing best practices in education."
 ---
 {% include section_break %}
+{% include feature_row id="events" type="center" %}
+{% include section_break %}
+
++ We will be speaking at the TinyML for Good Workshop on **Wedensday, November 17, 2021.** For more information check out the [workshop website](https://www.tinyml.org/event/tinyml-for-good/).
+
++ We will be speaking at the AI for Good Conference on **Tuesday, November 23, 2021.** For more information check out our [presentation abstract](https://aiforgood.itu.int/event/aiot-when-iot-meets-the-ai/).
+
+
+
+{% include section_break %}
 {% include feature_row id="sponsors_intro" type="center" %}
 {% include section_break %}
 
 {% include gallery id="sponsors_list" max_height="200px" %}
-
-
-{% include section_break %}
-{% include feature_row id="events" type="center" %}
-{% include section_break %}
-
-The [SciTinyML: Scientific Use of Machine Learning on Low-Power Devices](/SciTinyML) workshop hosted by the [Abdus Salam International Centre for Theoretical Physics](https://www.ictp.it/) has been postponded to **October 18-22 2021** due to the global semiconductor shortage as a result of COVID-19.
-
-In the meantime, we will be holding three introductory seminars for the TinyML4D Academic Network on:
-+ **September 17, 1-2pm GMT**: Academic Network Introduction and Why the Future of ML is Tiny and Bright with [Prof. Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) of Harvard University. [Vijay's slides](/assets/slides/4D/seminars/21.09.17_Vijay_Janapa_Reddi.pdf). [Full Seminar Video](https://youtu.be/LeW9lsyNqgY).
-+ **October 1, 1-2pm GMT**: Software Tools for Embedded ML with [Prof. Marcelo Rovai](https://github.com/Mjrovai) of Universidade Federal de Itajubá. [Marcelo's Slides](/assets/slides/4D/seminars/21.10.01_Marcelo_Rovai.pdf). [Full Seminar Video](https://youtu.be/aV_e1wFjK8s). [Chat Log](/4D/AcademicNetwork/21-10-01-SeminarChatLog).
-+ **October 8, 1-2pm GMT**: Case Studies of Embedded ML in Rwanda and Brazil and Academic Network AMA Hosted by [Marco Zennaro](http://users.ictp.it/~mzennaro/). [Marco's Slides](/assets/slides/4D/seminars/21.10.08_Marco_Zennaro.pdf). [Video of Marco's Presentation](https://youtu.be/9k5BXcZBZGc). Videos of Case Studies Coming Soon.
-
-
-
 
 {% include section_break %}
 {% include feature_row id="courses" type="center" %}
