@@ -15,10 +15,10 @@
   btn_class: "btn--primary"
 
 - image_path: /assets/images/workingGroups/translation.jpg
-  alt: "TinyMLTranslations"
-  title: "TinyMLTranslations"
+  alt: "TinyML4Xlation"
+  title: "TinyML4Xlation"
   excerpt: "Our mission is to enable all learners, regardless of their preferred language of learning, to be able to access and learn TinyML. As such, we work to translate and support material and course development in languages other than English."
-  url: "/translations"
+  url: "/4Xlation"
   btn_label: "Learn More"
   btn_class: "btn--primary"
 

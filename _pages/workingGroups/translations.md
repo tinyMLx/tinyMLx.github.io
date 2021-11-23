@@ -1,7 +1,7 @@
 ---
-title: "TinyMLTranslations"
+title: "TinyML4Xlation"
 layout: splash
-permalink: /translations
+permalink: /4Xlation
 date: 
 header:
   overlay_color: "#00A"
