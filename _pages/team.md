@@ -124,14 +124,14 @@ workingGroupLeadership:
   - image_path: /assets/images/team/andres.jpeg
     alt: "Andres Monsalvo"
     title: "Andres<br/>Monsalvo"
-    subtitle: "TinyMLTranslations Chair"
+    subtitle: "TinyML4Xlations Chair"
     excerpt: "Mechanical Engineer Spartan Controls<br/>[Learn More](https://www.linkedin.com/in/andresmonsalvo/)"
 
-  # - image_path: /assets/images/team/andres.jpeg
-  #   alt: "Greg Gage"
-  #   title: "Greg<br/>Gage"
-  #   subtitle: "TinyML4STEM Chair"
-  #   excerpt: "Co-Founder and CEO Backyard Brains<br/>[Learn More](https://www.linkedin.com/in/gagegreg)"
+  - image_path: /assets/images/team/greg.png
+    alt: "Greg Gage"
+    title: "Greg<br/>Gage"
+    subtitle: "TinyML4STEM Chair"
+    excerpt: "Co-Founder and CEO Backyard Brains<br/>[Learn More](https://www.linkedin.com/in/gagegreg)"
 
 workingGroupMembers:
   

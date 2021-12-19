@@ -33,15 +33,11 @@ workingGroups:
   - title: "Explore our Working Groups"
   - subtitle: "Widening access to applied machine learning by establishing best practices in education."
 ---
+<!-- 
 {% include section_break %}
 {% include feature_row id="events" type="center" %}
 {% include section_break %}
-
-+ We will be speaking at the TinyML for Good Workshop on **Wedensday, November 17, 2021.** For more information check out the [workshop website](https://www.tinyml.org/event/tinyml-for-good/).
-
-+ We will be speaking at the AI for Good Conference on **Tuesday, November 23, 2021.** For more information check out our [presentation abstract](https://aiforgood.itu.int/event/aiot-when-iot-meets-the-ai/).
-
-
+ -->
 
 {% include section_break %}
 {% include feature_row id="sponsors_intro" type="center" %}
