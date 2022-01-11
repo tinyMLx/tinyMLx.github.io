@@ -21,9 +21,16 @@ All Seminar Videos can be found at [this playlist](https://youtube.com/playlist?
 
 + *October 1, 2021*: Software Tools for TinyML with [Prof. Marcelo Rovai](https://github.com/Mjrovai) of Universidade Federal de Itajubá. [Marcelo's Slides](/assets/slides/4D/seminars/21.10.01_Marcelo_Rovai.pdf). [Full Seminar Video](https://youtu.be/aV_e1wFjK8s). [Chat Log](/4D/AcademicNetwork/21-10-01-SeminarChatLog).
 
-+ *October 8, 2021*: Case Studies of Embedded ML in Rwanda and Brazil and Academic Network AMA Hosted by [Marco Zennaro](http://users.ictp.it/~mzennaro/). [Marco's Slides](/assets/slides/4D/seminars/21.10.08_Marco_Zennaro.pdf). [Video of Marco's Presentation](https://youtu.be/9k5BXcZBZGc). Videos of Case Studies Coming Soon.
++ *October 8, 2021*: Case Studies of Embedded ML in Rwanda and Brazil.
+  + Academic Network AMA hosted by [Marco Zennaro](http://users.ictp.it/~mzennaro/). [Marco's Slides](/assets/slides/4D/seminars/21.10.08_Marco_Zennaro.pdf). [Video of Marco's Presentation](https://youtu.be/9k5BXcZBZGc).
+  + COVID-19 Cough Detection by Stéfany Coura Coimbra. [Video](https://youtu.be/C2HlVnub7wk).
+  + Coffee Disease Classification with ML by João Yamashita. [Video](https://youtu.be/-M21S7Rz0-Y).
+  + Offline Prediction of Cholera in Rural Communal Tap Waters Using Edge AI Inference by Marvin Muyonga Ogore. [Video](https://youtu.be/9AOgYxpfpQM).
+  + Atrial Fibrillation and Sinus Rhythm Detection Using ML in Embedded Systems by Ghuilherme Silva and Mateus Lima. [Video](https://youtu.be/XkZEFzBfiJI).
 
-+ *December 10, 2021*: Getting Started with the Wio Terminal and Edge Impulse by Huiying Lai of Seeed Studio. [Seed's Getting Started with TinyML guide](https://files.seeedstudio.com/wiki/Wio-Terminal-TinyML/No-code_Programming_to_Get_Started_with_TinyML.pdf). Seminar Video Coming Soon.
++ *December 10, 2021*: 
+  + 2021 Summary and Plan for 2022 by [Marco Zennaro](http://users.ictp.it/~mzennaro/) of ICTP. [Video](https://youtu.be/ueVTa13vyhU).
+  + Getting Started with the Wio Terminal and Edge Impulse by Huiying Lai of Seeed Studio. [Seed's Getting Started with TinyML guide](https://files.seeedstudio.com/wiki/Wio-Terminal-TinyML/No-code_Programming_to_Get_Started_with_TinyML.pdf). [Video](https://youtu.be/ueVTa13vyhU).
 
 ## Talks
 
@@ -35,6 +42,8 @@ All Seminar Videos can be found at [this playlist](https://youtube.com/playlist?
 + *November 17, 2021*: TinyMLedu at the [TinyML for Good Workshop](https://www.tinyml.org/event/tinyml-for-good/). Video of the STEM lightning talks by [Prof. Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home), [Marco Zennaro](http://users.ictp.it/~mzennaro/), [Hal Speed](https://www.linkedin.com/in/halspeed/), [Greg Gage](https://www.linkedin.com/in/gagegreg), and [Brian Plancher](https://brianplancher.com) can be found [here](https://www.youtube.com/watch?v=Qi7N4KPcQZA).
 
 + *November 23, 2021:* AIoT When IoT Meets AI at the AI for Good Conference by [Prof. Marcelo Rovai](https://github.com/Mjrovai) and [Marco Zennaro](http://users.ictp.it/~mzennaro/). View the [presentation abstract](https://aiforgood.itu.int/event/aiot-when-iot-meets-the-ai/).
+
++ *January 13, 2022:* TinyMLedu at the TinyML Toronto Virtual Meetup. Talks by [Brian Plancher](https://brianplancher.com) and [Greg Gage](https://www.linkedin.com/in/gagegreg). Slides and Video Coming Soon.
 
 ## Demos
 
