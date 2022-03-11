@@ -17,9 +17,11 @@ excerpt: "Below you will find materials from our past seminars, workshops, and o
 ## Seminars
 All Seminar Videos can be found at [this playlist](https://youtube.com/playlist?list=PLL5nb-tgetJiPg33y__aHO8oms1bZKnvD).
 
-+ *September 17, 2021*: Academic Network Introduction and Why the Future of ML is Tiny and Bright with [Prof. Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) of Harvard University. [Vijay's Slides](/assets/slides/4D/seminars/21.09.17_Vijay_Janapa_Reddi.pdf). [Full Seminar Video](https://youtu.be/LeW9lsyNqgY).
++ *March 11, 2022*: Getting Started with the Arduino TinyML Kit with [Prof. Marcelo Rovai](https://github.com/Mjrovai) of Universidade Federal de Itajubá. Full Seminar Video Coming Soon. [Marcelo's Slides](/assets/slides/4D/seminars/22.03.11_Marcelo_Rovai.pdf). [Instructional Handout](/assets/other/4D/22.03.11_Marcelo_Rovai_Handout.pdf).
 
-+ *October 1, 2021*: Software Tools for TinyML with [Prof. Marcelo Rovai](https://github.com/Mjrovai) of Universidade Federal de Itajubá. [Marcelo's Slides](/assets/slides/4D/seminars/21.10.01_Marcelo_Rovai.pdf). [Full Seminar Video](https://youtu.be/aV_e1wFjK8s). [Chat Log](/4D/AcademicNetwork/21-10-01-SeminarChatLog).
++ *December 10, 2021*: 
+  + 2021 Summary and Plan for 2022 by [Marco Zennaro](http://users.ictp.it/~mzennaro/) of ICTP. [Video](https://youtu.be/ueVTa13vyhU).
+  + Getting Started with the Wio Terminal and Edge Impulse by Huiying Lai of Seeed Studio. [Seed's Getting Started with TinyML guide](https://files.seeedstudio.com/wiki/Wio-Terminal-TinyML/No-code_Programming_to_Get_Started_with_TinyML.pdf). [Video](https://youtu.be/ueVTa13vyhU).
 
 + *October 8, 2021*: Case Studies of Embedded ML in Rwanda and Brazil.
   + Academic Network AMA hosted by [Marco Zennaro](http://users.ictp.it/~mzennaro/). [Marco's Slides](/assets/slides/4D/seminars/21.10.08_Marco_Zennaro.pdf). [Video of Marco's Presentation](https://youtu.be/9k5BXcZBZGc).
@@ -28,9 +30,9 @@ All Seminar Videos can be found at [this playlist](https://youtube.com/playlist?
   + Offline Prediction of Cholera in Rural Communal Tap Waters Using Edge AI Inference by Marvin Muyonga Ogore. [Video](https://youtu.be/9AOgYxpfpQM).
   + Atrial Fibrillation and Sinus Rhythm Detection Using ML in Embedded Systems by Ghuilherme Silva and Mateus Lima. [Video](https://youtu.be/XkZEFzBfiJI).
 
-+ *December 10, 2021*: 
-  + 2021 Summary and Plan for 2022 by [Marco Zennaro](http://users.ictp.it/~mzennaro/) of ICTP. [Video](https://youtu.be/ueVTa13vyhU).
-  + Getting Started with the Wio Terminal and Edge Impulse by Huiying Lai of Seeed Studio. [Seed's Getting Started with TinyML guide](https://files.seeedstudio.com/wiki/Wio-Terminal-TinyML/No-code_Programming_to_Get_Started_with_TinyML.pdf). [Video](https://youtu.be/ueVTa13vyhU).
++ *October 1, 2021*: Software Tools for TinyML with [Prof. Marcelo Rovai](https://github.com/Mjrovai) of Universidade Federal de Itajubá. [Marcelo's Slides](/assets/slides/4D/seminars/21.10.01_Marcelo_Rovai.pdf). [Full Seminar Video](https://youtu.be/aV_e1wFjK8s). [Chat Log](/4D/AcademicNetwork/21-10-01-SeminarChatLog).
+
++ *September 17, 2021*: Academic Network Introduction and Why the Future of ML is Tiny and Bright with [Prof. Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) of Harvard University. [Vijay's Slides](/assets/slides/4D/seminars/21.09.17_Vijay_Janapa_Reddi.pdf). [Full Seminar Video](https://youtu.be/LeW9lsyNqgY).
 
 ## Talks
 
@@ -43,7 +45,8 @@ All Seminar Videos can be found at [this playlist](https://youtube.com/playlist?
 
 + *November 23, 2021:* AIoT When IoT Meets AI at the AI for Good Conference by [Prof. Marcelo Rovai](https://github.com/Mjrovai) and [Marco Zennaro](http://users.ictp.it/~mzennaro/). View the [presentation abstract](https://aiforgood.itu.int/event/aiot-when-iot-meets-the-ai/).
 
-+ *January 13, 2022:* TinyMLedu at the TinyML Toronto Virtual Meetup. Talks by [Brian Plancher](https://brianplancher.com) and [Greg Gage](https://www.linkedin.com/in/gagegreg). Slides and Video Coming Soon.
++ *January 13, 2022:* TinyMLedu at the TinyML Toronto Virtual Meetup. Talks by [Brian Plancher](https://brianplancher.com) and [Greg Gage](https://www.linkedin.com/in/gagegreg). Slides and Video Coming Soon. [Brian's Talk Video](https://www.youtube.com/watch?v=VowFpOsU5m0). 
+[Greg's Talk Video](https://www.youtube.com/watch?v=ny952cbff0U).
 
 ## Demos
 

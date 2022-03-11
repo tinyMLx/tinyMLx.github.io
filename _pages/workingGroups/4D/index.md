@@ -28,9 +28,7 @@ activities:
 
 {% include feature_row id="news" type="center" %}
 
-We ran the [SciTinyML: Scientific Use of Machine Learning on Low-Power Devices](/SciTinyML) workshop, hosted by the [Abdus Salam International Centre for Theoretical Physics](https://www.ictp.it/), October 18-22, 2021. To view the workshop materials and video recordings check out the [workshop webpage](/SciTinyML). You can also find links to all of our past events below.
-
-**If you are a member of the Academic Network make sure to join our Discord – the invite link should be in your email!**
+We are looking forward to the regional seminars we are running this spring/summer. We will be hosting seminars leading up to the workshop to help prepare learners. Please check you email or Discord for news about upcoming seminars. You can also find links to all of our past events below.
 
 {% include feature_row id="activities" type="center" %}
 
