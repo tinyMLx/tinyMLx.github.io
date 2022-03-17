@@ -17,7 +17,7 @@ excerpt: "Below you will find materials from our past seminars, workshops, and o
 ## Seminars
 All Seminar Videos can be found at [this playlist](https://youtube.com/playlist?list=PLL5nb-tgetJiPg33y__aHO8oms1bZKnvD).
 
-+ *March 11, 2022*: Getting Started with the Arduino TinyML Kit with [Prof. Marcelo Rovai](https://github.com/Mjrovai) of Universidade Federal de Itajubá. Full Seminar Video Coming Soon. [Marcelo's Slides](/assets/slides/4D/seminars/22.03.11_Marcelo_Rovai.pdf). [Instructional Handout](/assets/other/4D/22.03.11_Marcelo_Rovai_Handout.pdf).
++ *March 11, 2022*: Getting Started with the Arduino TinyML Kit with [Prof. Marcelo Rovai](https://github.com/Mjrovai) of Universidade Federal de Itajubá. [Full Seminar Video](https://www.youtube.com/watch?v=ywcPr0KrBlc). [Marcelo's Slides](/assets/slides/4D/seminars/22.03.11_Marcelo_Rovai.pdf). [Instructional Handout](/assets/other/4D/22.03.11_Marcelo_Rovai_Handout.pdf).
 
 + *December 10, 2021*: 
   + 2021 Summary and Plan for 2022 by [Marco Zennaro](http://users.ictp.it/~mzennaro/) of ICTP. [Video](https://youtu.be/ueVTa13vyhU).
