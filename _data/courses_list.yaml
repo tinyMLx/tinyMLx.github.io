@@ -22,6 +22,14 @@
   btn_label: "Take the Course on edX"
   btn_class: "btn--primary"
 
+- image_path: /assets/images/courses/scalingTinyML.jpeg
+  alt: "MLOps for Scaling TinyML"
+  title: "MLOps for Scaling TinyML"
+  excerpt: "This course introduces learners to Machine Learning Operations (MLOps) through the lens of TinyML (Tiny Machine Learning). Learners explore best practices to deploy, monitor, and maintain (tiny) Machine Learning models in production at scale."
+  url: "https://www.edx.org/course/mlops-for-scaling-tinyml"
+  btn_label: "Take the Course on edX"
+  btn_class: "btn--primary"
+
 - image_path: /assets/images/courses/courseraEICourse.jpeg
   alt: "Introduction to Embedded Machine Learning"
   title: "Introduction to Embedded Machine Learning"

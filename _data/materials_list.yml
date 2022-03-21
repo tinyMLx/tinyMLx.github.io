@@ -1,9 +1,10 @@
 - name: "edX tinyML Specialization"
-  date: "Launched 2020-2021"
+  date: "Launched 2020-2022"
   audience: "Everyone"
   language_instruction: "English"
   language_materials: "English"
   website_url: "https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning"
+  website_url2: "https://www.edx.org/course/mlops-for-scaling-tinyml"
   materials_url: "https://github.com/tinyMLx/courseware/tree/master/edX"
 
 - name: "SciTinyML 2021"

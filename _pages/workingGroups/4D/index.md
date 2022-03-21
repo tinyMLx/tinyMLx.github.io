@@ -28,7 +28,7 @@ activities:
 
 {% include feature_row id="news" type="center" %}
 
-We are looking forward to the regional seminars we are running this spring/summer. We will be hosting seminars leading up to the workshop to help prepare learners. Please check you email or Discord for news about upcoming seminars. You can also find links to all of our past events below.
+**We are looking forward to the regional seminars we are running this spring/summer.** We will be hosting seminars leading up to the workshop to help prepare learners. Please check you email or Discord for news about upcoming seminars. You can also find links to all of our past events below.
 
 {% include feature_row id="activities" type="center" %}
 
