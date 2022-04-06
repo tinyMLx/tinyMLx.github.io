@@ -1,0 +1,13 @@
+## Workshops
+{% assign 4D_Workshops = site.data.materials.workshops | where: "4D_Event", "1" %}
+{% include course_workshop_table materials_list = 4D_Workshops workshop_flag = "1" %}
+
+## Seminars
+All Seminar Videos can be found at [this playlist](https://youtube.com/playlist?list=PLL5nb-tgetJiPg33y__aHO8oms1bZKnvD).
+{% include other_materials_table materials_list = site.data.4DEvents.seminars %}
+
+## Talks
+{% include other_materials_table materials_list = site.data.4DEvents.talks %}
+
+## Other: Tutorials / Demos / etc.
+{% include other_materials_table materials_list = site.data.4DEvents.other %}

@@ -1,0 +1,23 @@
+- image_path: /assets/images/workingGroups/4D/AN_Map.png
+  alt: "Academic Network"
+  title: "Academic Network"
+  excerpt: "Explore the academic network."
+  url: "/4D/AcademicNetwork"
+  btn_label: "Learn More"
+  btn_class: "btn--primary"
+
+- image_path: /assets/images/workingGroups/4D/SciTinyML.png
+  alt: "SciTinyML"
+  title: "SciTinyML"
+  excerpt: "Our annual event brings together our global network through regional and global workshops on TinyML and its applications."
+  url: "/SciTinyML"
+  btn_label: "Learn More"
+  btn_class: "btn--primary"
+
+- image_path: /assets/images/workingGroups/4D/pastEvents.png
+  alt: "Past Events"
+  title: "Past Events"
+  excerpt: "We have posted materials from all of our past seminars, workshops, and other events."
+  url: "/4D/pastEvents"
+  btn_label: "Learn More"
+  btn_class: "btn--primary"

@@ -1,0 +1,6 @@
+{% if include.book_list %}
+| | Title | Author(s) | Date of Publication | Target Audience | Language | Links | 
+| --- | --- | --- | --- | --- | --- | --- |
+{% for book in include.book_list %} | <img src="{{ book.cover_image | relative_url }}" alt="{{ book.title }}" style="max-height:75pt; width:auto;"> | **{{ book.title }}** {% if book.subtitle %} <br/> {{ book.subtitle }} {% endif %} | {% for author in book.authors %}  {% if author.url %} [ {% endif %} {{ author.name }} {% if author.url %} ]({{ author.url }}) {% endif %}<br/>{% endfor %}| {{ book.date }} | {{ book.audience }} | {{ book.language }} | {% for entry in book.links %} [{% if entry.title %} {{ entry.title }} {% else %} link {% endif %}]({{ entry.url }}) <br/>{% endfor %} |
+{% endfor %}
+{% endif %}

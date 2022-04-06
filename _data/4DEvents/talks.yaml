@@ -1,0 +1,169 @@
+- authors:
+    - name: Marcelo Rovai
+      url: https://github.com/Mjrovai
+    - name: Guilherme Silva
+    - name: Renam Castro
+    - name: João Yamashita
+  title: "Bringing Intelligence to Sensors"
+  subtitle: "[At the Tudo Sobre IoT Conference 2022](https://tudosobreiot.com.br/conferencia-2022/)"
+  date: "March 22, 2022"
+  audience: "Everyone"
+  language_instruction: "English"
+  language_materials: "English"
+  links:
+    - url: "/assets/slides/4D/TSIoT_2022.pdf"
+      title: "Slides"
+  thumbnails:
+    - image: "/assets/images/thumbnails/unifei.png"
+      alt: "Universidade Federal de Itajubá (UNIFEI)"
+      url: "https://unifei.edu.br/"
+
+- authors:
+    - name: "Marcelo Rovai"
+      url: "https://github.com/Mjrovai"
+    - name: "Marco Zennaro"
+      url: "http://users.ictp.it/~mzennaro/"
+  title: "IoT and TinyML Workshop"
+  subtitle: "At the University of Namibia (UNAM)"
+  date: "February 2, 2022"
+  audience: "Everyone"
+  language_instruction: "English"
+  language_materials: "English"
+  links:
+    - url: "/assets/slides/4D/TSIoT_2022.pdf"
+      title: "Slides"
+  thumbnails:
+    - image: "/assets/images/thumbnails/unifei.png"
+      alt: "Universidade Federal de Itajubá (UNIFEI)"
+      url: "https://unifei.edu.br/"
+    - image: "/assets/images/thumbnails/ictp.svg"
+      alt: "The Abdus Salam International Centre for Theoretical Physics (ICTP)"
+      url: "https://www.ictp.it/"
+
+- authors:
+    - name: "Brian Plancher"
+      url: "https://brianplancher.com/"
+  title: "TinyMLedu Overview"
+  subtitle: "At the TinyML Toronto Virtual Meetup"
+  date: "January 13, 2022"
+  audience: "Everyone"
+  language_instruction: "English"
+  language_materials: "English"
+  links:
+    - url: "https://www.youtube.com/watch?v=VowFpOsU5m0"
+      title: "Video"
+  thumbnails:
+    - image: "/assets/images/thumbnails/harvard_seas.svg"
+      alt: "Harvard John A. Paulson School of Engineering and Applied Sciences"
+      url: "https://www.seas.harvard.edu/"
+
+- authors:
+    - name: "Greg Gage"
+      url: "https://www.linkedin.com/in/gagegreg"
+  title: "Backyard Brains and TinyML4STEM"
+  subtitle: "At the TinyML Toronto Virtual Meetup"
+  date: "January 13, 2022"
+  audience: "Everyone"
+  language_instruction: "English"
+  language_materials: "English"
+  links:
+    - url: "https://www.youtube.com/watch?v=ny952cbff0U"
+      title: "Video"
+  thumbnails:
+    - image: "/assets/images/thumbnails/backyard_brains.jpeg"
+      alt: "Backyard Brains"
+      url: "http://www.backyardbrains.com/"
+
+- authors:
+    - name: "Marcelo Rovai"
+      url: "https://github.com/Mjrovai"
+    - name: "Marco Zennaro"
+      url: "http://users.ictp.it/~mzennaro/"
+  title: "AIoT: When IoT Meets AI"
+  subtitle: "At the AI for Good Conference"
+  date: "November 23, 2021"
+  audience: "Everyone"
+  language_instruction: "English"
+  language_materials: "English"
+  links:
+    - url: "https://aiforgood.itu.int/event/aiot-when-iot-meets-the-ai/"
+      title: "Presentation Abstract"
+  thumbnails:
+    - image: "/assets/images/thumbnails/unifei.png"
+      alt: "Universidade Federal de Itajubá (UNIFEI)"
+      url: "https://unifei.edu.br/"
+    - image: "/assets/images/thumbnails/ictp.svg"
+      alt: "The Abdus Salam International Centre for Theoretical Physics (ICTP)"
+      url: "https://www.ictp.it/"
+
+- authors:
+    - name: "Vijay Janapa Reddi"
+      url: "https://scholar.harvard.edu/vijay-janapa-reddi/home"
+    - name: "Marco Zennaro"
+      url: "http://users.ictp.it/~mzennaro/"
+    - name: "Hal Speed"
+      url: "https://www.linkedin.com/in/halspeed/"
+    - name: "Greg Gage"
+      url: "https://www.linkedin.com/in/gagegreg"
+    - name: "Brian Plancher"
+      url: "https://brianplancher.com/"
+  title: "TinyMLedu Lightning Talks"
+  subtitle: "[At the TinyML for Good Workshop](https://www.tinyml.org/event/tinyml-for-good/)"
+  date: "November 17, 2021, 2021"
+  audience: "Everyone"
+  language_instruction: "English"
+  language_materials: "English"
+  links:
+    - url: "https://www.youtube.com/watch?v=Qi7N4KPcQZA"
+      title: "Video"
+  thumbnails:
+    - image: "/assets/images/thumbnails/harvard_seas.svg"
+      alt: "Harvard John A. Paulson School of Engineering and Applied Sciences"
+      url: "https://www.seas.harvard.edu/"
+    - image: "/assets/images/thumbnails/ictp.svg"
+      alt: "The Abdus Salam International Centre for Theoretical Physics (ICTP)"
+      url: "https://www.ictp.it/"
+    - image: "/assets/images/thumbnails/robotical.jpeg"
+      alt: "Robotical"
+      url: "https://robotical.io/"
+    - image: "/assets/images/thumbnails/backyard_brains.jpeg"
+      alt: "Backyard Brains"
+      url: "http://www.backyardbrains.com/"
+
+- authors:
+    - name: "Hal Speed"
+      url: "https://www.linkedin.com/in/halspeed/"
+    - name: "Marco Zennaro"
+      url: "http://users.ictp.it/~mzennaro/"
+  title: "Preparing for the Age of Artificial Intelligence"
+  date: "September 29, 2021"
+  audience: "Everyone"
+  language_instruction: "English"
+  language_materials: "English"
+  links:
+    - url: "https://ai4k12.org/wp-content/uploads/2021/09/K-12-mEducation-Alliance-Symposium-2021.09.29.pdf"
+      title: "Slides"
+  thumbnails:
+    - image: "/assets/images/thumbnails/robotical.jpeg"
+      alt: "Robotical"
+      url: "https://robotical.io/"
+    - image: "/assets/images/thumbnails/ictp.svg"
+      alt: "The Abdus Salam International Centre for Theoretical Physics (ICTP)"
+      url: "https://www.ictp.it/"
+
+- authors:
+    - name: Marcelo Rovai
+      url: https://github.com/Mjrovai
+  title: "Embedded Machine Learning (TinyML) - A Brazilian Educational Experience at Universidade Federal de Itajubá (UNIFEI)"
+  subtitle: "[At the AI Expo Africa 2021](https://aiexpoafrica.com/)"
+  date: "September 21, 2021"
+  audience: "Everyone"
+  language_instruction: "English"
+  language_materials: "English"
+  links:
+    - url: "https://www.youtube.com/watch?v=shLvVFl9nHY"
+      title: "Video"
+  thumbnails:
+    - image: "/assets/images/thumbnails/unifei.png"
+      alt: "Universidade Federal de Itajubá (UNIFEI)"
+      url: "https://unifei.edu.br/"

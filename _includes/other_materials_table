@@ -1,0 +1,6 @@
+{% if include.materials_list %}
+| | Title | Author(s) | Date | Target Audience | Language of Instruction | Language of Materials | Links | 
+| --- | --- | --- | --- | --- | --- | --- | --- |
+{% for row in include.materials_list %} | {% for thumbnail in row.thumbnails %}{% if thumbnail.image %}{% if thumbnail.url %}[{% endif %}<img src="{{ thumbnail.image | relative_url }}" {% if thumbnail.alt %} alt="{{ thumbnail.alt }}" {% endif %} style="max-height:25pt; width:auto;">{% if thumbnail.url %}]({{ thumbnail.url }}){% endif %}{% endif %}{% endfor %} | **{{ row.title}}** {% if row.subtitle %} <br/> {{ row.subtitle}} {% endif %}| {% for author in row.authors %}  {% if author.url %} [ {% endif %} {{ author.name }} {% if author.url %}]({{ author.url }}) {% endif %}<br/>{% endfor %} | {{ row.date }} | {{ row.audience }} | {{ row.language_instruction }} | {{ row.language_materials }} | {% for entry in row.links %} [{% if entry.title %} {{ entry.title }} {% else %} link {% endif %}]({{ entry.url }}) <br/>{% endfor %} |
+{% endfor %}
+{% endif %}

@@ -1,0 +1,139 @@
+- authors:
+    - name: "Marcelo Rovai"
+      url: "https://github.com/Mjrovai"
+  title: "Getting Started with the Arduino TinyML Kit"
+  date: "March 11, 2022"
+  audience: "Everyone"
+  language_instruction: "English"
+  language_materials: "English"
+  links:
+    - url: "https://www.youtube.com/watch?v=ywcPr0KrBlc"
+      title: "Video"
+    - url: "/assets/slides/4D/seminars/22.03.11_Marcelo_Rovai.pdf"
+      title: "Slides"
+    - url: "/assets/other/4D/22.03.11_Marcelo_Rovai_Handout.pdf"
+      title: "Handout"
+  thumbnails:
+    - image: "/assets/images/thumbnails/unifei.png"
+      alt: "Universidade Federal de Itajubá (UNIFEI)"
+      url: "https://unifei.edu.br/"
+
+- authors:
+    - name: "Marco Zennaro"
+      url: "http://users.ictp.it/~mzennaro/"
+  title: "2021 Summary and Plan for 2022"
+  date: "December 10, 2021"
+  audience: "Everyone"
+  language_instruction: "English"
+  language_materials: "English"
+  links:
+    - url: "https://youtu.be/ueVTa13vyhU"
+      title: "Video"
+  thumbnails:
+    - image: "/assets/images/thumbnails/ictp.svg"
+      alt: "The Abdus Salam International Centre for Theoretical Physics (ICTP)"
+      url: "https://www.ictp.it/"
+
+- authors:
+    - name: "Huiying Lai"
+  title: "Getting Started with the Wio Terminal and Edge Impulse"
+  date: "December 10, 2021"
+  audience: "Everyone"
+  language_instruction: "English"
+  language_materials: "English"
+  links:
+    - url: "https://youtu.be/ueVTa13vyhU"
+      title: "Video"
+    - url: "https://files.seeedstudio.com/wiki/Wio-Terminal-TinyML/No-code_Programming_to_Get_Started_with_TinyML.pdf"
+      title: "Seeed's TinyML Quickstart Guide"
+  thumbnails:
+    - image: "/assets/images/thumbnails/seeed_studio.jpg"
+      alt: "Seeed Studio"
+      url: "https://www.seeedstudio.com/"
+
+- authors:
+    - name: "Marco Zennaro"
+      url: "http://users.ictp.it/~mzennaro/"
+  title: "Academic Network AMA"
+  date: "October 8, 2021"
+  audience: "Everyone"
+  language_instruction: "English"
+  language_materials: "English"
+  links:
+    - url: "https://youtu.be/9k5BXcZBZGc"
+      title: "Video"
+    - url: "/assets/slides/4D/seminars/21.10.08_Marco_Zennaro.pdf"
+      title: "Slides"
+  thumbnails:
+    - image: "/assets/images/thumbnails/ictp.svg"
+      alt: "The Abdus Salam International Centre for Theoretical Physics (ICTP)"
+      url: "https://www.ictp.it/"
+
+- authors:
+    - name: "Stéfany Coura Coimbra"
+    - name: "João Yamashita"
+    - name: "Marvin Muyonga Ogore"
+    - name: "Ghuilherme Silva"
+    - name: "Mateus Lima"
+  title: "Case Studies of Embedded ML in Rwanda and Brazil"
+  date: "October 8, 2021"
+  audience: "Everyone"
+  language_instruction: "English"
+  language_materials: "English"
+  links:
+    - url: "https://youtu.be/C2HlVnub7wk"
+      title: "COVID-19 Cough Detection Video"
+    - url: "https://youtu.be/-M21S7Rz0-Y"
+      title: "Coffee Disease Classification Video"
+    - url: "https://youtu.be/9AOgYxpfpQM"
+      title: "Cholera in Rural Communal Tap Water Video"
+    - url: "https://youtu.be/XkZEFzBfiJI"
+      title: "Atrial Fibrillation and Sinus Rhythm Detection Video"
+  thumbnails:
+    - image: "/assets/images/thumbnails/unifei.png"
+      alt: "Universidade Federal de Itajubá (UNIFEI)"
+      url: "https://unifei.edu.br/"
+    - image: "/assets/images/thumbnails/UoRwanda.png"
+      alt: "University of Rwanda"
+      url: "https://ur.ac.rw/"
+    - image: "/assets/images/thumbnails/ACEIoT.jpg"
+      alt: "African Center of Excellence in Internet of Things"
+      url: "https://aceiot.ur.ac.rw/"
+
+- authors:
+    - name: "Marcelo Rovai"
+      url: "https://github.com/Mjrovai"
+  title: "Software Tools for TinyML"
+  date: "October 1, 2021"
+  audience: "Everyone"
+  language_instruction: "English"
+  language_materials: "English"
+  links:
+    - url: "https://youtu.be/aV_e1wFjK8s"
+      title: "Video"
+    - url: "/assets/slides/4D/seminars/21.10.01_Marcelo_Rovai.pdf"
+      title: "Slides"
+    - url: "/4D/AcademicNetwork/21-10-01-SeminarChatLog"
+      title: "Chat_Log"
+  thumbnails:
+    - image: "/assets/images/thumbnails/unifei.png"
+      alt: "Universidade Federal de Itajubá (UNIFEI)"
+      url: "https://unifei.edu.br/"
+
+- authors:
+    - name: "Vijay Janapa Reddi"
+      url: "https://scholar.harvard.edu/vijay-janapa-reddi/home"
+  title: "Why the Future of ML is Tiny and Bright"
+  date: "September 17, 2021"
+  audience: "Everyone"
+  language_instruction: "English"
+  language_materials: "English"
+  links:
+    - url: "https://youtu.be/LeW9lsyNqgY"
+      title: "Video"
+    - url: "/assets/slides/4D/seminars/21.09.17_Vijay_Janapa_Reddi.pdf"
+      title: "Slides"
+  thumbnails:
+    - image: "/assets/images/thumbnails/harvard_seas.svg"
+      alt: "Harvard John A. Paulson School of Engineering and Applied Sciences"
+      url: "https://www.seas.harvard.edu/"

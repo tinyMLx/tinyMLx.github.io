@@ -10,4 +10,4 @@ header:
 excerpt: "We've provided links below to free online courses on edX and Coursera to help you get started learning about TinyML!"
 ---
 
-{% include feature_row id="courses_list" %}
+{% include feature_row id="mooc_courses_list" %}

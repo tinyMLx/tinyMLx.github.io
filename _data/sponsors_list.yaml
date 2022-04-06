@@ -1,31 +1,35 @@
-- image_path: /assets/images/sponsors/SEASLogo.png
+- image_path: "/assets/images/sponsors/SEASLogo.png"
   alt: "The Harvard John A. Paulson School of Engineering and Applied Sciences"
   url: "https://www.seas.harvard.edu/"
 
-- image_path: /assets/images/sponsors/tinyMLFoundationLogo.png
+- image_path: "/assets/images/sponsors/tinyMLFoundationLogo.png"
   alt: "tinyML Foundation"
   url: "https://www.tinyml.org/"
 
-- image_path: /assets/images/sponsors/googleLogo.jpg
+- image_path: "/assets/images/sponsors/googleLogo.jpg"
   alt: "google"
   url: "https://www.google.com"
 
-- image_path: /assets/images/sponsors/EILogo.png
+- image_path: "/assets/images/sponsors/EILogo.png"
   alt: "Edge Impulse"
   url: "https://www.edgeimpulse.com/"
 
-- image_path: /assets/images/sponsors/harvardXLogo.jpg
-  alt: "HarvardX"
-  url: "https://programs.edx.org/partner-harvard"
+- image_path: "/assets/images/sponsors/ictp.png"
+  alt: "International Centre for Theoretical Physics (ICTP)"
+  url: "https://www.ictp.it/"
 
-- image_path: /assets/images/sponsors/arduinoLogo.svg
+- image_path: "/assets/images/sponsors/arduinoLogo.svg"
   alt: "Arduino"
   url: "https://www.arduino.cc"
 
-- image_path: /assets/images/sponsors/edXLogo.png
+- image_path: "/assets/images/sponsors/edXLogo.png"
   alt: "edX"
   url: "https://www.edx.org"
 
-- image_path: /assets/images/sponsors/TFLogo.png
+- image_path: "/assets/images/sponsors/harvardXLogo.jpg"
+  alt: "HarvardX"
+  url: "https://programs.edx.org/partner-harvard"
+
+- image_path: "/assets/images/sponsors/TFLogo.png"
   alt: "TensorFlow Lite for Microcontrollers"
   url: "https://www.tensorflow.org/lite/microcontrollers"

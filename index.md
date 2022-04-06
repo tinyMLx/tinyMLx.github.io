@@ -49,7 +49,7 @@ workingGroups:
 {% include feature_row id="courses" type="center" %}
 {% include section_break %}
 
-{% include feature_row id="courses_list" %}
+{% include feature_row id="mooc_courses_list" %}
 
 
 
@@ -57,14 +57,7 @@ workingGroups:
 {% include feature_row id="teach" type="center" %}
 {% include section_break %}
 
-We have posted [all the materials](https://github.com/tinyMLx/courseware/tree/master/edX) from the [edX specialization](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning) as well as our custom [Arduino Library](https://github.com/tinyMLx/arduino-library) and all supporting [Colab Notebooks](https://github.com/tinyMLx/colabs). All of the materials are open source licensed and are at most [non-commercial share alike](https://creativecommons.org/licenses/by-nc-sa/4.0/) – which means just cite us and you can use it all for free! You can also find materials from other TinyML courses and workshops that have been developed in the table below.
-
-We are also trying to track and provide links to others to all TinyML course materials that are created to make it even easier for others to launch courses so we ask that if you create a course based on these materials that you consider posting your materials publicly and sending us a link so we can add it to the table below.
-
-Questions, comments, concerns, suggestions for improvement – reach out to us at {% include email %}!
-
-{% include materials_table %}
-
+{% include all_materials %}
 
 
 {% include section_break %}

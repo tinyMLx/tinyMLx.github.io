@@ -30,9 +30,11 @@ activities:
 
 **We are looking forward to the regional seminars we are running this spring/summer.** We will be hosting seminars leading up to the workshop to help prepare learners. Please check you email or Discord for news about upcoming seminars. You can also find links to all of our past events below.
 
+**We are also expanding our academic network -- if you are interested in joining please fill out this form: [https://bit.ly/TinyML4D-Network-Call-2](https://bit.ly/TinyML4D-Network-Call-2)!**
+
 {% include feature_row id="activities" type="center" %}
 
-{% include feature_row id="4D_list" max_height="150px" %}
+{% include feature_row id="4D_feature_list" max_height="150px" %}
 
 {% include feature_row id="courses" type="center" %}
 

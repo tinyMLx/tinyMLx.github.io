@@ -1,0 +1,20 @@
+You can find lots of educational materials on TinyML below. They are all free and open-source for educational uses -- we just ask that if you use the materials that you cite them! 
+
+We are also trying to track and provide links to others to all TinyML course materials that are created to make it even easier for others to launch courses so we ask that if you create a course based on these materials that you consider posting your materials publicly and sending us a link so we can add it to the table below.
+
+Finally, if you want to be more involved with our effort to help improve access to TinyML educational materials and hardware resources worldwide please check out the [TinyML4D working group](/4D/)!
+
+Questions, comments, concerns, suggestions for improvement – reach out to us at {% include email %}!
+
+### Full Courses
+{% include course_workshop_table materials_list = site.data.materials.full_courses %}
+
+### Workshops
+{% include course_workshop_table materials_list = site.data.materials.workshops workshop_flag = "1" %}
+
+### Books
+{% include books_table book_list = site.data.materials.books %}
+
+#### For more materials (Seminars / Tutorials / Demos / etc.) check out the [TinyML4D Past Events Page](/4D/pastEvents). 
+**We've included some of our favorites below!**
+{% include other_materials_table materials_list = site.data.materials.other_highlights %}

@@ -1,0 +1,27 @@
+- authors:
+    - name: "Pete Warden"
+      url: "https://petewarden.com/"
+    - name: "Daniel Situnayake"
+      url: https://situnayake.com/
+  title: "TinyML"
+  subtitle: "Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers"
+  cover_image: "/assets/images/thumbnails/TinyMLBookCover.jpg"
+  date: "January 2020"
+  audience: "Everyone"
+  language: "English"
+  links: 
+    - url: "https://tinymlbook.com/"
+      title: "Website"
+
+- authors:
+    - name: "Gian Marco Iodice"
+      url: "https://www.linkedin.com/in/gian-marco-iodice-3183a9a1/"
+  title: "TinyML Cookbook"
+  subtitle: "Combine artificial intelligence and ultra-low-power embedded devices to make the world smarter"
+  cover_image: "/assets/images/thumbnails/TinyMLCookbookCover.jpg"
+  date: "April 2022"
+  audience: "Everyone"
+  language: "English"
+  links: 
+    - url: "https://www.packtpub.com/product/tinyml-cookbook/9781801814973"
+      title: "Website"
