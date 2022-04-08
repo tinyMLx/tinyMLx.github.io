@@ -95,14 +95,16 @@
     - name: "Marco Zennaro"
       url: "http://users.ictp.it/~mzennaro/"
   title: "AIoT: When IoT Meets AI"
-  subtitle: "At the AI for Good Conference"
+  subtitle: "[At the AI for Good Conference](https://aiforgood.itu.int/)"
   date: "November 23, 2021"
   audience: "Everyone"
   language_instruction: "English"
   language_materials: "English"
   links:
     - url: "https://aiforgood.itu.int/event/aiot-when-iot-meets-the-ai/"
-      title: "Presentation Abstract"
+      title: "Abstract"
+    - url: "/assets/slides/4D/TinyML_Overview_WALC_19_Nov_2021.pdf"
+      title: "Slides"
   thumbnails:
     - image: "/assets/images/thumbnails/unifei.png"
       alt: "Universidade Federal de Itajubá (UNIFEI)"
