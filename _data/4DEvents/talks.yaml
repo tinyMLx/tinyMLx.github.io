@@ -1,9 +1,9 @@
 - authors:
-    - name: Marcelo Rovai
-      url: https://github.com/Mjrovai
-    - name: Guilherme Silva
-    - name: Renam Castro
-    - name: João Yamashita
+    - name: "Marcelo Rovai"
+      url: "https://github.com/Mjrovai"
+    - name: "Guilherme Silva"
+    - name: "Renam Castro"
+    - name: "João Yamashita"
   title: "Bringing Intelligence to Sensors"
   subtitle: "[At the Tudo Sobre IoT Conference 2022](https://tudosobreiot.com.br/conferencia-2022/)"
   date: "March 22, 2022"
@@ -17,6 +17,21 @@
     - image: "/assets/images/thumbnails/unifei.png"
       alt: "Universidade Federal de Itajubá (UNIFEI)"
       url: "https://unifei.edu.br/"
+
+# - authors:
+#     - name: "Nabil Benamar"
+#       url: "http://www.aui.ma/en/sse/faculty.html?itemid=702"
+#   title: "TinyML: When AI meets Tiny Devices"
+#   subtitle: "[At the 2022 2nd International Workshop on New Services and Networks (WNSN22)](https://www.usms.ac.ma/en/events/2nd-international-workshop-new-services-and-networks-wnsn22)"
+#   date: "March 16, 2022"
+#   audience: "Everyone"
+#   language_instruction: "English"
+#   language_materials: "English"
+#   links:
+#   thumbnails:
+#     - image: "/assets/images/thumbnails/moulayIsmail.png"
+#       alt: "Moulay Ismail University"
+#       url: "https://www.umi.ac.ma/"
 
 - authors:
     - name: "Marcelo Rovai"

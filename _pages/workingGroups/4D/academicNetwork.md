@@ -22,6 +22,9 @@ network_map:
 
 ---
 
+To return to the main 4D page [click here](/4D).
+{% include section_break %}
+
 {% include feature_row id="network_map" type="left" %}
 
 TinyML is a cutting-edge field that brings the transformative power of machine learning (ML) to small low-power and low-cost computing devices. The advent of TinyML offers new opportunities for complex on-device ML applications and research. For example, as these devices are inexpensive, students can use them for their school practicals and experiments, and with their low power requirements they can be widely deployed to positively impact society. With support from the International Centre for Theoretical Physics (ICTP), the TinyML4D working group is building a network of academic institutions, based in Developing Countries, interested in expanding access to Applied Machine Learning by establishing best practices in education. We aim to ultimately develop a community of researchers and practitioners focused on both improving access to TinyML education and enabling innovative solutions for the unique challenges faced by Developing Countries.
