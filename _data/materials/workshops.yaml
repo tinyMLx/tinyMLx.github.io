@@ -1,12 +1,12 @@
-- title: "SciTinyML 2022"
+- title: "SciTinyML 2022<br/>Africa, Asia, and Latam"
   subtitle: "Scientific Use of Machine Learning on Low-Power Devices"
-  date: "Spring/Summer 2022"
+  date: "April, June, July 2022"
   audience: "Everyone"
-  language_instruction: "English"
-  language_materials: "English"
+  language_instruction: "English / Spanish for Latam"
+  language_materials: "English / Spanish for Latam"
   links:
-    - url: "/SciTinyML-22"
-      title: "Website"
+    - url: "/SciTinyML-22/"
+      title: "Website and Materials"
   thumbnails:
     - image: "/assets/images/thumbnails/harvard_seas.svg"
       alt: "Harvard John A. Paulson School of Engineering and Applied Sciences"
@@ -18,6 +18,29 @@
       alt: "TinyML Foundation"      
       url: "https://www.tinyml.org/"
   4D_Event: 1
+
+- title: "EASI-22"
+  subtitle: "2022 Edge AI Summer Institute"
+  date: "June 2022"
+  audience: "High School Students and Teachers"
+  language_instruction: "English"
+  language_materials: "English"
+  links:
+    - url: "/EASI-22/"
+      title: "Website and Materials"
+  thumbnails:
+    - image: "/assets/images/thumbnails/harvard_seas.svg"
+      alt: "Harvard John A. Paulson School of Engineering and Applied Sciences"
+      url: "https://www.seas.harvard.edu/"
+    - image: "/assets/images/thumbnails/ntu.jpeg"
+      alt: "Navajo Technical University"
+      url: "http://www.navajotech.edu/"
+    - image: "/assets/images/thumbnails/barnard.svg"
+      alt: "Barnard College"
+      url: "https://cs.barnard.edu/"
+    - image: "/assets/images/thumbnails/IEEECS_small.png"
+      alt: "IEEE Computer Society"
+      url: "https://www.computer.org/press-room/2022-news/ieee-cs-diversity-inclusion-programs"
 
 - title: "SciTinyML 2021"
   subtitle: "Scientific Use of Machine Learning on Low-Power Devices"
@@ -49,7 +72,7 @@
   language_instruction: "English"
   language_materials: "English"
   links:
-    - url: "https://tinyml.seas.harvard.edu/CRESTLEX3/"
+    - url: "/CRESTLEX3/"
       title: "Website and Materials"
   thumbnails:
     - image: "/assets/images/thumbnails/harvard_seas.svg"
