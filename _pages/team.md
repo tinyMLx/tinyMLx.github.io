@@ -11,15 +11,35 @@ leadership:
 
   - image_path: /assets/images/team/vijay.png
     alt: "Vijay Janapa Reddi"
-    title: "Vijay<br/>Janapa Reddi"
+    title: "Vijay Janapa<br/>Reddi"
     subtitle: "TinyMLedu Co-Chair, edX Instructor"
-    excerpt: "Associate Professor of EECS at Harvard<br/>[Learn More](https://scholar.harvard.edu/vijay-janapa-reddi)"
+    excerpt: "Associate Professor at Harvard University<br/>[Learn More](https://scholar.harvard.edu/vijay-janapa-reddi)"
 
   - image_path: /assets/images/team/brian.jpg
     alt: "Brian Plancher"
     title: "Brian<br/>Plancher"
     subtitle: "TinyMLedu Co-Chair, edX Staff Lead"
-    excerpt: "Harvard PhD Candidate<br/>[Learn More](https://brianplancher.com/)"
+    excerpt: "Assistant Professor at Barnard College, Columbia University<br/>[Learn More](https://brianplancher.com/)"
+
+# workingGroupLeadership:
+  
+  - image_path: /assets/images/team/marco.jpg
+    alt: "Marco Zennaro"
+    title: "Marco<br/>Zennaro"
+    subtitle: "TinyML4D Chair and Academic Network Co-Chair"
+    excerpt: "Research Scientist at the Abdus Salam International Centre for Theoretical Physics<br/>[Learn More](http://users.ictp.it/~mzennaro/)"
+
+  - image_path: /assets/images/team/marcelo.jpeg
+    alt: "Marcelo Rovai"
+    title: "Marcelo<br/>Rovai"
+    subtitle: "TinyML4D Academic Network Co-Chair"
+    excerpt: "Professor at Universidade Federal de Itajubá<br/>[Learn More](https://www.linkedin.com/in/marcelo-jose-rovai-brazil-chile)"
+
+  - image_path: /assets/images/team/hal.jpeg
+    alt: "Hal Speed"
+    title: "Hal<br/>Speed"
+    subtitle: "TinyML4K12 Chair<br/><br/>"
+    excerpt: "Head of North America Robotical<br/>[Learn More](https://www.linkedin.com/in/halspeed/)"
 
 edXLeadership:
     
@@ -101,63 +121,75 @@ edXCourseStaff:
     title: "Srivatsan<br/>Krishnan"
     excerpt: "Harvard PhD Candidate<br/>[Learn More](https://www.linkedin.com/in/srivatsan-krishnan-2a683849)"
 
-workingGroupLeadership:
-  
-  - image_path: /assets/images/team/marco.jpg
-    alt: "Marco Zennaro"
-    title: "Marco<br/>Zennaro"
-    subtitle: "TinyML4D Chair and Academic Network Co-Chair"
-    excerpt: "Research Scientist at the Abdus Salam International Centre for Theoretical Physics<br/>[Learn More](http://users.ictp.it/~mzennaro/)"
-
-  - image_path: /assets/images/team/marcelo.jpeg
-    alt: "Marcelo Rovai"
-    title: "Marcelo<br/>Rovai"
-    subtitle: "TinyML4D Academic Network Co-Chair"
-    excerpt: "Professor at Universidade Federal de Itajubá<br/>[Learn More](https://www.linkedin.com/in/marcelo-jose-rovai-brazil-chile)"
-
-  - image_path: /assets/images/team/hal.jpeg
-    alt: "Hal Speed"
-    title: "Hal<br/>Speed"
-    subtitle: "TinyML4K12 Chair                  "
-    excerpt: "Head of North America Robotical<br/>[Learn More](https://www.linkedin.com/in/halspeed/)"
-
-  - image_path: /assets/images/team/andres.jpeg
-    alt: "Andres Monsalvo"
-    title: "Andres<br/>Monsalvo"
-    subtitle: "TinyML4Xlations Chair"
-    excerpt: "Mechanical Engineer Spartan Controls<br/>[Learn More](https://www.linkedin.com/in/andresmonsalvo/)"
-
-  - image_path: /assets/images/team/greg.png
-    alt: "Greg Gage"
-    title: "Greg<br/>Gage"
-    subtitle: "TinyML4STEM Chair"
-    excerpt: "Co-Founder and CEO Backyard Brains<br/>[Learn More](https://www.linkedin.com/in/gagegreg)"
-
 workingGroupMembers:
   
-  - image_path: /assets/images/team/daniel.jpeg
-    alt: "Daniel D’souza"
-    title: "Daniel<br/>D’souza"
-    excerpt: "Co-Founder & CTO at TIF Labs Pvt Ltd.<br/>[Learn More](https://www.linkedin.com/in/danieldsouza93/)"
+  - image_path: "/assets/images/team/aguinaldo.gif"
+    alt: "Aguinaldo Cardozo da Costa Filho"
+    title: "Aguinaldo Cardozo da Costa Filho"
+    excerpt: "Professor at the Federal Institute of São Paulo (IFSP)<br/>[Learn More](https://bv.fapesp.br/pt/pesquisador/46505/aguinaldo-cardozo-da-costa-filho/)"
 
   - image_path: /assets/images/team/gregg.png
     alt: "Gregg Barrett"
     title: "Gregg<br/>Barrett"
     excerpt: "Head of Cirrus<br/>[Learn More](http://www.linkedin.com/in/greggbarrett)"
 
-  - image_path: /assets/images/team/josealberto.png
+  - image_path: "/assets/images/team/jeremy.jpeg"
+    alt: "Jeremy Ellis"
+    title: "Jeremy<br/>Ellis"
+    excerpt: "Teacher at Sd75 Mission BC and GearbotsBC<br/>[Learn More](https://www.linkedin.com/in/jeremy-ellis-4237a9bb/)"
+
+  - image_path: "/assets/images/team/josealberto.png"
     alt: "Jose Alberto Ferreira Filho"
     title: "Jose Alberto<br/>Ferreira Filho"
     excerpt: "Professor Instituto de Engenharia de Sistemas e Technologia da Inforacao<br/>[Learn More](https://sigaa.unifei.edu.br/sigaa/public/docente/portal.jsf?siape=394714)"
 
-  - image_path: /assets/images/team/jesusalfonso.jpg
+  - image_path: "/assets/images/team/peter.jpeg" 
+    alt: "Peter Ing"
+    title: "Peter<br/>Ing"
+    excerpt: "Senior Mechatronics Engineer at TFG<br/>[Learn More](https://za.linkedin.com/in/peter-ing-8baba8143)"
+
+  - image_path: "/assets/images/team/jesusalfonso.jpg"
     alt: "Jesús Alfonso López Sotelo"
     title: "Jesús Alfonso<br/>López Sotelo"
     excerpt: "Chair Automation and Electronics Department Universidad Autónoma de Occidente<br/>[Learn More](https://www.uao.edu.co/perfil/jesus-alfonso-lopez-sotelo/)"
+
+  - image_path: "/assets/images/team/rosdiadee.gif" 
+    alt: "Rosdiadee Nordin"
+    title: "Rosdiadee<br/>Nordin"
+    excerpt: "Professor at Universiti Kebangsaan Malaysia<br/>[Learn More](https://sites.google.com/site/rosdiadee/)"
+
+  - image_path: "/assets/images/team/marceloP.jpg" 
+    alt: "Marcelo Pias"
+    title: "Marcelo<br/>Pias"
+    excerpt: "Professor at Universidade Federal do Rio Grande<br/>[Learn More](https://scholar.google.com/citations?user=X_zoltAAAAAJ&hl=en)"
  
-  - image_path: /assets/images/team/mohd.png
+alumniMembers:
+
+  - #image_path: "/assets/images/team/benA.jpeg"
+    alt: "Ben Asaf"
+    title: "Ben<br/>Asaf"
+    excerpt: "Co-Founder & CTO at CLIKA<br/>[Learn More](https://www.linkedin.com/in/benasaf/)"
+
+  - #image_path: "/assets/images/team/daniel.jpeg"
+    alt: "Daniel D’souza"
+    title: "Daniel<br/>D’souza"
+    excerpt: "Co-Founder & CTO at TIF Labs Pvt Ltd.<br/>[Learn More](https://www.linkedin.com/in/danieldsouza93/)"
+
+  - #image_path: "/assets/images/team/greg.png"
+    alt: "Greg Gage"
+    title: "Greg<br/>Gage"
+    # subtitle: "TinyML4STEM Chair"
+    excerpt: "Co-Founder and CEO Backyard Brains<br/>[Learn More](https://www.linkedin.com/in/gagegreg)"
+
+  - #image_path: "/assets/images/team/andres.jpeg"
+    alt: "Andres Monsalvo"
+    title: "Andres<br/>Monsalvo"
+    # subtitle: "TinyML4Xlations Chair"
+    excerpt: "Mechanical Engineer Spartan Controls<br/>[Learn More](https://www.linkedin.com/in/andresmonsalvo/)"
+
+  - #image_path: "/assets/images/team/mohd.png"
     alt: "Mohd Ridzuan Bin Ahmad"
-    title: "Mohd<br/>Ridzuan Bin Ahmad"
+    title: "Mohd Ridzuan<br/>Bin Ahmad"
     excerpt: "Professor Universiti Teknologi Malaysia Skudai<br/>[Learn More](https://www.utm.my/directory/staff/mdridzuan)"
 
 # advisoryBoard:
@@ -189,15 +221,20 @@ workingGroupMembers:
 {% include section_break %}
 {% include feature_row id="leadership" max_height="200px" %}
 
-{% include section_break %}
+<!-- {% include section_break %}
 # Working Group Leadership
 {% include section_break %}
-{% include feature_row id="workingGroupLeadership" max_height="200px" %}
+{% include feature_row id="workingGroupLeadership" max_height="200px" %} -->
 
 {% include section_break %}
 # Working Group Members
 {% include section_break %}
 {% include feature_row id="workingGroupMembers" max_height="200px" %}
+
+{% include section_break %}
+# Special thanks to Past Working Group Members and Contributors
+{% include section_break %}
+{% include feature_row id="alumniMembers" max_height="200px" %}
 
 {% include section_break %}
 # edX Course Leadership
