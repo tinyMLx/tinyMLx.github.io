@@ -138,7 +138,7 @@ workingGroupMembers:
     title: "Jeremy<br/>Ellis"
     excerpt: "Teacher at Sd75 Mission BC and GearbotsBC<br/>[Learn More](https://www.linkedin.com/in/jeremy-ellis-4237a9bb/)"
 
-  - image_path: "/assets/images/team/josealberto.png"
+  - image_path: "/assets/images/team/josealberto2.png"
     alt: "Jose Alberto Ferreira Filho"
     title: "Jose Alberto<br/>Ferreira Filho"
     excerpt: "Professor Instituto de Engenharia de Sistemas e Technologia da Inforacao<br/>[Learn More](https://sigaa.unifei.edu.br/sigaa/public/docente/portal.jsf?siape=394714)"
@@ -158,7 +158,7 @@ workingGroupMembers:
     title: "Rosdiadee<br/>Nordin"
     excerpt: "Professor at Universiti Kebangsaan Malaysia<br/>[Learn More](https://sites.google.com/site/rosdiadee/)"
 
-  - image_path: "/assets/images/team/marceloP.jpg" 
+  - image_path: "/assets/images/team/marceloP2.png" 
     alt: "Marcelo Pias"
     title: "Marcelo<br/>Pias"
     excerpt: "Professor at Universidade Federal do Rio Grande<br/>[Learn More](https://scholar.google.com/citations?user=X_zoltAAAAAJ&hl=en)"
