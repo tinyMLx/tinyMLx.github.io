@@ -26,7 +26,7 @@
 
         <div class="archive__item-body">
           {% if f.title %}
-            <h2 class="archive__item-title" >{{ f.title | markdownify }}</h2>
+            <h2 class="archive__item-title" >{{ f.title }}</h2>
           {% endif %}
           {% if f.subtitle %}
             <div class="archive__item-excerpt" style="font-size:1em;">{{ f.subtitle | markdownify }}</div>

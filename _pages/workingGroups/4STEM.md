@@ -18,6 +18,8 @@ We are working to collect materials from all courses that teach TinyML to create
 
 {% include feature_row id="programs" type="center" %}
 
++ The 2022 Edge AI Summer Institute (EASI-22) held their summer program on TinyML for **High School Students and Teachers**! You can view the [course website and materials](/EASI-22)!
+
 + Backyard Brains used TinyML as part of their 2021 AI Fellowship for **High School Students and Teachers**! You can [find our more about the program here](https://blog.backyardbrains.com/2021/03/backyard-brains-2021-ai-fellowship/)!
 
 + CReating Effective STem Learning EXperiences (CRESTLEX 3.0) held their summer 2021 program on TinyML for **High School Students and Teachers**! You can view the [course flyer](/CRESTLEX3_Flyer/) and the [course website](/CRESTLEX3/)!
