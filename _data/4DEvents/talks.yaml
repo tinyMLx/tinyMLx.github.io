@@ -1,6 +1,23 @@
 - authors:
     - name: "Marcelo Rovai"
       url: "https://github.com/Mjrovai"
+  title: "AIoT – When IoT meets the AI"
+  subtitle: "[At the 2022 IEEE Colombian Conference on Applications of Computational Intelligence (ColCACI)](https://2022.ieee-colcaci.org)"
+  date: "March 22, 2022"
+  audience: "Everyone"
+  language_instruction: "English"
+  language_materials: "English"
+  links:
+    - url: "https://docs.google.com/presentation/d/1VOU0Uedc_5WnW5hg2e7nAbL0AXSmQaR4fz0_QNnxIsI/edit"
+      title: "Slides"
+  thumbnails:
+    - image: "/assets/images/thumbnails/unifei.png"
+      alt: "Universidade Federal de Itajubá (UNIFEI)"
+      url: "https://unifei.edu.br/"
+
+- authors:
+    - name: "Marcelo Rovai"
+      url: "https://github.com/Mjrovai"
     - name: "Guilherme Silva"
     - name: "Renam Castro"
     - name: "João Yamashita"
