@@ -10,13 +10,13 @@ header:
 excerpt: "The TinyML4D working group is building a network of academic institutions, based in Developing Countries, interested in expanding access to Applied Machine Learning by establishing best practices in education. We aim to ultimately develop a community of researchers and practitioners focused on both improving access to TinyML education and enabling innovative solutions for the unique challenges faced by Developing Countries."
 
 network_map: 
-  - image_path: /assets/images/workingGroups/4D/AN_Map.png
+  - image_path: /assets/images/workingGroups/4D/AN_Map2.jpg
     alt: "TinyML4D Academic Network"
     excerpt: "With support from the [**International Centre for Theoretical Physics (ICTP)**](https://www.ictp.it/) a first group of 20 Universities have joined the network in Summer 2021."
     excerpt2: "We are expanding the network -- if you are interested in joining please fill out this form: [https://bit.ly/TinyML4D-Network-Call-2](https://bit.ly/TinyML4D-Network-Call-2)!"
     excerpt_large: true
     excerpt2_large: true
-    url: /assets/images/workingGroups/4D/AN_Map.png
+    url: /assets/images/workingGroups/4D/AN_Map2.jpg
     btn_label: "Full Size Map"
     btn_class: "btn--primary"
 
