@@ -22,6 +22,7 @@
     - image: "/assets/images/thumbnails/edX.png"
       alt: "edX"
       url: "https://www.edx.org/"
+
 - title: "Embedded Machine Learning on Coursera"
   subtitle: "by Edge Impulse"
   date: "Launched 2021-2022"
@@ -42,6 +43,20 @@
     - image: "/assets/images/thumbnails/coursera.png"
       alt: "Coursera"
       url: "https://www.edx.org/"
+
+- title: "ESE3600: Tiny Machine Learning"
+  subtitle: "by the University of Pennsylvania"
+  date: "Fall 2022"
+  audience: "Everyone"
+  language_instruction: "English"
+  language_materials: "English"
+  links:
+   - url: "https://tinyml.seas.upenn.edu/"
+     title: "Website and Materials"
+  thumbnails:
+    - image: "/assets/images/thumbnails/upenn.png"
+      alt: "UPenn"
+      url: "https://www.seas.upenn.edu/"
 
 - title: "UNIFEI IESTI01"
   subtitle: "TinyML - Machine Learning for Embedding Devices"
