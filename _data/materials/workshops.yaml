@@ -1,3 +1,26 @@
+- title: "WALC 2022 Track 7"
+  subtitle: "Applied Artificial Intelligence"
+  date: "November 2022"
+  audience: "Everyone"
+  language_instruction: "English / Spanish"
+  language_materials: "English"
+  links:
+    - url: "https://eslared.net/walc2022/track-7-inteligencia-artificial-aplicada/"
+      title: "Website"
+    - url: "https://github.com/Mjrovai/WALC_2022-Applied_AI"
+      title: "Materials"
+  thumbnails:
+    - image: "/assets/images/thumbnails/unifei.png"
+      alt: "Universidade Federal de Itajubá (UNIFEI)"
+      url: "https://unifei.edu.br/"
+    - image: "/assets/images/thumbnails/ictp.svg"
+      alt: "The Abdus Salam International Centre for Theoretical Physics (ICTP)"
+      url: "https://www.ictp.it/"
+    - image: "/assets/images/thumbnails/epsol.png"
+      alt: "Escuela Superior Politécnica del Litoral (ESPOL)"
+      url: "https://www.espol.edu.ec/"
+  4D_Event: 1
+
 - title: "SciTinyML 2022<br/>Africa, Asia, and Latam"
   subtitle: "Scientific Use of Machine Learning on Low-Power Devices"
   date: "April, June, July 2022"
