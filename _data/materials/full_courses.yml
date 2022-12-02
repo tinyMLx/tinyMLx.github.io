@@ -47,7 +47,7 @@
 - title: "ESE3600: Tiny Machine Learning"
   subtitle: "by the University of Pennsylvania"
   date: "Fall 2022"
-  audience: "Everyone"
+  audience: "Undergraduate Students"
   language_instruction: "English"
   language_materials: "English"
   links:
@@ -78,15 +78,17 @@
 
 - title: "Harvard CS249r"
   subtitle: "Tiny Machine Learning"
-  date: "Sept-Dec 2020"
+  date: "Sept 2020 - Present"
   audience: "Graduate Students"
   language_instruction: "English"
   language_materials: "English"
   links:
     - url: "https://sites.google.com/g.harvard.edu/tinyml/home"
-      title: "Website"
+      title: "2022 Website and Assignments"
+    - url: "https://sites.google.com/g.harvard.edu/tinyml-fall2020/home"
+      title: "2020 Website"
     - url: "https://github.com/Harvard-CS249R-Fall2020/assignments"
-      title: "Assignments"
+      title: "2020 Assignments"
   thumbnails:
     - image: "/assets/images/thumbnails/harvard_seas.svg"
       alt: "Harvard John A. Paulson School of Engineering and Applied Sciences"
