@@ -47,7 +47,7 @@
 - title: "ESE3600: Tiny Machine Learning"
   subtitle: "by the University of Pennsylvania"
   date: "Fall 2022"
-  audience: "Undergraduate Students"
+  audience: "Undergraduate and Graduate Students"
   language_instruction: "English"
   language_materials: "English"
   links:
@@ -57,6 +57,22 @@
     - image: "/assets/images/thumbnails/upenn.png"
       alt: "UPenn"
       url: "https://www.seas.upenn.edu/"
+
+- title: "MIT 6.S965"
+  subtitle: "TinyML and Efficient Deep Learning"
+  date: "Fall 2022"
+  audience: "Graduate Students"
+  language_instruction: "English"
+  language_materials: "English"
+  links:
+    - url: "https://efficientml.ai//"
+      title: "Website"
+    - url: "https://efficientml.ai/schedule/"
+      title: "Materials"
+  thumbnails:
+    - image: "/assets/images/thumbnails/mit.png"
+      alt: "Massachusetts Institute of Technology (MIT)"
+      url: "https://web.mit.edu/"
 
 - title: "UNIFEI IESTI01"
   subtitle: "TinyML - Machine Learning for Embedding Devices"
