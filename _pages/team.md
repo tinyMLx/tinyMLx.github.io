@@ -5,7 +5,8 @@ header:
   overlay_color: "#00A"
   overlay_filter: "0.5"
   overlay_image: /assets/images/banner.jpg
-permalink: /team/
+permalink: "/team"
+excerpt: "We are an international group of academics and industry professionals working to improve global access to educational materials for the cutting-edge field of TinyML. TinyML brings the transformative power of machine learning (ML) to the performance- and power-constrained domain of embedded systems. Successful deployment in this field requires knowledge of applications, algorithms, hardware, and software. TinyMLedu is hosted by the Harvard John A. Paulson School of Engineering and Applied Sciences in collaboration with the tinyML Foundation."
 
 leadership:
 

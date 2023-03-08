@@ -12,11 +12,8 @@ excerpt: "The TinyML4D working group is working to develop content for, and a ne
 news: 
   - title: 'Recent News'
 
-materials: 
-  - title: 'Teach Your Own TinyML Course'
-
 courses: 
-  - title: 'Take a Free Online TinyML Course'
+  - title: 'Take a Free Online TinyML Course or Teach Your Own Course'
 
 join:
   - title: 'Get Involved'
@@ -28,9 +25,8 @@ activities:
 
 {% include feature_row id="news" type="center" %}
 
-**We are looking forward to the regional seminars we are running this spring/summer.** We will be hosting seminars leading up to the workshop to help prepare learners. Please check you email or Discord for news about upcoming seminars. You can also find links to all of our past events below.
-
-**We are also expanding our academic network -- if you are interested in joining please fill out this form: [https://bit.ly/TinyML4D-Network-Call-2](https://bit.ly/TinyML4D-Network-Call-2)!**
+**[SciTinyML 2023](/SciTinyML-23)** will be run remotely in English for 2023 from April 17-21. **Register to attend for free by Friday, April 7, 2023 on the [ICTP website](https://indico.ictp.it/event/10166)!**
+We are also actively **soliciting submissions for short talks** during our Show and Tell day! Please [follow this link](https://tinymledu.org/SciTinyML-23/cfp/) to learn more!
 
 {% include feature_row id="activities" type="center" %}
 
@@ -38,15 +34,11 @@ activities:
 
 {% include feature_row id="courses" type="center" %}
 
-We've collected links to free online courses on edX and Coursera to help you get started learning about TinyML. To view the current course offerings check out our [TinyML Courses](/courses/) page!
-
-{% include feature_row id="materials" type="center" %}
-
-We are working to collect materials from all courses that teach TinyML to create an easy to access repository of course modules, readings, slides, assignments, etc. To view our current materials and learn more about teaching your own TinyML course check out our [Teach TinyML](/teach/) page!
+We've collected links to free online courses on edX and Coursera to help you get started learning about TinyML. We are also working to collect materials from all courses that teach TinyML to create an easy to access repository of course modules, readings, slides, assignments, etc. To view the current course offerings and materials check out our [TinyML Courses and Materials](/courses/) page!
 
 {% include feature_row id="join" type="center" %}
 
-If you want to be more involved with our effort to help improve access to TinyML educational materials and hardware resources worldwide, or would like to be a part of the network, reach out to us at {% include email %}!
+If you want to be more involved with our effort to help improve access to TinyML educational materials and hardware resources worldwide, or would like to be a part of the network, reach out to us at [{% include email %}](mailto:{% include email %})!
 
 {% include section_break %}
 To return to the main working groups page [click here](/workingGroups).

@@ -21,7 +21,7 @@ github_username:  tinymlx
 locale                   : "en-US"
 title                    : "TinyMLedu"
 title_separator          : "-"
-subtitle                 : "The Tiny Machine Learning Open Education Initiative"
+subtitle                 : ""
 name                     : "TinyMLedu"
 description              : "The Tiny Machine Learning Open Education Initiative"
 url                      : "https://tinymlx.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

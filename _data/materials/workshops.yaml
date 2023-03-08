@@ -22,6 +22,24 @@
       url: "https://www.tinyml.org/"
   4D_Event: 1
 
+- title: "TinyML at AAU"
+  subtitle: "A Workshop at Addis Ababa University"
+  date: "March 2023"
+  audience: "Everyone"
+  language_instruction: "English"
+  language_materials: "English"
+  links:
+    - url: "https://github.com/Mjrovai/TinyML4D/tree/main/AAU"
+      title: "Materials"
+  thumbnails:
+    - image: "/assets/images/thumbnails/unifei.png"
+      alt: "Universidade Federal de Itajubá (UNIFEI)"
+      url: "https://unifei.edu.br/"
+    - image: "/assets/images/thumbnails/aau.png"
+      alt: "Addis Ababa University (AAU)"
+      url: "http://www.aau.edu.et/"
+  4D_Event: 1
+
 - title: "WALC 2022 Track 7"
   subtitle: "Applied Artificial Intelligence"
   date: "November 2022"

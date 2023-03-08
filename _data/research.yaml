@@ -1,0 +1,92 @@
+journal:
+  - title: "Machine Learning Sensors: A Design Paradigm for the Future of Intelligent Sensors"
+    authors: "Pete Warden, Matthew Stewart, Brian Plancher, Sachin Katti, Vijay Janapa Reddi"
+    pub: "Communications of the ACM (CACM)"
+    links: 
+      - title: "Webpage" 
+        url: "http://mlsensors.org/"
+      - title: "Technical Report" 
+        url: "https://brianplancher.com/publication/mlsensors/"
+    date: "Coming 2023"
+    thumbnails:
+      - image: "/assets/images/thumbnails/stanford.png"
+        alt: "Stanford University"
+        url: "https://www.stanford.edu/"
+      - image: "/assets/images/thumbnails/harvard_seas.svg"
+        alt: "Harvard John A. Paulson School of Engineering and Applied Sciences"
+        url: "https://www.seas.harvard.edu/"
+      - image: "/assets/images/thumbnails/barnard.png"
+        alt: "Barnard College"
+        url: "https://cs.barnard.edu/"
+
+
+  - title: "Widening Access to Applied Machine Learning with TinyML"
+    authors: "Vijay Janapa Reddi, Brian Plancher, Susan Kennedy, Laurence Moroney, Pete Warden, Anant Agarwal, Colby Banbury, Massimo Banzi, Matthew Bennett, Benjamin Brown, Sharad Chitlangia, Radhika Ghosal, Sarah Grafman, Rupert Jaeger, Srivatsan Krishnan, Maximilian Lam, Daniel Leiker, Cara Mann, Mark Mazumder, Dominic Pajak, Dhilan Ramaprasad, J. Evan Smith, Matthew Stewart, Dustin Tingley"
+    pub: "Harvard Data Science Review"
+    doi: "10.1162/99608f92.762d171a"
+    url: "https://hdsr.mitpress.mit.edu/pub/0gbwdele/release/3"
+    date: "January 2022"
+    thumbnails:
+      - image: "/assets/images/thumbnails/harvard_seas.svg"
+        alt: "Harvard John A. Paulson School of Engineering and Applied Sciences"
+        url: "https://www.seas.harvard.edu/"
+      - image: "/assets/images/thumbnails/edX.png"
+        alt: "edX"
+        url: "https://www.edx.org/"
+
+conference:
+  - title: "Tiny Robot Learning: Challenges and Directions for Machine Learning in Resource-Constrained Robots"
+    authors: "Sabrina M. Neuman, Brian Plancher, Bardienus Duisterhof, Srivatsan Krishnan, Colby Banbury, Mark Mazumder, Shvetank Prakash, Jason Jabbour, Aleksandra Faust, Guido C.H.E. de Croon, Vijay Janapa Reddi"
+    pub: "IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)"
+    doi: "10.1109/AICAS54282.2022.9870000"
+    date: "June 2022"
+    thumbnails:
+      - image: "/assets/images/thumbnails/harvard_seas.svg"
+        alt: "Harvard John A. Paulson School of Engineering and Applied Sciences"
+        url: "https://www.seas.harvard.edu/"
+
+other:
+  - title: "Is TinyML Sustainable? Assessing the Environmental Impacts of Machine Learning on Microcontrollers"
+    authors: "Shvetank Prakash, Matthew Stewart, Colby Banbury, Mark Mazumder, Pete Warden, Brian Plancher, Vijay Janapa Reddi"
+    pub: "arXiv Preprint"
+    links: 
+      - title: "PDF" 
+        url: "https://arxiv.org/abs/2301.11899"
+      - title: "Footprint Calculator"
+        url: "https://harvard-edge.github.io/TinyML-Footprint/"
+    date: "January 2023"
+    thumbnails:
+      - image: "/assets/images/thumbnails/harvard_seas.svg"
+        alt: "Harvard John A. Paulson School of Engineering and Applied Sciences"
+        url: "https://www.seas.harvard.edu/"
+      - image: "/assets/images/thumbnails/barnard.png"
+        alt: "Barnard College"
+        url: "https://cs.barnard.edu/"
+      - image: "/assets/images/thumbnails/stanford.png"
+        alt: "Stanford University"
+        url: "https://www.stanford.edu/"
+
+  - title: "TinyML: Applied AI for Development"
+    authors: "Marco Zennaro, Brian Plancher, Vijay Janapa Reddi"
+    pub: "The UN 7th Multi-stakeholder Forum on Science, Technology and Innovation for the Sustainable Development Goals"
+    links: 
+      - title: "PDF" 
+        url: "https://sdgs.un.org/sites/default/files/2022-05/2.1.3-9-Zennaro-TinyML.pdf"
+    date: "May 2022"
+    thumbnails:
+      - image: "/assets/images/thumbnails/ictp.svg"
+        alt: "The Abdus Salam International Centre for Theoretical Physics (ICTP)"
+        url: "https://www.ictp.it/"
+      - image: "/assets/images/thumbnails/harvard_seas.svg"
+        alt: "Harvard John A. Paulson School of Engineering and Applied Sciences"
+        url: "https://www.seas.harvard.edu/"
+
+  - title: "TinyMLedu: The Tiny Machine Learning Open Education Initiative"
+    authors: "Brian Plancher, Vijay Janapa Reddi"
+    pub: "ACM Technical Symposium on Computer Science Education (SIGCSE)"
+    doi: "10.1145/3478432.3499093"
+    date: "March 2022"  
+    thumbnails:
+      - image: "/assets/images/thumbnails/harvard_seas.svg"
+        alt: "Harvard John A. Paulson School of Engineering and Applied Sciences"
+        url: "https://www.seas.harvard.edu/"

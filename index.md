@@ -8,14 +8,18 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/banner.jpg
   actions:
-    - label: "Take a Free Online Course to Learn More"
-      url: "#courses"
-    - label: "Build and Teach your own Course"
-      url: "#teach"
-    - label: "Explore our Working Groups"
-      url: "#workingGroups"
+    - label: "Take a Free Course or Teach Your Own"
+      url: "/courses"
+    - label: "Explore our 4D Academic Network"
+      url: "/4D"
+    - label: "Attend our SciTinyML Workshop"
+      url: "/SciTinyML"
+    - label: "View our Research Projects"
+      url: "/research"
+    - label: "Learn More About Us"
+      url: "/team"
   caption: ""
-excerpt: "We are an international group of academics and industry professionals working to improve global access to educational materials for the cutting-edge field of TinyML. TinyML brings the transformative power of machine learning (ML) to the performance- and power-constrained domain of embedded systems. Successful deployment in this field requires knowledge of applications, algorithms, hardware, and software. TinyMLedu is hosted by the Harvard John A. Paulson School of Engineering and Applied Sciences in collaboration with the tinyML Foundation."
+# excerpt: "We are an international group of academics and industry professionals working to improve global access to educational materials for the cutting-edge field of TinyML. TinyML brings the transformative power of machine learning (ML) to the performance- and power-constrained domain of embedded systems. Successful deployment in this field requires knowledge of applications, algorithms, hardware, and software. TinyMLedu is hosted by the Harvard John A. Paulson School of Engineering and Applied Sciences in collaboration with the tinyML Foundation."
 
 sponsors_intro: 
   - title: "Thanks to all of our sponsors!"
@@ -33,6 +37,9 @@ workingGroups:
   - title: "Explore our Working Groups"
   - subtitle: "Widening access to applied machine learning by establishing best practices in education."
 ---
+
+**If you want to be more involved with our effort to help improve access to TinyML educational materials and hardware resources worldwide reach out to us at [{% include email %}](mailto:{% include email %})!**
+
 <!-- 
 {% include section_break %}
 {% include feature_row id="events" type="center" %}
@@ -45,12 +52,11 @@ workingGroups:
 
 {% include gallery id="sponsors_list" max_height="200px" %}
 
-{% include section_break %}
+<!-- {% include section_break %}
 {% include feature_row id="courses" type="center" %}
 {% include section_break %}
 
 {% include feature_row id="mooc_courses_list" %}
-
 
 
 {% include section_break %}
@@ -62,8 +68,6 @@ workingGroups:
 
 {% include section_break %}
 {% include feature_row id="workingGroups" type="center" %}
-{% include section_break %}
+{% include section_break %} -->
 
-If you want to be more involved with our effort to help improve access to TinyML educational materials and hardware resources worldwide reach out to us at edu@tinyML.org!
-
-{% include feature_row id="workingGroup_list" max_height="230px" %}
+<!-- {% include feature_row id="workingGroup_list" max_height="230px" %} -->

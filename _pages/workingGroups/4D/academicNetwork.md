@@ -12,8 +12,8 @@ excerpt: "The TinyML4D working group is building a network of academic instituti
 network_map: 
   - image_path: /assets/images/workingGroups/4D/AN_Map2.jpg
     alt: "TinyML4D Academic Network"
-    excerpt: "With support from the [**International Centre for Theoretical Physics (ICTP)**](https://www.ictp.it/) a first group of 20 Universities have joined the network in Summer 2021."
-    excerpt2: "We are expanding the network -- if you are interested in joining please fill out this form: [https://bit.ly/TinyML4D-Network-Call-2](https://bit.ly/TinyML4D-Network-Call-2)!"
+    excerpt: "With support from the [**International Centre for Theoretical Physics (ICTP)**](https://www.ictp.it/) a first group of 20 Universities joined the network in Summer 2021 and another 20 in Summer 2022."
+    excerpt2: "We have also partnered with the [Edge Impulse Academic Network](https://www.edgeimpulse.com/university) to further expand our reach by co-promoting events, workshops, seminars, and activities!"
     excerpt_large: true
     excerpt2_large: true
     url: /assets/images/workingGroups/4D/AN_Map2.jpg
@@ -40,9 +40,9 @@ Students from network member Universities will be well positioned to excel in th
 
 With support from our [sponsors](/sponsors), member universities will each be given ten Arduino Tiny Machine Learning Kits for free which they can use for the hands-on lab components of the specialization and for further exploration of the opportunities and challenges of deploying and testing their own TinyML projects.
 
-You can contact the TinyML4D committee with any questions regarding this network or the workshops at {% include email %}
+You can contact the TinyML4D committee with any questions regarding this network or the workshops at [{% include email %}](mailto:{% include email %})
 
-You can express your interest in joining the network by filling in this form: [https://bit.ly/TinyML4D-Network-Call-2](https://bit.ly/TinyML4D-Network-Call-2)!
+<!-- You can express your interest in joining the network by filling in this form: [https://bit.ly/TinyML4D-Network-Call-2](https://bit.ly/TinyML4D-Network-Call-2)! -->
 
 {% include section_break %}
 To return to the main 4D page [click here](/4D).
