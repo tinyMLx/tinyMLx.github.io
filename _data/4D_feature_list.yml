@@ -1,4 +1,4 @@
-- image_path: /assets/images/workingGroups/4D/AN_Map2.jpg
+- image_path: /assets/images/workingGroups/4D/AN_Map3.png
   alt: "Academic Network"
   title: "Academic Network"
   excerpt: "Explore the academic network."
@@ -17,7 +17,7 @@
 - image_path: /assets/images/workingGroups/4D/pastEvents.png
   alt: "Past Events"
   title: "Past Events"
-  excerpt: "We have posted materials from all of our past seminars, workshops, and other events."
+  excerpt: "We have posted materials from all of our past show and tells, seminars, workshops, and other events."
   url: "/4D/pastEvents"
   btn_label: "Learn More"
   btn_class: "btn--primary"

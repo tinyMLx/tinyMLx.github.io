@@ -19,6 +19,45 @@ journal:
         alt: "Barnard College"
         url: "https://cs.barnard.edu/"
 
+  - title: "Coffee disease classification at the edge using deep learning"
+    authors: "João Vitor Yukio Bordin Yamashita, João Paulo R.R. Leite"
+    pub: "Smart Agricultural Technology"
+    doi: "10.1016/j.atech.2023.100183"
+    date: "August 2023"
+    thumbnails:
+      - image: "/assets/images/thumbnails/unifei.png"
+        alt: "Universidade Federal de Itajubá (UNIFEI)"
+        url: "https://unifei.edu.br/"
+
+  - title: "A TinyML Deep Learning Approach for Indoor Tracking of Assets"
+    authors: "Diego Avellaneda, Diego Mendez, Giancarlo Fortino"
+    pub: "Sensors"
+    doi: "10.3390/s23031542"
+    date: "January 2023"
+    thumbnails:
+      - image: "/assets/images/thumbnails/pontificia.png"
+        alt: "Pontificia Universidad Javeriana"
+        url: "https://www.javeriana.edu.co/"
+      - image: "/assets/images/thumbnails/calabria.png"
+        alt: "University of Calabria"
+        url: "https://www.unical.it/"
+
+  - title: "On-Device IoT-Based Predictive Maintenance Analytics Model: Comparing TinyLSTM and TinyModel from Edge Impulse"
+    authors: "Irene Niyonambaza Mihigo, Marco Zennaro, Alfred Uwitonze, James Rwigema, Marcelo Rovai"
+    pub: "Sensors"
+    doi: "10.3390/s22145174"
+    url: "https://www.mdpi.com/1424-8220/22/14/5174"
+    date: "June 2022"
+    thumbnails:
+      - image: "/assets/images/thumbnails/UoRwanda.png"
+        alt: "University of Rwanda"
+        url: "https://ur.ac.rw/"
+      - image: "/assets/images/thumbnails/ictp.svg"
+        alt: "The Abdus Salam International Centre for Theoretical Physics (ICTP)"
+        url: "https://www.ictp.it/"
+      - image: "/assets/images/thumbnails/unifei.png"
+        alt: "Universidade Federal de Itajubá (UNIFEI)"
+        url: "https://unifei.edu.br/"
 
   - title: "Widening Access to Applied Machine Learning with TinyML"
     authors: "Vijay Janapa Reddi, Brian Plancher, Susan Kennedy, Laurence Moroney, Pete Warden, Anant Agarwal, Colby Banbury, Massimo Banzi, Matthew Bennett, Benjamin Brown, Sharad Chitlangia, Radhika Ghosal, Sarah Grafman, Rupert Jaeger, Srivatsan Krishnan, Maximilian Lam, Daniel Leiker, Cara Mann, Mark Mazumder, Dominic Pajak, Dhilan Ramaprasad, J. Evan Smith, Matthew Stewart, Dustin Tingley"
@@ -35,6 +74,51 @@ journal:
         url: "https://www.edx.org/"
 
 conference:
+  - title: "How TinyML Can be Leveraged to Solve Environmental Problems: A Survey"
+    authors: "Hatim Bamoumen, Anas Temouden, Nabil Benamar, Yousra Chtouki"
+    pub: "IEEE International Conference on Innovation and Intelligence for Informatics, Computing, and Technologies"
+    doi: "10.1109/3ICT56508.2022.9990661"
+    date: "November 2022"
+    thumbnails:
+      - image: "/assets/images/thumbnails/Al_Akhawayn.png"
+        alt: "Al Akhawayn University in Ifrane"
+        url: "http://www.aui.ma/"
+
+  - title: "Atrial Fibrillation and Sinus Rhythm detection using TinyML (Embedded Machine Learning)"
+    authors: "G. Silva, M.D. Lima, J.A.F. Filho and M.J. Rovai"
+    pub: "IX Latin American Congress and XXVIII Brazilian Congress on Biomedical Engineering"
+    date: "October 2022"
+    thumbnails:
+      - image: "/assets/images/thumbnails/unifei.png"
+        alt: "Universidade Federal de Itajubá (UNIFEI)"
+        url: "https://unifei.edu.br/"
+
+  - title: "Classifying Mosquito Wingbeat Sound Using TinyML"
+    authors: "Moez Altayeb, Marco Zennaro, Marcelo Rovai"
+    pub: "ACM Conference on Information Technology for Social Good"
+    doi: "10.1145/3524458.3547258"
+    date: "September 2022"
+    thumbnails:
+      - image: "/assets/images/thumbnails/ictp.svg"
+        alt: "The Abdus Salam International Centre for Theoretical Physics (ICTP)"
+        url: "https://www.ictp.it/"
+      - image: "/assets/images/thumbnails/unifei.png"
+        alt: "Universidade Federal de Itajubá (UNIFEI)"
+        url: "https://unifei.edu.br/"
+
+  - title: "BLE-based Indoor Positioning Platform Utilizing Edge Tiny Machine Learning"
+    authors: "Diego Avellaneda, Diego Mendez, Giancarlo Fortino"
+    pub: "IEEE International Symposium on Dependable, Autonomic and Secure Computing"
+    doi: "10.1109/DASC/PiCom/CBDCom/Cy55231.2022.9927866"
+    date: "September 2022"
+    thumbnails:
+      - image: "/assets/images/thumbnails/pontificia.png"
+        alt: "Pontificia Universidad Javeriana"
+        url: "https://www.javeriana.edu.co/"
+      - image: "/assets/images/thumbnails/calabria.png"
+        alt: "University of Calabria"
+        url: "https://www.unical.it/"
+
   - title: "Tiny Robot Learning: Challenges and Directions for Machine Learning in Resource-Constrained Robots"
     authors: "Sabrina M. Neuman, Brian Plancher, Bardienus Duisterhof, Srivatsan Krishnan, Colby Banbury, Mark Mazumder, Shvetank Prakash, Jason Jabbour, Aleksandra Faust, Guido C.H.E. de Croon, Vijay Janapa Reddi"
     pub: "IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)"

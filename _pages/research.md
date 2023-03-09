@@ -13,7 +13,7 @@ excerpt: "Explore our Academic Publications."
 ## Journal Articles
 {% include research_table paper_list = site.data.research.journal %}
 
-## Conference Papers
+## Conference Proceedings
 {% include research_table paper_list = site.data.research.conference %}
 
 ## Other Publications

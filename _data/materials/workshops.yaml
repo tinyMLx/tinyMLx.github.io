@@ -63,6 +63,29 @@
       url: "https://www.espol.edu.ec/"
   4D_Event: 1
 
+- title: "Topics in Applied Machine Learning: A Theoretical and Hands-On Approach"
+  subtitle: "A Minisymposia at CNMAC 2022"
+  date: "September 2022"
+  audience: "Everyone"
+  language_instruction: "Portuguese"
+  language_materials: "Portuguese"
+  links:
+    - url: "http://www.cnmac.org.br/novo/index.php/CNMAC/conteudo/2022/e_5/0/25"
+      title: "Website"
+    - url: "https://github.com/Mjrovai/CNMAC-22"
+      title: "Hands-On Materials"
+  thumbnails:
+    - image: "/assets/images/thumbnails/harvard_seas.svg"
+      alt: "Harvard John A. Paulson School of Engineering and Applied Sciences"
+      url: "https://www.seas.harvard.edu/"
+    - image: "/assets/images/thumbnails/unifei.png"
+      alt: "Universidade Federal de Itajubá (UNIFEI)"
+      url: "https://unifei.edu.br/"
+    - image: "/assets/images/thumbnails/barnard.png"
+      alt: "Barnard College"
+      url: "https://cs.barnard.edu/"
+  4D_Event: 1
+
 - title: "SciTinyML 2022<br/>Africa, Asia, and Latam"
   subtitle: "Scientific Use of Machine Learning on Low-Power Devices"
   date: "April, June, July 2022"
