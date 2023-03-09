@@ -19,7 +19,7 @@ journal:
         alt: "Barnard College"
         url: "https://cs.barnard.edu/"
 
-  - title: "Coffee disease classification at the edge using deep learning"
+  - title: "Coffee Disease Classification at the Edge using Deep Learning"
     authors: "João Vitor Yukio Bordin Yamashita, João Paulo R.R. Leite"
     pub: "Smart Agricultural Technology"
     doi: "10.1016/j.atech.2023.100183"
@@ -99,6 +99,9 @@ conference:
     doi: "10.1145/3524458.3547258"
     date: "September 2022"
     thumbnails:
+      - image: "/assets/images/thumbnails/khartoum.png"
+        alt: "University of Khartoum"
+        url: "https://uofk.edu/en/"
       - image: "/assets/images/thumbnails/ictp.svg"
         alt: "The Abdus Salam International Centre for Theoretical Physics (ICTP)"
         url: "https://www.ictp.it/"
