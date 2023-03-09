@@ -18,3 +18,6 @@ excerpt: "Explore our Academic Publications."
 
 ## Other Publications
 {% include research_table paper_list = site.data.research.other %}
+
+## Explore Additional TinyML Papers from Others
+[https://github.com/gigwegbe/tinyml-papers-and-projects](https://github.com/gigwegbe/tinyml-papers-and-projects)
