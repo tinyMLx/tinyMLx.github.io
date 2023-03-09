@@ -1,0 +1,125 @@
+- date: "February 23, 2023"
+  url: "https://youtu.be/BAEdil7X68Y"
+  talks:
+    - title: "Artificial Intelligence in Point-of-Care Medical Equipment"
+      authors:
+        - name: "Hellen Cristina Ancelmo"
+      affiliation: 
+        - name: "Instituto Carlos Chagas & Universidade Tecnológica Federal do Paraná, Brazil"
+          url: "https://www.icc.fiocruz.br/"
+    - title: "Weep Scope: Recognizing the Unique Cries of Infants"
+      authors:
+        - name: "Gohel Amit Chandrakantbhai"
+      affiliation: 
+        - name: "Gujarat Technological University, India"
+          url: "https://www.gtu.ac.in/"
+    - title: "Crops Disease Detection with TinyML"
+      authors:
+        - name: "James Adeola"
+      affiliation: 
+        - name: "Université d’Abomey Calavi, Benin"
+          url: "https://abomeycalavi.academia.edu/"
+    - title: "Implementation of Deep Learning on a Chick Counter"
+      authors:
+        - name: "Muhammad Suzaki Zahran"
+      affiliation: 
+        - name: "Universitas Raharja, Indonesia"
+          url: "https://raharja.ac.id/"
+    - title: "Identification of Cashew Nut Diseases using TinyML"
+      authors:
+        - name: "Dr. Bala Murugan MS"
+      affiliation: 
+        - name: "Vellore Institute of Technology, India"
+          url: "https://vit.ac.in/"
+
+- date: "January 26, 2023"
+  url: "https://youtu.be/-0xRZ-5UYUc"
+  talks:
+    - title:  "Personal Trainer"
+      authors:
+        - name: "Ricardo Magno do Carmo Junior"
+      affiliation: 
+        - name: "Universidade Federal de Itajubá (UNIFEI), Brazil"
+          url: "https://unifei.edu.br/"
+    - title: "Irrigation prediction for crops using machine learning at the edge"
+      authors:
+        - name: "Carlos Rodríguez"
+      affiliation: 
+        - name: "Pontificia Universidad Javeriana, Colombia"
+          url: "https://www.javeriana.edu.co/"
+    - title: "EYE TO EYE: non-invasive anemia detector using machine learning"
+      authors:
+        - name: "Kimberly Cristel Soto Concha"
+      affiliation: 
+        - name: "Universidad Peruana Cayetano Heredia"
+          url: "https://cayetano.edu.pe/"
+    - title: "Estimating the shelf life of date palm fruit using TinyML"
+      authors:
+        - name: "Abdulrahman Fayez"
+      affiliation: 
+        - name: "King Faisal University Saudi Arabia"
+          url: "https://www.kfu.edu.sa/en/Pages/home.aspx"
+
+- date: "December 1, 2022"
+  url: "https://youtu.be/e49pkjnIMlQ"
+  talks:
+    - title: "Smart Switch Based on Embedded Machine Learning"
+      authors:
+        - name: "Wong Khai Chiuan"
+      affiliation: 
+        - name: "Universiti Teknologi Malaysia"
+          url: "https://www.utm.my/"
+    - title: "Study of Animal Movement: Monitoring Using TinyML Kits"
+      authors:
+        - name: "Laila Daniela Kazimierski"
+        - name: "Karina Laneri"
+      affiliation: 
+        - name: "Centro Atómico Bariloche Argentina"
+          url: "https://www.argentina.gob.ar/cnea/cab"
+    - title: "Human-Computer Interaction: Hand Gesture Recognition using Tiny Machine Learning"
+      authors:
+        - name: "Koulal Yidhir Aghiles"
+        - name: "Labchri Amayas"
+        - name: "Bourzam Saad Allah"
+        - name: "Baroud Yasmine"
+        - name: "Bourbia Amine"
+      affiliation: 
+        - name: "USTHB University, Algeria"
+          url: "https://www.usthb.dz/"
+    - title: "Automated American Sign Language (ASL) using TinyML"
+      authors:
+        - name: "Md Sharif Ahmed"
+        - name: "Prabha Sundaravadivel"
+      affiliation: 
+        - name: "University of Texas at Tyler "
+          url: "https://www.uttyler.edu/"
+    - title: "Smart Bee Keeping"
+      authors:
+        - name: "Jackline Tum"
+      affiliation: 
+        - name: "Dedan Kimathi University of Technology"
+          url: "https://www.dkut.ac.ke/"
+
+- date: "October 27, 2022"
+  url: "https://youtu.be/s8_hKpOWUwY"
+  talks:
+    - title: "TinyML Based Self Diagnostic Kit for Respiratory Diseases"
+      authors:
+        - name: "Samson Otieno Ooko"
+      affiliation: 
+        - name: "University of Rwanda"
+          url: "https://ur.ac.rw/"
+    - title: "The Impact of TinyML on an Assistive Technology Project in Brazil"
+      authors:
+        - name: "Mateus Delangélica"
+        - name: "Renato Masteguim"
+      affiliation: 
+        - name: "Universidade Federal de Itajubá (UNIFEI)"
+          url: "https://unifei.edu.br/"
+    - title: "Anomaly Detection in the Temperature of an AC Motor Using Embedded Machine Learning"
+      authors:
+        - name: "Ezzeldin Ayman"
+        - name: "Ibrahim Ismail"
+      affiliation: 
+        - name: "Universiti Teknologi Malaysia"
+          url: "https://www.utm.my/"

@@ -1,0 +1,6 @@
+{% if include.paper_list %}
+| Lead Organizations | Title | Author(s) | Publication | Date | Links | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+{% for row in include.paper_list %} | {% for thumbnail in row.thumbnails %}{% if thumbnail.image %}{% if thumbnail.url %}[{% endif %}<img src="{{ thumbnail.image | relative_url }}" {% if thumbnail.alt %}alt="{{ thumbnail.alt }}"{% endif %} style="max-height:35pt; width:auto;">{% if thumbnail.url %}]({{ thumbnail.url }}){% endif %}{% endif %}{% endfor %} | **{{ row.title }}** | {{ row.authors }} | {{ row.pub }} | {{ row.date }} | {% if row.doi %} [DOI](https://doi.org/{{ row.doi }})<br />{% endif %}{% for link in row.links %}[{{ link.title }}]({{ link.url }})<br />{% endfor %} |
+{% endfor %}
+{% endif %}

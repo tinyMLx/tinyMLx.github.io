@@ -2,6 +2,10 @@
 {% assign 4D_Workshops = site.data.materials.workshops | where: "4D_Event", "1" %}
 {% include course_workshop_table materials_list = 4D_Workshops workshop_flag = "1" %}
 
+## Show and Tells
+All Show and Tell Videos can be found at [this playlist](https://www.youtube.com/playlist?list=PLL5nb-tgetJhpCtybAI7Epkiy_fUiIhwm).
+{% include show_and_tells_table materials_list = site.data.4DEvents.showAndTells %}
+
 ## Seminars
 All Seminar Videos can be found at [this playlist](https://youtube.com/playlist?list=PLL5nb-tgetJiPg33y__aHO8oms1bZKnvD).
 {% include other_materials_table materials_list = site.data.4DEvents.seminars %}

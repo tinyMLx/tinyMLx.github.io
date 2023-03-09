@@ -22,6 +22,24 @@
       url: "https://www.tinyml.org/"
   4D_Event: 1
 
+- title: "TinyML at AAU"
+  subtitle: "A Workshop at Addis Ababa University"
+  date: "March 2023"
+  audience: "Everyone"
+  language_instruction: "English"
+  language_materials: "English"
+  links:
+    - url: "https://github.com/Mjrovai/TinyML4D/tree/main/AAU"
+      title: "Materials"
+  thumbnails:
+    - image: "/assets/images/thumbnails/unifei.png"
+      alt: "Universidade Federal de Itajubá (UNIFEI)"
+      url: "https://unifei.edu.br/"
+    - image: "/assets/images/thumbnails/aau.png"
+      alt: "Addis Ababa University (AAU)"
+      url: "http://www.aau.edu.et/"
+  4D_Event: 1
+
 - title: "WALC 2022 Track 7"
   subtitle: "Applied Artificial Intelligence"
   date: "November 2022"
@@ -43,6 +61,29 @@
     - image: "/assets/images/thumbnails/epsol.png"
       alt: "Escuela Superior Politécnica del Litoral (ESPOL)"
       url: "https://www.espol.edu.ec/"
+  4D_Event: 1
+
+- title: "Topics in Applied Machine Learning: A Theoretical and Hands-On Approach"
+  subtitle: "A Minisymposia at CNMAC 2022"
+  date: "September 2022"
+  audience: "Everyone"
+  language_instruction: "Portuguese"
+  language_materials: "Portuguese"
+  links:
+    - url: "http://www.cnmac.org.br/novo/index.php/CNMAC/conteudo/2022/e_5/0/25"
+      title: "Website"
+    - url: "https://github.com/Mjrovai/CNMAC-22"
+      title: "Hands-On Materials"
+  thumbnails:
+    - image: "/assets/images/thumbnails/harvard_seas.svg"
+      alt: "Harvard John A. Paulson School of Engineering and Applied Sciences"
+      url: "https://www.seas.harvard.edu/"
+    - image: "/assets/images/thumbnails/unifei.png"
+      alt: "Universidade Federal de Itajubá (UNIFEI)"
+      url: "https://unifei.edu.br/"
+    - image: "/assets/images/thumbnails/barnard.png"
+      alt: "Barnard College"
+      url: "https://cs.barnard.edu/"
   4D_Event: 1
 
 - title: "SciTinyML 2022<br/>Africa, Asia, and Latam"
