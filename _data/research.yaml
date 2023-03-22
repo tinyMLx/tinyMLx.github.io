@@ -132,6 +132,22 @@ conference:
         alt: "Harvard John A. Paulson School of Engineering and Applied Sciences"
         url: "https://www.seas.harvard.edu/"
 
+  - title: "TinyML in Africa: Opportunities and Challenges"
+    authors: "Samson Otieno Ooko, Marvin Muyonga Ogore, Jimmy Nsenga, Marco Zennaro"
+    pub: "2021 IEEE Globecom Workshops (GC Wkshps)"
+    doi: "10.1109/GCWkshps52748.2021.9682107"
+    date: "December 2021"
+    thumbnails:
+      - image: "/assets/images/thumbnails/ACEIoT.png"
+        alt: "African Center for Excellence in Internet of Things"
+        url: "http://www.aceiot.ur.ac.rw/"
+      - image: "/assets/images/thumbnails/UoRwanda.png"
+        alt: "University of Rwanda"
+        url: "http://www.ur.ac.rw/"
+      - image: "/assets/images/thumbnails/ictp.svg"
+        alt: "The Abdus Salam International Centre for Theoretical Physics (ICTP)"
+        url: "https://www.ictp.it/"
+
 other:
   - title: "Is TinyML Sustainable? Assessing the Environmental Impacts of Machine Learning on Microcontrollers"
     authors: "Shvetank Prakash, Matthew Stewart, Colby Banbury, Mark Mazumder, Pete Warden, Brian Plancher, Vijay Janapa Reddi"
