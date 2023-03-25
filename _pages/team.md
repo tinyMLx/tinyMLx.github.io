@@ -134,6 +134,11 @@ workingGroupMembers:
     title: "Gregg<br/>Barrett"
     excerpt: "Head of Cirrus<br/>[Learn More](http://www.linkedin.com/in/greggbarrett)"
 
+  - image_path: "/assets/images/team/nabil.png"
+    alt: "Nabil Benamar"
+    title: "Nabil<br/>Benamar"
+    excerpt: "Professor of Computer Sciences, Moulay Ismail University, Al Akhawayn University<br/>[Learn More](https://ma.linkedin.com/in/nabil-benamar13375845/en)"    
+
   - image_path: "/assets/images/team/jeremy.jpeg"
     alt: "Jeremy Ellis"
     title: "Jeremy<br/>Ellis"
