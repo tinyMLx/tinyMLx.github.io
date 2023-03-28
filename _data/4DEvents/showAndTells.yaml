@@ -3,7 +3,8 @@
   talks:
     - title: "Automation of Coloring Process in Fashion Design Using Arduino Color Sensor"
       authors:
-        - name: "Fatmaliza Zaki Abdad & Syafiga Arinda"
+        - name: "Fatmaliza Zaki Abdad"
+        - name: "Syafiga Arinda"
       affiliation: 
         - name: "Sampoerna University, Indonesia"
           url: "https://www.sampoernauniversity.ac.id/"
