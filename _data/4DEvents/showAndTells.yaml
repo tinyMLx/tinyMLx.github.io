@@ -1,4 +1,66 @@
+- date: "March 30, 2023"
+  url: "when ready"
+  talks:
+    - title: "Automation of Coloring Process in Fashion Design Using Arduino Color Sensor"
+      authors:
+        - name: "Fatmaliza Zaki Abdad & Syafiga Arinda"
+      affiliation: 
+        - name: "Sampoerna University, Indonesia"
+          url: "https://www.sampoernauniversity.ac.id/"
+    - title: "Anomaly detection for faulty motor using the arduino board Nano 33 BLE sense"
+      authors:
+        - name: "Hilal Al-Libawy"
+      affiliation: 
+        - name: "University of Babylon, Iraq"
+          url: "https://en.uobabylon.edu.iq/"
+    - title: "First Time TinyML Experience"
+      authors:
+        - name: "Edwin Marte"
+      affiliation: 
+        - name: "Universidad Tecnologica de Santiago, Dominican Republic"
+          url: "https://www.utesa.edu/home/"
+    - title: "Voice Activated LED Voice control lighting"
+      authors:
+        - name: "Muhammad Annas Zahid"
+      affiliation: 
+        - name: "Usman Institute of Technology University, Pakistan"
+          url: "https://www.uit.edu/"
+
 - date: "February 23, 2023"
+  url: "https://youtu.be/BAEdil7X68Y"
+  talks:
+    - title: "Artificial Intelligence in Point-of-Care Medical Equipment"
+      authors:
+        - name: "Hellen Cristina Ancelmo"
+      affiliation: 
+        - name: "Instituto Carlos Chagas & Universidade Tecnológica Federal do Paraná, Brazil"
+          url: "https://www.icc.fiocruz.br/"
+    - title: "Weep Scope: Recognizing the Unique Cries of Infants"
+      authors:
+        - name: "Gohel Amit Chandrakantbhai"
+      affiliation: 
+        - name: "Gujarat Technological University, India"
+          url: "https://www.gtu.ac.in/"
+    - title: "Crops Disease Detection with TinyML"
+      authors:
+        - name: "James Adeola"
+      affiliation: 
+        - name: "Université d’Abomey Calavi, Benin"
+          url: "https://abomeycalavi.academia.edu/"
+    - title: "Implementation of Deep Learning on a Chick Counter"
+      authors:
+        - name: "Muhammad Suzaki Zahran"
+      affiliation: 
+        - name: "Universitas Raharja, Indonesia"
+          url: "https://raharja.ac.id/"
+    - title: "Identification of Cashew Nut Diseases using TinyML"
+      authors:
+        - name: "Dr. Bala Murugan MS"
+      affiliation: 
+        - name: "Vellore Institute of Technology, India"
+          url: "https://vit.ac.in/"
+
+
   url: "https://youtu.be/BAEdil7X68Y"
   talks:
     - title: "Artificial Intelligence in Point-of-Care Medical Equipment"
