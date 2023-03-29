@@ -1,6 +1,6 @@
 {% if include.materials_list %}
 | Date | Topics | Video Link |
 | --- | --- |  --- |
-{% for row in include.materials_list %} | {{ row.date }} | {% for talk in row.talks %}  {{ forloop.index }}. **{{ talk.title }}** by {% for author in talk.authors %}{% if forloop.index0 > 0 %}, {% endif %}{% if author.url %}[{% endif %}{{ author.name }}{% if author.url %}]({{ author.url }}){% endif %}{% endfor %} of {% for affil in talk.affiliation %}{% if forloop.index0 > 0 %}, {% endif %}{% if affil.url %}[{% endif %}{{ affil.name }}{% if affil.url %}]({{ affil.url }}){% endif %}{% endfor %}<br />{% endfor %} | [Video]({{ row.url }}) |
+{% for row in include.materials_list %} | {{ row.date }} | {% for talk in row.talks %}  {{ forloop.index }}. **{{ talk.title }}** by {% for author in talk.authors %}{% if forloop.index0 > 0 %}, {% endif %}{% if author.url %}[{% endif %}{{ author.name }}{% if author.url %}]({{ author.url }}){% endif %}{% endfor %} of {% for affil in talk.affiliation %}{% if forloop.index0 > 0 %}, {% endif %}{% if affil.url %}[{% endif %}{{ affil.name }}{% if affil.url %}]({{ affil.url }}){% endif %}{% endfor %}<br />{% endfor %} | {% if row.url %}[Video]({{ row.url }}){% else %}Video Coming Soon!{% endif %} |
 {% endfor %}
 {% endif %}
