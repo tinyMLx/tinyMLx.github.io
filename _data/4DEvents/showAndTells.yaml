@@ -1,5 +1,5 @@
 - date: "March 30, 2023"
-  url: "when ready"
+  # url: ""
   talks:
     - title: "Automation of Coloring Process in Fashion Design Using Arduino Color Sensor"
       authors:
