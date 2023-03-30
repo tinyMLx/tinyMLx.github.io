@@ -1,4 +1,4 @@
-- title: "SciTinyML 2023<br/>Africa, Asia, and Latam"
+- title: "SciTinyML 2023"
   subtitle: "Scientific Use of Machine Learning on Low-Power Devices"
   date: "April 2023"
   audience: "Everyone"
@@ -38,6 +38,21 @@
     - image: "/assets/images/thumbnails/aau.png"
       alt: "Addis Ababa University (AAU)"
       url: "http://www.aau.edu.et/"
+  4D_Event: 1
+
+- title: "Artificial Intelligence and its Integration with Everyday Life"
+  subtitle: "An Introduction to TinyML by Edwin Marte at UTESA"
+  date: "November 2022"
+  audience: "Everyone"
+  language_instruction: "Spanish"
+  language_materials: "Spanish"
+  links:
+    - url: "https://github.com/EdwinMarteZorrilla/tinyML-UTESA"
+      title: "Materials"
+  thumbnails:
+    - image: "/assets/images/thumbnails/UTESA.png"
+      alt: "Universidad Tecnológica de Santiago (UTESA)"
+      url: "https://www.utesa.edu/home/"
   4D_Event: 1
 
 - title: "WALC 2022 Track 7"
