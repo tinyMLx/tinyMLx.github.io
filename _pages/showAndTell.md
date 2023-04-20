@@ -14,7 +14,7 @@ excerpt: "The TinymML4D Academic Network Show and Tell is an opportunity for stu
 
 ## What is a TinyML4D Show and Tell Talk?
 
-Show and Tell Talks can include classroom projects, research projects, in-progress projects, failed projects -- basically any kind of TinyML project!We are particularly interested in work that discuss:
+Show and Tell Talks can include classroom projects, research projects, in-progress projects, failed projects -- basically any kind of TinyML project! We are particularly interested in work that discuss:
 + Scientific Applications of TinyML
 + Applications of TinyML for the Global South and for Global Sustainability
 + Aggregated “best practice” suggestions for getting up to speed on new TinyML projects
