@@ -1,4 +1,20 @@
 - authors:
+    - name: "Ramasamy Srinivasaga Naidu"
+      url: "https://www.kfu.edu.sa/en/Colleges/Computer_Science/Departments/Pages/ComputerEngineeringDept4.aspx"
+  title: "Fostering collaboration among CCSIT researchers to solve KFU research center’s problem through TinyML"
+  date: "May 9, 2023"
+  audience: "Everyone"
+  language_instruction: "English"
+  language_materials: "English"
+  links:
+    - url: "https://www.kfu.edu.sa/ar/Colleges/Computer_Science/Documents/workshop_faculty/training_ar.html"
+      title: "Website"
+  thumbnails:
+    - image: "/assets/images/thumbnails/KFU.png"
+      alt: "King Faisal University"
+      url: "https://www.kfu.edu.sa/ar/pages/home.aspx"
+
+- authors:
     - name: "Marcelo Rovai"
       url: "https://github.com/Mjrovai"
   title: "AIoT – When IoT meets the AI"
@@ -35,20 +51,20 @@
       alt: "Universidade Federal de Itajubá (UNIFEI)"
       url: "https://unifei.edu.br/"
 
-# - authors:
-#     - name: "Nabil Benamar"
-#       url: "http://www.aui.ma/en/sse/faculty.html?itemid=702"
-#   title: "TinyML: When AI meets Tiny Devices"
-#   subtitle: "[At the 2022 2nd International Workshop on New Services and Networks (WNSN22)](https://www.usms.ac.ma/en/events/2nd-international-workshop-new-services-and-networks-wnsn22)"
-#   date: "March 16, 2022"
-#   audience: "Everyone"
-#   language_instruction: "English"
-#   language_materials: "English"
-#   links:
-#   thumbnails:
-#     - image: "/assets/images/thumbnails/moulayIsmail.png"
-#       alt: "Moulay Ismail University"
-#       url: "https://www.umi.ac.ma/"
+- authors:
+    - name: "Nabil Benamar"
+      url: "http://www.aui.ma/en/sse/faculty.html?itemid=702"
+  title: "TinyML: When AI meets Tiny Devices"
+  subtitle: "[At the 2022 2nd International Workshop on New Services and Networks (WNSN22)](https://www.usms.ac.ma/en/events/2nd-international-workshop-new-services-and-networks-wnsn22)"
+  date: "March 16, 2022"
+  audience: "Everyone"
+  language_instruction: "English"
+  language_materials: "English"
+  links:
+  thumbnails:
+    - image: "/assets/images/thumbnails/moulayIsmail.png"
+      alt: "Moulay Ismail University"
+      url: "https://www.umi.ac.ma/"
 
 - authors:
     - name: "Marcelo Rovai"
