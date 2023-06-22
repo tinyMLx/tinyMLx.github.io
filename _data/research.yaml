@@ -149,6 +149,30 @@ conference:
         url: "https://www.ictp.it/"
 
 other:
+  - title: "Datasheets for Machine Learning Sensors"
+    authors: "Matthew Stewart, Pete Warden, Yasmine Omri, Shvetank Prakash, Joao Santos, Shawn Hymel, Benjamin Brown, Jim MacArthur, Nat Jeffries, Brian Plancher,
+Vijay Janapa Reddi"
+    pub: "arXiv Preprint"
+    links: 
+      - title: "PDF" 
+        url: "https://arxiv.org/abs/2306.08848"
+    date: "June 2023"
+    thumbnails:
+      - image: "/assets/images/thumbnails/harvard_seas.svg"
+        alt: "Harvard John A. Paulson School of Engineering and Applied Sciences"
+        url: "https://www.seas.harvard.edu/"
+      - image: "/assets/images/thumbnails/stanford.png"
+        alt: "Stanford University"
+        url: "https://www.stanford.edu/"
+      - image: "/assets/images/thumbnails/barnard.png"
+        alt: "Barnard College"
+        url: "https://cs.barnard.edu/"
+      - image: "/assets/images/thumbnails/EI.png"
+        alt: "Edge Impulse"
+        url: "https://www.edgeimpulse.com/"
+      - image: "/assets/images/thumbnails/useful.png"
+        alt: "Useful Sensors"
+        url: "https://usefulsensors.com/"
   - title: "Is TinyML Sustainable? Assessing the Environmental Impacts of Machine Learning on Microcontrollers"
     authors: "Shvetank Prakash, Matthew Stewart, Colby Banbury, Mark Mazumder, Pete Warden, Brian Plancher, Vijay Janapa Reddi"
     pub: "arXiv Preprint"
