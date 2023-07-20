@@ -5,7 +5,7 @@
   language_instruction: "English"
   language_materials: "English"
   links:
-    - url: "/https://summerschool.morocco.ai//"
+    - url: "https://summerschool.morocco.ai"
       title: "Website"
     - url: "https://docs.google.com/presentation/d/1GqEg2HFAyS4Bb5j8hKdkTRCCBCVH7QLAQBLMKlmkwZE/edit?usp=drive_link"
       title: "TinyML Part 1"
