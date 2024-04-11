@@ -36,11 +36,11 @@ leadership:
     subtitle: "TinyML4D Academic Network Co-Chair"
     excerpt: "Professor at Universidade Federal de Itajubá<br/>[Learn More](https://www.linkedin.com/in/marcelo-jose-rovai-brazil-chile)"
 
-  - image_path: /assets/images/team/hal.jpeg
-    alt: "Hal Speed"
-    title: "Hal<br/>Speed"
-    subtitle: "TinyML4K12 Chair<br/><br/>"
-    excerpt: "Head of North America Robotical<br/>[Learn More](https://www.linkedin.com/in/halspeed/)"
+  - image_path: /assets/images/team/jeremy.jpeg
+    alt: "Jeremy Ellis"
+    title: "Jeremy<br/>Ellis"
+    subtitle: "TinyML4K12 and Show & Tell Chair<br/><br/>"
+    excerpt: "Teacher at Sd75 Mission BC and GearbotsBC<br/>[Learn More](https://www.linkedin.com/in/jeremy-ellis-4237a9bb/)"
 
 edXLeadership:
     
@@ -123,12 +123,11 @@ edXCourseStaff:
     excerpt: "Harvard PhD Candidate<br/>[Learn More](https://www.linkedin.com/in/srivatsan-krishnan-2a683849)"
 
 workingGroupMembers:
-  
-  - image_path: "/assets/images/team/aguinaldo.gif"
-    alt: "Aguinaldo Cardozo da Costa Filho"
-    title: "Aguinaldo Cardozo da Costa Filho"
-    excerpt: "Professor at the Federal Institute of São Paulo (IFSP)<br/>[Learn More](https://bv.fapesp.br/pt/pesquisador/46505/aguinaldo-cardozo-da-costa-filho/)"
-
+  - image_path: "/assets/images/team/jose.jpeg" 
+    alt: "Jose Antonio Bagur Najera"
+    title: "Jose Antonio<br/>Bagur Najera"
+    excerpt: "Investigador Universidad del Valle de Guatemala and Content Creator at Arduino<br/>[Learn More](https://www.uvg.edu.gt/impacto/jose-antonio-bagur/)"
+    
   - image_path: /assets/images/team/gregg.png
     alt: "Gregg Barrett"
     title: "Gregg<br/>Barrett"
@@ -138,11 +137,6 @@ workingGroupMembers:
     alt: "Nabil Benamar"
     title: "Nabil<br/>Benamar"
     excerpt: "Professor of Computer Sciences, Moulay Ismail University, Al Akhawayn University<br/>[Learn More](https://ma.linkedin.com/in/nabil-benamar13375845/en)"    
-
-  - image_path: "/assets/images/team/jeremy.jpeg"
-    alt: "Jeremy Ellis"
-    title: "Jeremy<br/>Ellis"
-    excerpt: "Teacher at Sd75 Mission BC and GearbotsBC<br/>[Learn More](https://www.linkedin.com/in/jeremy-ellis-4237a9bb/)"
 
   - image_path: "/assets/images/team/josealberto2.png"
     alt: "Jose Alberto Ferreira Filho"
@@ -154,21 +148,31 @@ workingGroupMembers:
     title: "Peter<br/>Ing"
     excerpt: "Senior Mechatronics Engineer at TFG<br/>[Learn More](https://za.linkedin.com/in/peter-ing-8baba8143)"
 
+  - image_path: "/assets/images/team/laila.jpeg" 
+    alt: "Laila Kazimierski"
+    title: "Laila<br/>Kazimierski"
+    excerpt: "CONICET, CAB, CNEA<br/>[Learn More](https://www.researchgate.net/scientific-contributions/Laila-D-Kazimierski-2052270873)"
+
   - image_path: "/assets/images/team/jesusalfonso.jpg"
     alt: "Jesús Alfonso López Sotelo"
     title: "Jesús Alfonso<br/>López Sotelo"
     excerpt: "Chair Automation and Electronics Department Universidad Autónoma de Occidente<br/>[Learn More](https://www.uao.edu.co/perfil/jesus-alfonso-lopez-sotelo/)"
+
+  - image_path: "/assets/images/team/diego.png" 
+    alt: "Diego Mendez Chaves"
+    title: "Diego<br/>Mendez Chaves"
+    excerpt: "Associate Professor at Pontificia Universidad Javeriana<br/>[Learn More](https://ingenieria.javeriana.edu.co/w/departamento-de-ingenier%C3%8Da-electr%C3%93nica-profesores-10)"
 
   - image_path: "/assets/images/team/rosdiadee.gif" 
     alt: "Rosdiadee Nordin"
     title: "Rosdiadee<br/>Nordin"
     excerpt: "Professor at Universiti Kebangsaan Malaysia<br/>[Learn More](https://sites.google.com/site/rosdiadee/)"
 
-  - image_path: "/assets/images/team/marceloP2.png" 
-    alt: "Marcelo Pias"
-    title: "Marcelo<br/>Pias"
-    excerpt: "Professor at Universidade Federal do Rio Grande<br/>[Learn More](https://scholar.google.com/citations?user=X_zoltAAAAAJ&hl=en)"
- 
+  - image_path: "/assets/images/team/marcus.png" 
+    alt: "Marcus Rüb"
+    title: "Marcus<br/>Rüb"
+    excerpt: "Software Solutions / Artificial intelligence at Hahn-Schickard<br/>[Learn More](https://de.linkedin.com/in/marcus-rueb/en)"
+
 alumniMembers:
 
   - #image_path: "/assets/images/team/benA.jpeg"
@@ -197,6 +201,21 @@ alumniMembers:
     alt: "Mohd Ridzuan Bin Ahmad"
     title: "Mohd Ridzuan<br/>Bin Ahmad"
     excerpt: "Professor Universiti Teknologi Malaysia Skudai<br/>[Learn More](https://www.utm.my/directory/staff/mdridzuan)"
+
+  - #image_path: /assets/images/team/hal.jpeg
+    alt: "Hal Speed"
+    title: "Hal<br/>Speed"
+    excerpt: "Head of North America Robotical<br/>[Learn More](https://www.linkedin.com/in/halspeed/)"
+
+  - #image_path: "/assets/images/team/marceloP2.png" 
+    alt: "Marcelo Pias"
+    title: "Marcelo<br/>Pias"
+    excerpt: "Professor at Universidade Federal do Rio Grande<br/>[Learn More](https://scholar.google.com/citations?user=X_zoltAAAAAJ&hl=en)"
+
+  - #image_path: "/assets/images/team/aguinaldo.gif"
+    alt: "Aguinaldo Cardozo da Costa Filho"
+    title: "Aguinaldo Cardozo da Costa Filho"
+    excerpt: "Professor at the Federal Institute of São Paulo (IFSP)<br/>[Learn More](https://bv.fapesp.br/pt/pesquisador/46505/aguinaldo-cardozo-da-costa-filho/)"
 
 # advisoryBoard:
   
