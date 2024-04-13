@@ -31,6 +31,32 @@ An example of a ```.yml``` file follows below for a talk. You'll notice that the
       alt: "The Abdus Salam International Centre for Theoretical Physics (ICTP)"
       url: "https://www.ictp.it/"
 ```
+
+
+## Testing your updates
+
+If you know what you are doing just run this command
+
+```
+bundle exec jekyll serve
+```
+
+If you have agithub login try using gitpod by adding gitpod.io/# to the tinyMLx URL
+
+
+gitpod.io/#https://github.com/tinyMLx/tinyMLx.github.io
+
+Then run 
+
+
+```
+bundle exec jekyll serve
+```
+
+and open up a browser window. Then make your edits live and copy the files you changed to your fork of the tinyMLx repo and send a pull request PR.
+
+
+
 If you have any questions / comments / concerns please reach out to the site maintainers at edu@tinyml.org.
 
 == License ==
