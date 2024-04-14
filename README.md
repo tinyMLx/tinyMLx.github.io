@@ -57,6 +57,8 @@ bundle exec jekyll serve
 and open up a browser window. Then make your edits live and copy the files you changed to your fork of the tinyMLx repo and send a pull request PR.
 
 
+A good example of YAML syntax is at    https://spacelift.io/blog/yaml
+
 
 If you have any questions / comments / concerns please reach out to the site maintainers at edu@tinyml.org.
 
