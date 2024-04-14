@@ -35,14 +35,15 @@ An example of a ```.yml``` file follows below for a talk. You'll notice that the
 
 ## Testing your updates
 
-If you know what you are doing just run this command
+If you have everything installed just run this command
 
 ```
 bundle exec jekyll serve
 ```
 
-If you have agithub login try using gitpod by adding gitpod.io/# to the tinyMLx URL
+If not but you have a github login try using gitpod by adding ```gitpod.io/#``` to the tinyMLx URL or your fork of it
 
+For example:
 
 gitpod.io/#https://github.com/tinyMLx/tinyMLx.github.io
 
