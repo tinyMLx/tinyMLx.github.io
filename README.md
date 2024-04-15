@@ -54,7 +54,7 @@ Then run
 bundle exec jekyll serve
 ```
 
-and open up a browser window. Then make your edits live and copy the files you changed to your fork of the tinyMLx repo and send a pull request PR.
+and open up a browser window. Then make your edits live and copy the files you changed to your fork of the tinyMLx repo and send a pull request PR. Note: It is best to make a new gitpod each time from the above URL than try to reload the gitpod another day.
 
 
 A good example of YAML syntax is at    https://spacelift.io/blog/yaml
