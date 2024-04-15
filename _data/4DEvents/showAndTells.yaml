@@ -1,9 +1,41 @@
 
 
+- date: "March 28th, 2024"
+  url: "https://meet.google.com/rns-yyrx-ggw"
+  talks:
+    - title: "Enhancing poultry health management through Tiny machine learning-based analysis of bird sounds"
+      authors:
+        - name: "Abdul Moshen"
+        - name: "Abdul Aziz"
+        - name: "Saleh Jabe"
+        - name: "Abdul Rahman"
+        - name: "Ramasamy"
+      affiliation: 
+        - name: "King Faisal University, Saudi Arabia"
+    - title: "Advancing TinyMLOps: Robust Model Updates in the Internet of Intelligent Vehicles"
+      authors:
+        - name: "Thommas Kevin Sales Flores"
+      affiliation: 
+        - name: "Federal University of Rio Grande do Norte Brazil"
 
-
-
-
+- date: "Feb 29th, 2024"
+  url: "https://www.youtube.com/watch?v=UNv62RvRzMw"
+  talks:
+    - title: " USA Revolutionizing Bee Keeping"
+      authors:
+        - name: "Rahul Mangharam"
+      affiliation: 
+        - name: "University of Pennsylvania, USA"
+    - title: "Artficial Visual Aid for the Blind"
+      authors:
+        - name: "Collins Bett"
+      affiliation: 
+        - name: "Multimedia University of Kenya"
+    - title: "TinyML and lung sound disease detection"
+      authors:
+        - name: "Abadade Youssef"
+      affiliation: 
+        - name: "IBN Tofail University Morocco"
 
 
 - date: "October 26th, 2023"
