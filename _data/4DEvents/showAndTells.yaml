@@ -1,3 +1,41 @@
+
+
+
+
+
+
+
+
+- date: "October 26th, 2023"
+  url: "https://www.youtube.com/watch?v=aG62vdBflbg"
+  talks:
+    - title: "ML self driving RC car"
+      authors:
+        - name: "William"
+        - name: "Andrew"
+      affiliation: 
+        - name: "GearbotsBC STEM Academy"
+          url: "https://www.gearbots.org/stem-academy/"
+    - title: "Spiking Perception and processing for Intelligent Detection of Pedestrians on urban Roads"
+      authors:
+        - name: "Cristian Axenie"
+      affiliation: 
+        - name: "Nuremberg Institute of Technology, Germany"
+
+- date: "September 28th, 2023"
+  url: "https://www.youtube.com/watch?v=Wm7sTYR2MiY"
+  talks:
+    - title: "LoRa interactions with the SeedStudio LoRa module Grove-Wio-E5 ready for ML Data Transfer"
+      authors:
+        - name: "Andres Oliva Trevisan"
+      affiliation: 
+        - name: "Argentina, Instituto Balseiro and ICTP"
+    - title: "TinyML model for fault classification of solar photovoltaic modules"
+      authors:
+        - name: "Adel Mellit"
+      affiliation: 
+        - name: "University of Jijel, Algeria"
+
 - date: "August 31th, 2023"
   url: "https://www.youtube.com/watch?v=MNVVTkKKfRE"
   talks:
