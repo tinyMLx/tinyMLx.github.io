@@ -7,7 +7,7 @@ To add materials to this website please submit a PR with the relevant additions.
 + ```4DEvents/talks``` should contain all other global talks on TinyML
 + ```4DEvents/others``` should contain all other materials (demos, walkthroughs, etc.)
 
-An example of a ```.yml``` file follows below for a talk. You'll notice that these fiels are just structured tex, ```-``` indicates a list, ```text:``` is a named value, all values should be placed in ```""``` and **indentation matters** as it indicates the level in the ```yml``` object. Note that for our specific syntax, each entry is an item in the meta list and you can add as many authors, links, and thumbnails as you'd like as they are sub-lists. If you need to upload images, slides, handouts, etc. please place them in the ```assets``` folder under the correct type (```images/thubnails```,```slides/4D```,```other/4D```, etc.). The book ```.yml``` follows a slightly modified syntax but the exisitng entries should provide sufficient examples. Finally, if you submit a workshop make sure to tag if it is a "4D_Event" so it shows up on the 4D page if relevant.
+An example of a ```.yml``` file follows below for a talk. You'll notice that these files are just structured tex, ```-``` indicates a list, ```text:``` is a named value, all values should be placed in ```""``` and **indentation matters** as it indicates the level in the ```yml``` object. Note that for our specific syntax, each entry is an item in the meta list and you can add as many authors, links, and thumbnails as you'd like as they are sub-lists. If you need to upload images, slides, handouts, etc. please place them in the ```assets``` folder under the correct type (```images/thubnails```,```slides/4D```,```other/4D```, etc.). The book ```.yml``` follows a slightly modified syntax but the exisitng entries should provide sufficient examples. Finally, if you submit a workshop make sure to tag if it is a "4D_Event" so it shows up on the 4D page if relevant.
 ```
 - authors:
     - name: "Marcelo Rovai"
@@ -31,6 +31,35 @@ An example of a ```.yml``` file follows below for a talk. You'll notice that the
       alt: "The Abdus Salam International Centre for Theoretical Physics (ICTP)"
       url: "https://www.ictp.it/"
 ```
+
+
+## Testing your updates
+
+If you have everything installed just run this command
+
+```
+bundle exec jekyll serve
+```
+
+If not but you have a github login try using gitpod by adding ```gitpod.io/#``` to the tinyMLx URL or your fork of it
+
+For example:
+
+gitpod.io/#https://github.com/tinyMLx/tinyMLx.github.io
+
+Then run 
+
+
+```
+bundle exec jekyll serve
+```
+
+and open up a browser window. Then make your edits live and copy the files you changed to your fork of the tinyMLx repo and send a pull request PR. Note: It is best to make a new gitpod each time from the above URL than try to reload the gitpod another day.
+
+
+A good example of YAML syntax is at    https://spacelift.io/blog/yaml
+
+
 If you have any questions / comments / concerns please reach out to the site maintainers at edu@tinyml.org.
 
 == License ==

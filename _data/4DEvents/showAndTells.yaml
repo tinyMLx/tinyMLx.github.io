@@ -1,3 +1,108 @@
+
+
+- date: "March 28th, 2024"
+  url: "https://youtube.com/live/eaR37pA1hiw?feature=share"
+  talks:
+    - title: "Enhancing poultry health management through Tiny machine learning-based analysis of bird sounds"
+      authors:
+        - name: "Abdul Moshen"
+        - name: "Abdul Aziz"
+        - name: "Saleh Jabe"
+        - name: "Abdul Rahman"
+        - name: "Ramasamy"
+      affiliation: 
+        - name: "King Faisal University, Saudi Arabia"
+    - title: "Advancing TinyMLOps: Robust Model Updates in the Internet of Intelligent Vehicles"
+      authors:
+        - name: "Thommas Kevin Sales Flores"
+      affiliation: 
+        - name: "Federal University of Rio Grande do Norte Brazil"
+
+- date: "Feb 29th, 2024"
+  url: "https://www.youtube.com/watch?v=UNv62RvRzMw"
+  talks:
+    - title: "Revolutionizing Bee Keeping"
+      authors:
+        - name: "Rahul Mangharam"
+      affiliation: 
+        - name: "University of Pennsylvania, USA"
+    - title: "Artficial Visual Aid for the Blind"
+      authors:
+        - name: "Collins Bett"
+      affiliation: 
+        - name: "Multimedia University of Kenya"
+    - title: "TinyML and lung sound disease detection"
+      authors:
+        - name: "Abadade Youssef"
+      affiliation: 
+        - name: "IBN Tofail University Morocco"
+
+
+- date: "October 26th, 2023"
+  url: "https://www.youtube.com/watch?v=aG62vdBflbg"
+  talks:
+    - title: "ML self driving RC car"
+      authors:
+        - name: "William"
+        - name: "Andrew"
+      affiliation: 
+        - name: "GearbotsBC STEM Academy"
+          url: "https://www.gearbots.org/stem-academy/"
+    - title: "Spiking Perception and processing for Intelligent Detection of Pedestrians on urban Roads"
+      authors:
+        - name: "Cristian Axenie"
+      affiliation: 
+        - name: "Nuremberg Institute of Technology, Germany"
+
+- date: "September 28th, 2023"
+  url: "https://www.youtube.com/watch?v=Wm7sTYR2MiY"
+  talks:
+    - title: "LoRa interactions with the SeedStudio LoRa module Grove-Wio-E5 ready for ML Data Transfer"
+      authors:
+        - name: "Andres Oliva Trevisan"
+      affiliation: 
+        - name: "Argentina, Instituto Balseiro and ICTP"
+    - title: "TinyML model for fault classification of solar photovoltaic modules"
+      authors:
+        - name: "Adel Mellit"
+      affiliation: 
+        - name: "University of Jijel, Algeria"
+
+- date: "August 31th, 2023"
+  url: "https://www.youtube.com/watch?v=MNVVTkKKfRE"
+  talks:
+    - title: "Innovative Waste Classification through Tiny Machine Learning Recognition Approach"
+      authors:
+        - name: "Juan Manuel Mena Carrillo"
+      affiliation: 
+        - name: "Universidad Peruana Cayetano Heredia, Perú"
+    - title: "An AI powered device that detects seizures and alerts caretakers in real time"
+      authors:
+        - name: "Nickson Kiprotich"
+      affiliation: 
+        - name: "Dedan Kimathi University of Technology, Kenya"
+    - title: "Deploying a fetal heart rate classification model on RP2040 Microcontroller"
+      authors:
+        - name: "Shahzaib Ali"
+      affiliation: 
+        - name: "National Universit of Science and Technology, Pakistan"
+
+
+- date: "May 25, 2023"
+  # url: "No Video Available"
+  talks:
+    - title: "Inference With TinyML On Ghana Radio Astronomy Observatory (GRAO) 32-m Antenna: Track Level Profile Anomaly for Predictive Maintenance"
+      authors:
+        - name: "Joseph Akubire Kojo"
+      affiliation: 
+        - name: "Ghana"
+    - title: "A Multiply-And-Max/min Neuron Paradigm for Aggressively Prunable Deep Neural Networks"
+      authors:
+        - name: "Philippe BICH"
+      affiliation: 
+        - name: "Italy"
+
+
 - date: "March 30, 2023"
   url: "https://youtu.be/UQ0l-SwBwUY"
   talks:
