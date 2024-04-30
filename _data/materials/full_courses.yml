@@ -44,6 +44,20 @@
       alt: "Coursera"
       url: "https://www.edx.org/"
 
+- title: "EECE-4710: IoT and Tiny Machine Learning"
+  subtitle: "by Marquette University"
+  date: "Spring 2024"
+  audience: "Undergraduate and Graduate Students"
+  language_instruction: "English"
+  language_materials: "English"
+  links:
+   - url: "http://www.dejazzer.com/eece4710/index.html"
+     title: "Website and Materials"
+  thumbnails:
+    - image: "/assets/images/thumbnails/marquette.png"
+      alt: "Marquette University"
+      url: "https://www.marquette.edu/"
+
 - title: "ESE3600: Tiny Machine Learning"
   subtitle: "by the University of Pennsylvania"
   date: "Fall 2022"
@@ -81,6 +95,8 @@
   language_instruction: "Portuguese"
   language_materials: "English"
   links:
+    - url: "https://github.com/Mjrovai/UNIFEI-IESTI01-TinyML-2023.1"
+      title: "2023.1 Website and Materials"
     - url: "https://github.com/Mjrovai/UNIFEI-IESTI01-TinyML-2022.1"
       title: "2022.1 Website and Materials"
     - url: "https://github.com/Mjrovai/UNIFEI-IESTI01-TinyML-2021.2"
@@ -99,6 +115,8 @@
   language_instruction: "English"
   language_materials: "English"
   links:
+    - url: "https://sites.google.com/g.harvard.edu/cs249-tinyml-2023"
+      title: "2023 Website and Projects"
     - url: "https://sites.google.com/g.harvard.edu/tinyml/home"
       title: "2022 Website and Assignments"
     - url: "https://sites.google.com/g.harvard.edu/tinyml-fall2020/home"

@@ -1,4 +1,52 @@
 - authors:
+    - name: "Marcelo Rovai"
+      url: "https://github.com/Mjrovai"
+  title: "Temperature Prediction using a TinyML LSTM model"
+  date: "April 2024"
+  audience: "Everyone"
+  language_instruction: "English"
+  language_materials: "English"
+  links:
+    - url: "https://www.hackster.io/mjrobot/temperature-prediction-using-a-tinyml-lstm-model-264029"
+      title: "Project Page"
+  thumbnails:
+    - image: "assets/images/thumbnails/unifei.png"
+      alt: "Universidade Federal de Itajubá (UNIFEI)"
+      url: "https://unifei.edu.br/"
+
+- authors:
+    - name: "Marcelo Rovai"
+      url: "https://github.com/Mjrovai"
+  title: "Computer Vision at the Edge with Grove Vision AI Module V2"
+  date: "February, 2024"
+  audience: "Everyone"
+  language_instruction: "English"
+  language_materials: "English"
+  links:
+    - url: "https://www.hackster.io/mjrobot/computer-vision-at-the-edge-with-grove-vision-ai-module-v2-0003c7"
+      title: "Project Page"
+  thumbnails:
+    - image: "assets/images/thumbnails/unifei.png"
+      alt: "Universidade Federal de Itajubá (UNIFEI)"
+      url: "https://unifei.edu.br/"
+
+- authors:
+    - name: "Marcelo Rovai"
+      url: "https://github.com/Mjrovai"
+  title: "Sensor Data Fusion with Spresense and CommonSense"
+  # date: "March 20, 2021"
+  audience: "Everyone"
+  language_instruction: "English"
+  language_materials: "English"
+  links:
+    - url: "https://docs.edgeimpulse.com/experts/air-quality-and-environmental-projects/environmental-sensor-fusion-commonsense"
+      title: "Project Page"
+  thumbnails:
+    - image: "assets/images/thumbnails/unifei.png"
+      alt: "Universidade Federal de Itajubá (UNIFEI)"
+      url: "https://unifei.edu.br/"
+
+- authors:
     - name: Marcelo Rovai
       url: https://github.com/Mjrovai
   title: "Key Word Spotting on the Arduino Nano 33 BLE Sense using Edge Impulse Studio"

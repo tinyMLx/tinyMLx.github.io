@@ -1,4 +1,32 @@
 - authors:
+    - name: "Vijay Janapa Reddi and the CS249r Book Team"
+      url: "https://harvard-edge.github.io/cs249r_book/contents/contributors.html"
+  title: "Machine Learning Systems"
+  subtitle: "with TinyML"
+  cover_image: "/assets/images/thumbnails/mlSystems.png"
+  date: "April 2024"
+  audience: "Everyone"
+  language: "English"
+  links: 
+    - url: "https://harvard-edge.github.io/cs249r_book/"
+      title: "Ebook"
+
+- authors:
+    - name: "Lei Feng"
+      url: "https://www.linkedin.com/in/leon-feng-a029bb1/"
+    - name: "Marcelo Rovai"
+      url: "https://github.com/Mjrovai"
+  title: "XIAO"
+  subtitle: "Big Power, Small Board"
+  cover_image: "/assets/images/thumbnails/xiaoCover.jpg"
+  date: "January 2024"
+  audience: "Everyone"
+  language: "English"
+  links: 
+    - url: "https://mjrovai.github.io/XIAO_Big_Power_Small_Board-ebook/"
+      title: "Ebook"
+
+- authors:
     - name: "Pete Warden"
       url: "https://petewarden.com/"
     - name: "Daniel Situnayake"

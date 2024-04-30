@@ -13,6 +13,9 @@ excerpt: "Explore our Academic Publications."
 ## Journal Articles
 {% include research_table paper_list = site.data.research.journal %}
 
+## Book Chapters
+{% include research_table paper_list = site.data.research.bookChapter %}
+
 ## Conference Proceedings
 {% include research_table paper_list = site.data.research.conference %}
 

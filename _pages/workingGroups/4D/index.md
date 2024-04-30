@@ -23,10 +23,10 @@ activities:
 
 ---
 
-{% include feature_row id="news" type="center" %}
+<!-- {% include feature_row id="news" type="center" %} -->
 
-**[SciTinyML 2023](/SciTinyML-23)** will be run remotely in English for 2023 from April 17-21. **Register to attend for free by Friday, April 7, 2023 on the [ICTP website](https://indico.ictp.it/event/10166)!**
-We are also actively **soliciting submissions for short talks** during our Show and Tell day! Please [follow this link](https://tinymledu.org/SciTinyML-23/cfp/) to learn more!
+<!-- **[SciTinyML 2023](/SciTinyML-23)** will be run remotely in English for 2023 from April 17-21. **Register to attend for free by Friday, April 7, 2023 on the [ICTP website](https://indico.ictp.it/event/10166)!**
+We are also actively **soliciting submissions for short talks** during our Show and Tell day! Please [follow this link](https://tinymledu.org/SciTinyML-23/cfp/) to learn more! -->
 
 {% include feature_row id="activities" type="center" %}
 

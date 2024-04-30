@@ -1,4 +1,17 @@
 journal:
+  - title: "Smart Buildings: Water Leakage Detection Using TinyML"
+    authors: "Othmane Atanane, Asmaa Mourhir, Nabil Benamar, Marco Zennaro"
+    pub: "Sensors"
+    doi: "10.3390/s23229210"
+    date: "November 2023"
+    thumbnails:
+      - image: "/assets/images/thumbnails/Al_Akhawayn.png"
+        alt: "Al Akhawayn University in Ifrane"
+        url: "http://www.aui.ma/"
+      - image: "/assets/images/thumbnails/ictp.svg"
+        alt: "The Abdus Salam International Centre for Theoretical Physics (ICTP)"
+        url: "https://www.ictp.it/"
+  
   - title: "Is TinyML Sustainable? Assessing the Environmental Impacts of Machine Learning on Microcontrollers"
     authors: "Shvetank Prakash, Matthew Stewart, Colby Banbury, Mark Mazumder, Pete Warden, Brian Plancher, Vijay Janapa Reddi"
     pub: "Communications of the ACM (CACM)"
@@ -7,7 +20,8 @@ journal:
         url: "https://arxiv.org/abs/2301.11899"
       - title: "Footprint Calculator"
         url: "https://harvard-edge.github.io/TinyML-Footprint/"
-    date: "Coming Soon in 2023"
+    doi: "10.1145/3608473"
+    date: "October 2023"
     thumbnails:
       - image: "/assets/images/thumbnails/harvard_seas.svg"
         alt: "Harvard John A. Paulson School of Engineering and Applied Sciences"
@@ -27,7 +41,8 @@ journal:
         url: "http://mlsensors.org/"
       - title: "Technical Report" 
         url: "https://brianplancher.com/publication/mlsensors/"
-    date: "Coming Soon in 2023"
+    doi: "10.1145/3586991"
+    date: "October 2023"
     thumbnails:
       - image: "/assets/images/thumbnails/stanford.png"
         alt: "Stanford University"
@@ -61,6 +76,16 @@ journal:
       - image: "/assets/images/thumbnails/balseiro.png"
         alt: "Instituto Balseiro"
         url: "https://www.ib.edu.ar/"
+
+  - title: "TinyML Gamma Radiation Classifier"
+    authors: "Moez Altayeb, Marco Zennaro, Ermanno Pietrosemoli"
+    pub: "Nuclear Engineering and Technology"
+    doi: "10.1016/j.net.2022.09.032"
+    date: "February 2023"
+    thumbnails:
+      - image: "/assets/images/thumbnails/ictp.svg"
+        alt: "The Abdus Salam International Centre for Theoretical Physics (ICTP)"
+        url: "https://www.ictp.it/"
 
   - title: "A TinyML Deep Learning Approach for Indoor Tracking of Assets"
     authors: "Diego Avellaneda, Diego Mendez, Giancarlo Fortino"
@@ -106,7 +131,66 @@ journal:
         alt: "edX"
         url: "https://www.edx.org/"
 
+bookChapter:
+  - title: "Crowdsourcing Through TinyML as a Way to Engage End-Users in IoT Solutions"
+    authors: "Pietro Manzoni, Marco Zennaro, Fredrik Ahlgren, Tobias Olsson, Catia Prandi"
+    pub: "Mobile Crowdsourcing"
+    doi: "10.1007/978-3-031-32397-3_14"
+    date: "April 2023"
+    thumbnails:
+      - image: "/assets/images/thumbnails/upv.png"
+        alt: "Universidad Politécnica de Valencia"
+        url: "https://www.upv.es/"  
+      - image: "/assets/images/thumbnails/ictp.svg"
+        alt: "The Abdus Salam International Centre for Theoretical Physics (ICTP)"
+        url: "https://www.ictp.it/"
+      - image: "/assets/images/thumbnails/linnaeus.png"
+        alt: "Linnaeus University"
+        url: "https://lnu.se/en/"
+      - image: "/assets/images/thumbnails/bologna.png"
+        alt: "University of Bologna - Cesena"
+        url: "https://www.unibo.it/en/campus-cesena"
+      
+
 conference:
+  - title: "TinyML4D: Scaling Embedded Machine Learning Education in the Developing World"
+    authors: "Brian Plancher, Sebastian Buttrich, Jeremey Ellis, Neena Goveas, Laila Kazimierski, Jesus Lopez Sotelo, Milan Lukic, Diego Mendez, Rosdiadee Nordin, Andres Oliva Trevisan, Massimo Pavan, Manuel Roveri, Marcus Rüb, Jackline Tum, Marian Verhelst, Salah Abdeljabar, Segun Adebayo, Thomas Amberg, Halleluyah Aworinde, José Bagur, Gregg Barrett, Nabil Benamar, Bharat Chaudhari, Ronald Criollo, David Cuartielles, Jose Alberto Ferreira Filho, Solomon Gizaw, Evgeni Gousev, Alessandro Grande, Shawn Hymel, Peter Ing, Prashant Manandhar, Pietro Manzoni, Boris Murmann, Eric Pan, Rytis Paskauskas, Ermanno Pietrosemoli, Tales Pimenta, Marcelo Rovai, Marco Zennaro, Vijay Janapa Reddi"
+    pub: "AAAI-24 Sprign Symposium on Increasing Diversity in AI Education and Research"
+    # doi: "TBD"
+    date: "March 2024"
+    links:
+      - title: "Symposium Website"
+        url: "https://sites.google.com/uncc.edu/aaai-diversity-in-ai-education/home"
+    thumbnails:
+      - image: "/assets/images/thumbnails/barnard.png"
+        alt: "Barnard College"
+        url: "https://cs.barnard.edu/"
+      - image: "/assets/images/thumbnails/unifei.png"
+        alt: "Universidade Federal de Itajubá (UNIFEI)"
+        url: "https://unifei.edu.br/"
+      - image: "/assets/images/thumbnails/ictp.svg"
+        alt: "The Abdus Salam International Centre for Theoretical Physics (ICTP)"
+        url: "https://www.ictp.it/"
+      - image: "/assets/images/thumbnails/harvard_seas.svg"
+        alt: "Harvard John A. Paulson School of Engineering and Applied Sciences"
+        url: "https://www.seas.harvard.edu/"
+
+  - title: "On TinyML WiFi Fingerprinting-Based Indoor Localization: Comparing RSSI vs. CSI Utilization"
+    authors: "Diego Mendez, Marco Zennaro, Moez Altayeb, Pietro Manzoni"
+    pub: "IEEE Consumer Communications & Networking Conference (CCNC)"
+    doi: "10.1109/CCNC51664.2024.10454828"
+    date: "January 2024"
+    thumbnails:
+      - image: "/assets/images/thumbnails/pontificia.png"
+        alt: "Pontificia Universidad Javeriana"
+        url: "https://www.javeriana.edu.co/"
+      - image: "/assets/images/thumbnails/ictp.svg"
+        alt: "The Abdus Salam International Centre for Theoretical Physics (ICTP)"
+        url: "https://www.ictp.it/"
+      - image: "/assets/images/thumbnails/upv.png"
+        alt: "Universidad Politécnica de Valencia"
+        url: "https://www.upv.es/"
+
   - title: "How TinyML Can be Leveraged to Solve Environmental Problems: A Survey"
     authors: "Hatim Bamoumen, Anas Temouden, Nabil Benamar, Yousra Chtouki"
     pub: "IEEE International Conference on Innovation and Intelligence for Informatics, Computing, and Technologies"
@@ -182,6 +266,34 @@ conference:
         url: "https://www.ictp.it/"
 
 other:
+  - title: "Materiality and Risk in the Age of Pervasive AI Sensors"
+    authors: "Matthew Stewart, Pete Warden, Yasmine Omri, Shvetank Prakash, Joao Santos, Shawn Hymel, Benjamin Brown, Jim MacArthur, Nat Jeffries, Brian Plancher,
+Vijay Janapa Reddi"
+    pub: "arXiv Preprint"
+    links: 
+      - title: "PDF" 
+        url: "https://arxiv.org/abs/2402.11183"
+    date: "February 2024"
+    thumbnails:
+      - image: "/assets/images/thumbnails/harvard_seas.svg"
+        alt: "Harvard John A. Paulson School of Engineering and Applied Sciences"
+        url: "https://www.seas.harvard.edu/"
+      - image: "/assets/images/thumbnails/intelLabs.png"
+        alt: "Intel Labs"
+        url: "https://www.intel.com/content/www/us/en/research/overview.html"
+      - image: "/assets/images/thumbnails/stanford.png"
+        alt: "Stanford University"
+        url: "https://www.stanford.edu/"
+      - image: "/assets/images/thumbnails/barnard.png"
+        alt: "Barnard College"
+        url: "https://cs.barnard.edu/"
+      - image: "/assets/images/thumbnails/santaClara.png"
+        alt: "Santa Clara University"
+        url: "https://www.scu.edu/"
+      - image: "/assets/images/thumbnails/uva.png"
+        alt: "University of Virginia"
+        url: "https://www.virginia.edu/"
+
   - title: "Datasheets for Machine Learning Sensors"
     authors: "Matthew Stewart, Pete Warden, Yasmine Omri, Shvetank Prakash, Joao Santos, Shawn Hymel, Benjamin Brown, Jim MacArthur, Nat Jeffries, Brian Plancher,
 Vijay Janapa Reddi"
