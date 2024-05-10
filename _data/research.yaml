@@ -155,7 +155,7 @@ bookChapter:
 conference:
   - title: "TinyML4D: Scaling Embedded Machine Learning Education in the Developing World"
     authors: "Brian Plancher, Sebastian Buttrich, Jeremey Ellis, Neena Goveas, Laila Kazimierski, Jesus Lopez Sotelo, Milan Lukic, Diego Mendez, Rosdiadee Nordin, Andres Oliva Trevisan, Massimo Pavan, Manuel Roveri, Marcus Rüb, Jackline Tum, Marian Verhelst, Salah Abdeljabar, Segun Adebayo, Thomas Amberg, Halleluyah Aworinde, José Bagur, Gregg Barrett, Nabil Benamar, Bharat Chaudhari, Ronald Criollo, David Cuartielles, Jose Alberto Ferreira Filho, Solomon Gizaw, Evgeni Gousev, Alessandro Grande, Shawn Hymel, Peter Ing, Prashant Manandhar, Pietro Manzoni, Boris Murmann, Eric Pan, Rytis Paskauskas, Ermanno Pietrosemoli, Tales Pimenta, Marcelo Rovai, Marco Zennaro, Vijay Janapa Reddi"
-    pub: "AAAI-24 Sprign Symposium on Increasing Diversity in AI Education and Research"
+    pub: "AAAI-24 Spring Symposium on Increasing Diversity in AI Education and Research"
     # doi: "TBD"
     date: "March 2024"
     links:
