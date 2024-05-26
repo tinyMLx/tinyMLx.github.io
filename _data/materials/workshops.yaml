@@ -73,6 +73,32 @@
       url: "https://www.seeedstudio.com/"
   4D_Event: 1
 
+- title: "WALC 2023 Track 2"
+  subtitle: "Applied Artificial Intelligence"
+  date: "November 2023"
+  audience: "Everyone"
+  language_instruction: "English / Spanish"
+  language_materials: "English"
+  links:
+    - url: "https://eslared.net/walc2023/?page_id=241"
+      title: "Website"
+    - url: "https://github.com/Mjrovai/TinyML4D/tree/main/WALC_2023"
+      title: "Materials"
+  thumbnails:
+    - image: "/assets/images/thumbnails/unifei.png"
+      alt: "Universidade Federal de Itajubá (UNIFEI)"
+      url: "https://unifei.edu.br/"
+    - image: "/assets/images/thumbnails/pontificia.png"
+      alt: "Pontificia Universidad Javeriana"
+      url: "https://www.javeriana.edu.co/inicio"
+    - image: "/assets/images/thumbnails/UAO.png"
+      alt: "Universidad Autónoma de Occidente"
+      url: "https://www.uao.edu.co/"
+    - image: "/assets/images/thumbnails/puce.png"
+      alt: "Pontificia Universidad Catolica del Ecuador See Ibarra"
+      url: "https://www.pucesi.edu.ec/"
+  4D_Event: 1
+
 - title: "Morocco AI Summer School 2023"
   # subtitle: "Artificial Intelligence Summer School"
   date: "July 2023"
