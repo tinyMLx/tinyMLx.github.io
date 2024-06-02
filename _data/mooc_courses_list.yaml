@@ -45,3 +45,19 @@
   url: "https://www.coursera.org/learn/computer-vision-with-embedded-machine-learning"
   btn_label: "Take the Course on Coursera"
   btn_class: "btn--primary"
+
+- image_path: /assets/images/courses/EIIntroEdgeAI.png
+  alt: "Introduction to Edge AI"
+  title: "Introduction to Edge AI"
+  excerpt: "This series of articles and videos will guide you through the various concepts and techniques that make up edge AI."
+  url: "https://docs.edgeimpulse.com/docs/concepts/edge-ai"
+  btn_label: "View the Series on Edgeimpulse"
+  btn_class: "btn--primary"
+
+- image_path: /assets/images/courses/edXarm.png
+  alt: "ArmEducationX: Machine Learning at the Edge on Arm: A Practical Introduction"
+  title: "ArmEducationX: Machine Learning at the Edge on Arm: A Practical Introduction"
+  excerpt: "This course will provide you with the hands-on experience you’ll need to create innovative machine learning applications using ubiquitous Arm-based microcontrollers."
+  url: "https://www.edx.org/learn/machine-learning/arm-education-machine-learning-at-the-edge-on-arm-a-practical-introduction"
+  btn_label: "Take the Course on edX"
+  btn_class: "btn--primary"
