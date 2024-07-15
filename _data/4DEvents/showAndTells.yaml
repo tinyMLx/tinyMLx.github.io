@@ -1,3 +1,61 @@
+- date: June 27th, 2024"
+  url: "https://www.youtube.com/live/b7nGc9XhqRs?si=ZvlvoXb0hTgwZ8Me"
+  talks:
+    - title: "Soil Nutrient Detection using TinyML"
+      authors:
+        - name: "Millicent Adwo Dickson"
+      affiliation: 
+        - name: "University of Cape Coast Ghana"
+    - title: Flames Detection, and Automatic Fire Suppression Using Tinyml"
+      authors:
+        - name: "Prince Doku Kyei"
+      affiliation: 
+        - name: "University of Cape Coast Ghana"
+    - title: "Optimizing Aquaponics Systems with TinyML"
+      authors:
+        - name: "Barnabas Kayil"
+      affiliation: 
+        - name: "University of Cape Coast Ghana"
+
+- date: "May 30th, 2024"
+  url: "https://www.youtube.com/live/VLod9gDRHwU?si=NHHcvCoqpRPGMwoZ"
+  talks:
+    - title: "Crop Recommendation System Using TinyML and NPK Sensor"
+      authors:
+        - name: "Ahiakwao Martin"
+      affiliation: 
+        - name: "University of Cape Coast Ghana"
+    - title: "Detection of Cocoa Swollen Shoot Virus Using TinyML"
+      authors:
+        - name: "Jeffery Owusu Cobbold"
+      affiliation: 
+        - name: "University of Cape Coast Ghana"
+    - title: "Detection of Army Worm on Maize Crop Using TinyML"
+      authors:
+        - name: "Philip Ayitey Andoh"
+      affiliation: 
+        - name: "University of Cape Coast Ghana"
+    - title: "Fruit Type Detection Using TinyML"
+      authors:
+        - name: "Eugenia Frimpong"
+      affiliation: 
+        - name: "University of Cape Coast Ghana"
+    - title: "Quail Bird Detection in Rice Farm Using TinyML"
+      authors:
+        - name: "James Okorie"
+      affiliation: 
+        - name: "University of Cape Coast Ghana"
+    - title: "Analysis of Light Scattering Patterns Using Convolutional Neural Networks"
+      authors:
+        - name: "Kwasi Nyandey"
+      affiliation: 
+        - name: "University of Cape Coast Ghana"
+    - title: "Classification of Mosquito Species Using Convolutional Neural Network"
+      authors:
+        - name: "Lydia Mensah, "
+      affiliation: 
+        - name: "University of Cape Coast Ghana"
+
 - date: "March 28th, 2024"
   url: "https://youtube.com/live/eaR37pA1hiw?feature=share"
   talks:
@@ -24,7 +82,7 @@
         - name: "Rahul Mangharam"
       affiliation: 
         - name: "University of Pennsylvania, USA"
-    - title: "Artficial Visual Aid for the Blind"
+    - title: "Artificial Visual Aid for the Blind"
       authors:
         - name: "Collins Bett"
       affiliation: 
