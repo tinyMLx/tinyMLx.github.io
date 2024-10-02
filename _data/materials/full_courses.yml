@@ -95,6 +95,8 @@
   language_instruction: "Portuguese"
   language_materials: "English"
   links:
+    - url: "https://github.com/Mjrovai/UNIFEI-IESTI01-TinyML"
+      title: "2024.1 Website and Materials"
     - url: "https://github.com/Mjrovai/UNIFEI-IESTI01-TinyML-2023.1"
       title: "2023.1 Website and Materials"
     - url: "https://github.com/Mjrovai/UNIFEI-IESTI01-TinyML-2022.1"
