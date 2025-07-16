@@ -62,7 +62,7 @@ edXLeadership:
     subtitle: "Instructor"
     excerpt: "Data/AI Practice Lead for Google Cloud<br/>[Learn More](https://larissasuzuki.com/)"
     
-  - image_path: /assets/images/team/susan.png
+  - image_path: /assets/images/team/susan.jpg
     alt: "Susan Kennedy"
     title: "Susan<br/>Kennedy"
     subtitle: "Instructor"
@@ -102,7 +102,7 @@ edXCourseStaff:
     title: "Mark<br/>Mazumder"
     excerpt: "Harvard PhD Student<br/>[Learn More](https://markmaz.com/)" 
 
-  - image_path: /assets/images/team/max.png
+  - image_path: /assets/images/team/max.jpg
     alt: "Maximilian Lam"
     title: "Maximilian<br/>Lam"
     excerpt: "Harvard PhD Student<br/>[Learn More](https://agnusmaximus.github.io/)" 
