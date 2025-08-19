@@ -1,3 +1,16 @@
+- title: "Workshop on TinyML Engineering for IoT (KAUST 2025)"
+  date: "January 2025"
+  audience: "Everyone"
+  language_instruction: "English"
+  language_materials: "English"
+  links:
+    - url: "https://tinyml.notion.site/kaust2025"
+      title: "Website"
+  thumbnails:
+    - image: "/assets/images/thumbnails/kaust.png"
+      alt: "King Abdullah University of Science and Technology"
+      url: "https://www.kaust.edu.sa/en/"
+
 - title: "Workshop on TinyML for Sustainable Development - Malawi"
   date: "March 2025"
   audience: "Everyone"
