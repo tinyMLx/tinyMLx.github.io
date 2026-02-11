@@ -1,3 +1,21 @@
+- title: "WALC 2025 – Applied AI Workshop"
+  date: "November 2025"
+  audience: "Everyone"
+  language_instruction: "English"
+  language_materials: "English"
+  links:
+    - url: "https://walc2025-appliedai.notion.site/"
+      title: "Website"
+  thumbnails:
+    - image: "/assets/images/thumbnails/unifei.png"
+      alt: "Universidade Federal de Itajubá (UNIFEI)"
+      url: "https://unifei.edu.br/"
+    - image: "/assets/images/thumbnails/tinyml4d.png"
+    - image: "/assets/images/thumbnails/ictp.svg"
+      alt: "The Abdus Salam International Centre for Theoretical Physics (ICTP)"
+      url: "https://www.ictp.it/"
+  4D_Event: 1
+
 - title: "Workshop on TinyML Engineering for IoT (KAUST 2025)"
   date: "January 2025"
   audience: "Everyone"
