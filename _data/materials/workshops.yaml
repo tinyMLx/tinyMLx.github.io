@@ -15,6 +15,7 @@
       alt: "The Abdus Salam International Centre for Theoretical Physics (ICTP)"
       url: "https://www.ictp.it/"
     - image: "/assets/images/thumbnails/pontificia.png"
+    - image: "/assets/images/thumbnails/edgeAIfoundation.jpg"
   4D_Event: 1
 
 - title: "WALC 2025 – Applied AI Workshop"
@@ -83,7 +84,8 @@
       url: "https://www.malawi.gov.mw/"    
     - image: "/assets/images/thumbnails/raido.png"
       alt: "Reliable AI and Data Optimization"
-      url: "https://raido-project.eu/"        
+      url: "https://raido-project.eu/"    
+    - image: "/assets/images/thumbnails/edgeAIfoundation.jpg"    
   4D_Event: 1
 
 - title: "Workshop on TinyML for Sustainable Development - Brazil"
