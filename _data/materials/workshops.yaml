@@ -1,3 +1,26 @@
+- title: "IEEE ColCACI 2026"
+  subtitle: "IEEE Colombian Conference on Applications of Computational Intelligence"
+  date: "September 2026"
+  audience: "Everyone"
+  language_instruction: "English and spanish"
+  language_materials: "English and spanish"
+  links:
+    - url: "https://2026.ieee-colcaci.org/support/"
+      title: "Website and Supporters"
+  thumbnails:
+    - image: "/assets/images/thumbnails/edgeAIfoundation.jpg"
+      alt: "Edge AI Foundations"
+      url: "https://edgeaifoundation.org/"
+    - image: "/assets/images/thumbnails/AIEng4D.png"
+      alt: "AIEng4D"
+    - image: "/assets/images/thumbnails/pamplona.png"
+      alt: "Universidad de Pamplona de Colombia"
+      url: "https://www.unipamplona.edu.co/"
+    - image: "/assets/images/thumbnails/ieeecomp.png"
+      alt: "IEEE Computational Intelligence Society"
+      url: "https://cis.ieee.org/"
+  4D_Event: 1
+
 - title: "SciTinyML 2025 - Colombia"
   subtitle: "Scientific Use of Machine Learning on Low-Power Devices"
   date: "September 2025"
